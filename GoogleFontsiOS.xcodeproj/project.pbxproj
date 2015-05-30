@@ -63,7 +63,7 @@
 		473B89D41B19E5C1009658C0 = {
 			isa = PBXGroup;
 			children = (
-				473B89DF1B19E5C1009658C0 /* GoogleFontsiOS */,
+				473B89DF1B19E5C1009658C0 /* Example */,
 				473B89F91B19E5C1009658C0 /* GoogleFontsiOSTests */,
 				473B89DE1B19E5C1009658C0 /* Products */,
 			);
@@ -78,7 +78,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		473B89DF1B19E5C1009658C0 /* GoogleFontsiOS */ = {
+		473B89DF1B19E5C1009658C0 /* Example */ = {
 			isa = PBXGroup;
 			children = (
 				473B89E41B19E5C1009658C0 /* AppDelegate.h */,
@@ -90,7 +90,7 @@
 				473B89EF1B19E5C1009658C0 /* LaunchScreen.xib */,
 				473B89E01B19E5C1009658C0 /* Supporting Files */,
 			);
-			path = GoogleFontsiOS;
+			path = Example;
 			sourceTree = "<group>";
 		};
 		473B89E01B19E5C1009658C0 /* Supporting Files */ = {
@@ -349,7 +349,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = GoogleFontsiOS/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -359,7 +359,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = GoogleFontsiOS/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Example/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -418,6 +418,7 @@
 				473B8A021B19E5C1009658C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		473B8A031B19E5C1009658C0 /* Build configuration list for PBXNativeTarget "GoogleFontsiOSTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +427,7 @@
 				473B8A051B19E5C1009658C0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
