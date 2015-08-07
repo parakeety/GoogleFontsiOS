@@ -1,6 +1,9 @@
 require 'rubygems'
 require 'yaml'
 
+class_path = 'Pod/Classes/'
+asset_path = 'Pod/Assets/Fonts/'
+
 # spec
 spec = <<-EOS
 Pod::Spec.new do |s|
@@ -8,9 +11,10 @@ Pod::Spec.new do |s|
   s.version = '0.0.1'
   s.license = 'MIT'
   s.requires_arc = true
+  s.frameworks = 'UIKit', 'CoreText'
 
   s.subspec 'Core' do |ss|
-    ss.source_files = 'Classes/GFIFontLoader.{h,m}'
+    ss.source_files = '#{class_path}GFIFontLoader.{h,m}'
   end
 
 EOS
@@ -23,8 +27,8 @@ font_list.each do |font|
   subspec = <<-EOS
   s.subspec '#{font_family}' do |ss|
     ss.dependency 'GoogleFontsiOS/Core'
-    ss.source_files = 'Classes/#{font[:directory]}/UIFont+#{font_family}.{h,m}'
-    ss.resource_bundle = { '#{font_family}' => 'Assets/#{font[:directory]}/*.ttf' }
+    ss.source_files = '#{class_path}#{font[:directory]}/UIFont+#{font_family}.{h,m}'
+    ss.resource_bundle = { '#{font_family}' => '#{asset_path}#{font[:directory]}/*.ttf' }
   end
 
   EOS
