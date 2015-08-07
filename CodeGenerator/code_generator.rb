@@ -18,9 +18,8 @@ font_list.each do |font|
   EOS
 
   method_declarations = font[:fonts].map do |style|
-    style_name = style[:name].camelize(:lower)
-    style_name.gsub!('-', '')
-    "+ (instancetype)#{style_name}FontOfSize:(CGFloat)size;\n"
+    style_in_camel = style[:name].camelize(:lower).gsub!('-', '')
+    "+ (instancetype)#{style_in_camel}FontOfSize:(CGFloat)size;\n"
   end
 
   header_end = <<-EOS
@@ -48,11 +47,11 @@ font_list.each do |font|
   EOS
 
   method_bodies = font[:fonts].map do |style|
-    style_name = style[:name].camelize(:lower)
-    style_name.gsub!('-', '')
+    style_name = style[:name]
+    style_in_camel = style[:name].camelize(:lower).gsub!('-', '')
     style_file_name = style[:file_name]
     method = <<-EOS
-+ (instancetype)#{style_name}FontOfSize:(CGFloat)size {
++ (instancetype)#{style_in_camel}FontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"#{style_file_name}"
                    fromBundle:@"#{font_family}"
@@ -64,7 +63,6 @@ font_list.each do |font|
   end
 
   impl_end = <<-EOS
-
 @end
 
   EOS
