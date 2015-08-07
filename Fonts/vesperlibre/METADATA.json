@@ -1,0 +1,53 @@
+{
+  "name": "Vesper Libre",
+  "designer": "Mota Italic",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 124061,
+  "fonts": [
+    {
+      "name": "Vesper Libre",
+      "style": "normal",
+      "weight": 400,
+      "filename": "VesperLibre-Regular.ttf",
+      "postScriptName": "VesperLibre-Regular",
+      "fullName": "Vesper Libre",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    },
+    {
+      "name": "Vesper Libre",
+      "style": "normal",
+      "weight": 500,
+      "filename": "VesperLibre-Medium.ttf",
+      "postScriptName": "VesperLibre-Medium",
+      "fullName": "Vesper Libre Medium",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    },
+    {
+      "name": "Vesper Libre",
+      "style": "normal",
+      "weight": 700,
+      "filename": "VesperLibre-Bold.ttf",
+      "postScriptName": "VesperLibre-Bold",
+      "fullName": "Vesper Libre Bold",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    },
+    {
+      "name": "Vesper Libre",
+      "style": "normal",
+      "weight": 900,
+      "filename": "VesperLibre-Heavy.ttf",
+      "postScriptName": "VesperLibre-Heavy",
+      "fullName": "Vesper Libre Heavy",
+      "copyright": "Copyright (c) 2014 by Robert Keller."
+    }
+  ],
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext",
+    "menu"
+  ],
+  "dateAdded": "2014-07-14"
+}
