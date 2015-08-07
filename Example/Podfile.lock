@@ -1,7 +1,7 @@
 PODS:
-  - GoogleFontsiOS/ABeeZee (0.0.1):
+  - GoogleFontsiOS/ABeeZee (0.1):
     - GoogleFontsiOS/Core
-  - GoogleFontsiOS/Core (0.0.1)
+  - GoogleFontsiOS/Core (0.1)
 
 DEPENDENCIES:
   - GoogleFontsiOS/ABeeZee (from `../`)
@@ -11,6 +11,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GoogleFontsiOS: fc114a7d02c20878fce62d81b598ec7d66454b39
+  GoogleFontsiOS: 84a4ebc259691f0c237e14820d70388fc6567ad9
 
 COCOAPODS: 0.38.2

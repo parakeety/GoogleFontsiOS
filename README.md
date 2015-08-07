@@ -1,4 +1,5 @@
-# GoogleFontsiOS
+# GoogleFontsiOS [![CocoaPods](https://img.shields.io/cocoapods/v/GoogleFontsiOS.svg?style=flat)](http://cocoapods.org/?q=name%3AGoogleFontsiOS) [![CocoaPods](https://img.shields.io/cocoapods/p/GoogleFontsiOS.svg?style=flat)](https://github.com/parakeety/GoogleFontsiOS) [![CocoaPods](https://img.shields.io/cocoapods/l/GoogleFontsiOS.svg?style=flat)](https://github.com/parakeety/GoogleFontsiOS/blob/master/LICENSE)
+
 GoogleFontsiOS is a collection of CococPods subspec encapsulating Google Fonts.
 
 
