@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author = 'Yohei Okada'
   s.homepage = 'https://github.com/parakeety/GoogleFontsiOS'
   s.platform = :ios
-  s.source = { :git => 'git@github.com:parakeety/GoogleFontsiOS.git', :tag => s.version.to_s }
+  s.source = { :git => 'https://github.com/parakeety/GoogleFontsiOS.git', :tag => s.version.to_s }
   s.requires_arc = true
   s.frameworks = 'UIKit', 'CoreText'
 
