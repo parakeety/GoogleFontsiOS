@@ -1,5 +1,4 @@
 # GoogleFontsiOS
-========
 GoogleFontsiOS is a collection of CococPods subspec encapsulating Google Fonts.
 
 
