@@ -103,7 +103,8 @@
 				473B89EF1B19E5C1009658C0 /* LaunchScreen.xib */,
 				473B89E01B19E5C1009658C0 /* Supporting Files */,
 			);
-			path = Example;
+			name = Example;
+			path = ExampleApp;
 			sourceTree = "<group>";
 		};
 		473B89E01B19E5C1009658C0 /* Supporting Files */ = {
@@ -363,7 +364,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "$(SRCROOT)/Example/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/ExampleApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -373,7 +374,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "$(SRCROOT)/Example/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/ExampleApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
