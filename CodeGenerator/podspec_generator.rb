@@ -12,6 +12,7 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.summary = 'GoogleFontsiOS is a collection of CococPods subspec encapsulating Google Fonts.'
   s.author = 'Yohei Okada'
+  s.homepage = 'https://github.com/parakeety/GoogleFontsiOS'
   s.platform = :ios
   s.source = { :git => 'git@github.com:parakeety/GoogleFontsiOS.git', :tag => s.version.to_s }
   s.requires_arc = true
