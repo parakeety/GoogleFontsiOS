@@ -14,7 +14,7 @@ Installing all the fonts will take a lot of time and is not recommended.
 
 ## Usage
 Each font has a corresponding header and implementaton file in the form of UIFont category.
-```
+```objective-c
 #import <UIKit/UIKit.h>
 @interface UIFont (ABeeZee)
 
