@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		472857EC1B7099600013078E /* GFIFontLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = 472857EB1B7099600013078E /* GFIFontLoader.m */; };
 		473B89E31B19E5C1009658C0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 473B89E21B19E5C1009658C0 /* main.m */; };
 		473B89E61B19E5C1009658C0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 473B89E51B19E5C1009658C0 /* AppDelegate.m */; };
 		473B89E91B19E5C1009658C0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 473B89E81B19E5C1009658C0 /* ViewController.m */; };
@@ -104,7 +103,7 @@
 				473B89E01B19E5C1009658C0 /* Supporting Files */,
 			);
 			name = Example;
-			path = Example/ExampleApp;
+			path = ExampleApp;
 			sourceTree = "<group>";
 		};
 		473B89E01B19E5C1009658C0 /* Supporting Files */ = {
@@ -235,7 +234,6 @@
 			files = (
 				473B89E91B19E5C1009658C0 /* ViewController.m in Sources */,
 				473B89E61B19E5C1009658C0 /* AppDelegate.m in Sources */,
-				472857EC1B7099600013078E /* GFIFontLoader.m in Sources */,
 				473B89E31B19E5C1009658C0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -364,7 +362,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "$(SRCROOT)/Example/ExampleApp/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/ExampleApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -374,7 +372,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "$(SRCROOT)/Example/ExampleApp/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/ExampleApp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
