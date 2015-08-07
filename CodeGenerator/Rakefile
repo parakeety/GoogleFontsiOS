@@ -1,0 +1,20 @@
+namespace :generate do
+  task :all => [:podspec, :classes]
+
+  desc 'Parse METADATA.json under font directories'
+  task :font_data do
+    ruby 'metadata_parser.rb'
+  end
+
+  desc 'Generate podspec file from font meta data'
+  task :podspec => :font_data do
+    ruby 'podspec_generator.rb'
+  end
+
+  desc 'Generate header & implementation files from font meta data'
+  task :classes => :font_data do
+    ruby 'code_generator.rb'
+  end
+end
+
+task :default => 'generate:all'
