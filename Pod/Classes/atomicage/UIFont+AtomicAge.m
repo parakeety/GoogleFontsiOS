@@ -5,7 +5,7 @@
 
 @implementation UIFont (AtomicAge)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)atomicAgeFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"AtomicAge-Regular"
                    fromBundle:@"AtomicAge"

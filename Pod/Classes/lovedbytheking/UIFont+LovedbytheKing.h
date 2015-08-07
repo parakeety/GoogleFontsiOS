@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (LovedbytheKing)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)lovedbytheKingFontOfSize:(CGFloat)size;
 
 @end
 

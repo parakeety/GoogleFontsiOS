@@ -5,7 +5,7 @@
 
 @implementation UIFont (HomemadeApple)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)homemadeAppleFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"HomemadeApple"
                    fromBundle:@"HomemadeApple"

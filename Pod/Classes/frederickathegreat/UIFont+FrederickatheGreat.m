@@ -5,7 +5,7 @@
 
 @implementation UIFont (FrederickatheGreat)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)frederickatheGreatFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"FrederickatheGreat-Regular"
                    fromBundle:@"FrederickatheGreat"

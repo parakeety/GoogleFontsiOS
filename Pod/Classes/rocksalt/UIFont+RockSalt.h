@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (RockSalt)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)rockSaltFontOfSize:(CGFloat)size;
 
 @end
 

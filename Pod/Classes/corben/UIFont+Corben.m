@@ -13,7 +13,7 @@
   return [self fontWithName:@"Corben-Regular" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)corbenFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Corben-Bold"
                    fromBundle:@"Corben"

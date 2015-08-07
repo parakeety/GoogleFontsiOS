@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellEnglish)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLEnglishRomanFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeENrm28P"
                    fromBundle:@"IMFellEnglish"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"IM_FELL_English_Roman" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLEnglishItalicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeENit28P"
                    fromBundle:@"IMFellEnglish"

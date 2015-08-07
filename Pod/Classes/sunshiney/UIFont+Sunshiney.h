@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Sunshiney)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)sunshineyFontOfSize:(CGFloat)size;
 
 @end
 

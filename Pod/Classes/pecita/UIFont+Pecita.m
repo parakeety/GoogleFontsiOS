@@ -5,7 +5,7 @@
 
 @implementation UIFont (Pecita)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)pecitaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Pecita"
                    fromBundle:@"Pecita"

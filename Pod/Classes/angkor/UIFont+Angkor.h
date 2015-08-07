@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Angkor)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)angkorFontOfSize:(CGFloat)size;
 
 @end
 

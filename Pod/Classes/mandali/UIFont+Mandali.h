@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Mandali)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)mandaliFontOfSize:(CGFloat)size;
 
 @end
 

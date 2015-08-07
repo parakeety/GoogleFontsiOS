@@ -5,7 +5,7 @@
 
 @implementation UIFont (Candal)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)candalFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Candal"
                    fromBundle:@"Candal"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (GiveYouGlory)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)giveYouGloryFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"GiveYouGlory"
                    fromBundle:@"GiveYouGlory"

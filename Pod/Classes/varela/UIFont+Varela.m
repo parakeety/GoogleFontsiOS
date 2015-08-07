@@ -5,7 +5,7 @@
 
 @implementation UIFont (Varela)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)varelaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Varela-Regular"
                    fromBundle:@"Varela"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Koulen)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)koulenFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Koulen"
                    fromBundle:@"Koulen"

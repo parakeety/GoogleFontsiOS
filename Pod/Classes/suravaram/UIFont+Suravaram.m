@@ -5,7 +5,7 @@
 
 @implementation UIFont (Suravaram)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)suravaramFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Suravaram-Regular"
                    fromBundle:@"Suravaram"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (UnifrakturMaguntia)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)unifrakturMaguntiaFontOfSize:(CGFloat)size;
 
 @end
 

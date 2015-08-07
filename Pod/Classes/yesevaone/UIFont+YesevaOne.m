@@ -5,7 +5,7 @@
 
 @implementation UIFont (YesevaOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)yesevaOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"YesevaOne-Regular"
                    fromBundle:@"YesevaOne"

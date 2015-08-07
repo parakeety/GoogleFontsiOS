@@ -5,7 +5,7 @@
 
 @implementation UIFont (Smythe)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)smytheFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Smythe-Regular"
                    fromBundle:@"Smythe"

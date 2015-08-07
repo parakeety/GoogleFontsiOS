@@ -4,7 +4,7 @@
 + (instancetype)notoSerifBoldFontOfSize:(CGFloat)size;
 + (instancetype)notoSerifBoldItalicFontOfSize:(CGFloat)size;
 + (instancetype)notoSerifItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)notoSerifFontOfSize:(CGFloat)size;
 
 @end
 

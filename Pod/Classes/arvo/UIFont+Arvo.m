@@ -29,7 +29,7 @@
   return [self fontWithName:@"Arvo-Italic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)arvoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Arvo-Regular"
                    fromBundle:@"Arvo"

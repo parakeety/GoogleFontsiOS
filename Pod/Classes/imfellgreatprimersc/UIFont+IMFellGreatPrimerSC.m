@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellGreatPrimerSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLGreatPrimerSCFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeGPsc28P"
                    fromBundle:@"IMFellGreatPrimerSC"

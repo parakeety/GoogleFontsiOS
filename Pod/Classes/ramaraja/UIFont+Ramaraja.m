@@ -5,7 +5,7 @@
 
 @implementation UIFont (Ramaraja)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ramarajaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ramaraja-Regular"
                    fromBundle:@"Ramaraja"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Lusitana)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)lusitanaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Lusitana-Regular"
                    fromBundle:@"Lusitana"

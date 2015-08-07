@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Pecita)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)pecitaFontOfSize:(CGFloat)size;
 
 @end
 

@@ -5,7 +5,7 @@
 
 @implementation UIFont (DroidSansEthiopic)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)droidSansEthiopicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"DroidSansEthiopic-Regular"
                    fromBundle:@"DroidSansEthiopic"

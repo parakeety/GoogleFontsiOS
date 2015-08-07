@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellDoublePicaSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLDoublePicaSCFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeDPsc28P"
                    fromBundle:@"IMFellDoublePicaSC"

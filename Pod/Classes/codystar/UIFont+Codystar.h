@@ -2,7 +2,7 @@
 @interface UIFont (Codystar)
 
 + (instancetype)codystarLightFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)codystarFontOfSize:(CGFloat)size;
 
 @end
 

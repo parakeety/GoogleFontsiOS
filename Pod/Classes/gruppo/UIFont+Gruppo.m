@@ -5,7 +5,7 @@
 
 @implementation UIFont (Gruppo)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)gruppoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Gruppo-Regular"
                    fromBundle:@"Gruppo"

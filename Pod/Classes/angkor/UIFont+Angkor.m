@@ -5,7 +5,7 @@
 
 @implementation UIFont (Angkor)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)angkorFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Angkor"
                    fromBundle:@"Angkor"

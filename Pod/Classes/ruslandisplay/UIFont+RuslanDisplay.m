@@ -5,7 +5,7 @@
 
 @implementation UIFont (RuslanDisplay)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ruslanDisplayFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"RuslanDisplay"
                    fromBundle:@"RuslanDisplay"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (PrincessSofia)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)princessSofiaFontOfSize:(CGFloat)size;
 
 @end
 

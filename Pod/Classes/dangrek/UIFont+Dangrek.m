@@ -5,7 +5,7 @@
 
 @implementation UIFont (Dangrek)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)dangrekFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Dangrek"
                    fromBundle:@"Dangrek"

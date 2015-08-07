@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (IndieFlower)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)indieFlowerFontOfSize:(CGFloat)size;
 
 @end
 

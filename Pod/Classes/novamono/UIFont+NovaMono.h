@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NovaMono)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)novaMonoFontOfSize:(CGFloat)size;
 
 @end
 

@@ -5,7 +5,7 @@
 
 @implementation UIFont (LovedbytheKing)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)lovedbytheKingFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"LovedbytheKing"
                    fromBundle:@"LovedbytheKing"

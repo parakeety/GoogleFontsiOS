@@ -5,7 +5,7 @@
 
 @implementation UIFont (BowlbyOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)bowlbyOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"BowlbyOne-Regular"
                    fromBundle:@"BowlbyOne"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Redacted)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)redactedRegularFontOfSize:(CGFloat)size;
 
 @end
 

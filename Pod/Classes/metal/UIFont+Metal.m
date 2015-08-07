@@ -5,7 +5,7 @@
 
 @implementation UIFont (Metal)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)metalFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Metal"
                    fromBundle:@"Metal"

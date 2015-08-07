@@ -5,7 +5,7 @@
 
 @implementation UIFont (Frijole)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)frijoleFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Frijole-Regular"
                    fromBundle:@"Frijole"

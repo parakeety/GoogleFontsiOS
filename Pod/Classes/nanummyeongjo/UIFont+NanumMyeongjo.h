@@ -1,9 +1,9 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NanumMyeongjo)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)nanumMyeongjoFontOfSize:(CGFloat)size;
++ (instancetype)nanumMyeongjoBoldFontOfSize:(CGFloat)size;
++ (instancetype)nanumMyeongjoExtraBoldFontOfSize:(CGFloat)size;
 
 @end
 

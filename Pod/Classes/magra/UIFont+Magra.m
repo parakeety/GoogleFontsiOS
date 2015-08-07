@@ -5,7 +5,7 @@
 
 @implementation UIFont (Magra)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)magraFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Magra-Regular"
                    fromBundle:@"Magra"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (AnnieUseYourTelescope)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)annieUseYourTelescopeFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"AnnieUseYourTelescope"
                    fromBundle:@"AnnieUseYourTelescope"

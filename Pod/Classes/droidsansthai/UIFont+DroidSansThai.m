@@ -5,7 +5,7 @@
 
 @implementation UIFont (DroidSansThai)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)droidSansThaiFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"DroidSansThai-Regular"
                    fromBundle:@"DroidSansThai"

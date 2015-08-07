@@ -21,7 +21,7 @@
   return [self fontWithName:@"Merriweather-LightItalic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)merriweatherFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Merriweather-Regular"
                    fromBundle:@"Merriweather"

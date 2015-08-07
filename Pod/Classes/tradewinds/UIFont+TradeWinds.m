@@ -5,7 +5,7 @@
 
 @implementation UIFont (TradeWinds)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)tradeWindsFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"TradeWinds-Regular"
                    fromBundle:@"TradeWinds"

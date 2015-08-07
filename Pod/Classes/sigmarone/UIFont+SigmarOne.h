@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (SigmarOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)sigmarOneFontOfSize:(CGFloat)size;
 
 @end
 

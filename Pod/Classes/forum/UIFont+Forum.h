@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Forum)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)forumFontOfSize:(CGFloat)size;
 
 @end
 

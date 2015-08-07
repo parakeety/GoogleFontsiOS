@@ -2,7 +2,7 @@
 @interface UIFont (NewsCycle)
 
 + (instancetype)newsCycleBoldFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)newsCycleFontOfSize:(CGFloat)size;
 
 @end
 

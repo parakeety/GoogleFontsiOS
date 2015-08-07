@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellFrenchCanonSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLFrenchCanonSCFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeFCsc28P"
                    fromBundle:@"IMFellFrenchCanonSC"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (NanumMyeongjo)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumMyeongjoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumMyeongjo-Regular"
                    fromBundle:@"NanumMyeongjo"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"NanumMyeongjo" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumMyeongjoBoldFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumMyeongjo-Bold"
                    fromBundle:@"NanumMyeongjo"
@@ -21,7 +21,7 @@
   return [self fontWithName:@"NanumMyeongjoBold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumMyeongjoExtraBoldFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumMyeongjo-ExtraBold"
                    fromBundle:@"NanumMyeongjo"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (TheGirlNextDoor)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)theGirlNextDoorFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"TheGirlNextDoor"
                    fromBundle:@"TheGirlNextDoor"

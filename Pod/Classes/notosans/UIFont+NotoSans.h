@@ -4,7 +4,7 @@
 + (instancetype)notoSansBoldFontOfSize:(CGFloat)size;
 + (instancetype)notoSansBoldItalicFontOfSize:(CGFloat)size;
 + (instancetype)notoSansItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)notoSansFontOfSize:(CGFloat)size;
 
 @end
 

@@ -4,7 +4,7 @@
 + (instancetype)tinosBoldFontOfSize:(CGFloat)size;
 + (instancetype)tinosBoldItalicFontOfSize:(CGFloat)size;
 + (instancetype)tinosItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)tinosFontOfSize:(CGFloat)size;
 
 @end
 

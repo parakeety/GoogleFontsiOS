@@ -5,7 +5,7 @@
 
 @implementation UIFont (RockSalt)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)rockSaltFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"RockSalt"
                    fromBundle:@"RockSalt"

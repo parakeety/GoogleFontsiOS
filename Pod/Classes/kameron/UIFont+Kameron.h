@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Kameron)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)kameronFontOfSize:(CGFloat)size;
 + (instancetype)kameronBoldFontOfSize:(CGFloat)size;
 
 @end

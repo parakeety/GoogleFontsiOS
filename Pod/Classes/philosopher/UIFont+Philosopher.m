@@ -5,7 +5,7 @@
 
 @implementation UIFont (Philosopher)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)philosopherFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Philosopher-Regular"
                    fromBundle:@"Philosopher"

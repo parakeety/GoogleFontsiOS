@@ -5,7 +5,7 @@
 
 @implementation UIFont (WalterTurncoat)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)walterTurncoatFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"WalterTurncoat"
                    fromBundle:@"WalterTurncoat"

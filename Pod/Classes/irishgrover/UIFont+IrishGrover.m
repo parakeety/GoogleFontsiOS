@@ -5,7 +5,7 @@
 
 @implementation UIFont (IrishGrover)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)irishGroverFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IrishGrover"
                    fromBundle:@"IrishGrover"

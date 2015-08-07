@@ -5,7 +5,7 @@
 
 @implementation UIFont (TenorSans)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)tenorSansFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"TenorSans-Regular"
                    fromBundle:@"TenorSans"

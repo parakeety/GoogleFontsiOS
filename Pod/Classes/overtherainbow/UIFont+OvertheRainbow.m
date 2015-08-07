@@ -5,7 +5,7 @@
 
 @implementation UIFont (OvertheRainbow)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)overtheRainbowFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"OvertheRainbow"
                    fromBundle:@"OvertheRainbow"

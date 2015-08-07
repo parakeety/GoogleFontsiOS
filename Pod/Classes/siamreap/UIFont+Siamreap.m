@@ -5,7 +5,7 @@
 
 @implementation UIFont (Siamreap)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)siemreapFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Siemreap"
                    fromBundle:@"Siamreap"

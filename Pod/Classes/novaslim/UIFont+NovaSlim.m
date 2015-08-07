@@ -5,7 +5,7 @@
 
 @implementation UIFont (NovaSlim)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)novaSlimFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NovaSlim"
                    fromBundle:@"NovaSlim"

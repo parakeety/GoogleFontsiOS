@@ -5,7 +5,7 @@
 
 @implementation UIFont (BigshotOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)bigshotOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"BigshotOne"
                    fromBundle:@"BigshotOne"

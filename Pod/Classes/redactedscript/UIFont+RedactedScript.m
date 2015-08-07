@@ -5,7 +5,7 @@
 
 @implementation UIFont (RedactedScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)redactedScriptBoldFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"RedactedScript-Bold"
                    fromBundle:@"RedactedScript"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"RedactedScriptBold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)redactedScriptRegularFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"RedactedScript-Regular"
                    fromBundle:@"RedactedScript"

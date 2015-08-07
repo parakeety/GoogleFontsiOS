@@ -5,7 +5,7 @@
 
 @implementation UIFont (Gidugu)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)giduguFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Gidugu-Regular"
                    fromBundle:@"Gidugu"

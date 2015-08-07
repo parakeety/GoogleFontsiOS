@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Modak)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)modakFontOfSize:(CGFloat)size;
 
 @end
 

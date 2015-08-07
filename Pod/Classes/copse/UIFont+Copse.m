@@ -5,7 +5,7 @@
 
 @implementation UIFont (Copse)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)copseFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Copse-Regular"
                    fromBundle:@"Copse"

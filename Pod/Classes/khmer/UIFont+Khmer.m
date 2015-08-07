@@ -5,7 +5,7 @@
 
 @implementation UIFont (Khmer)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)khmerFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Khmer"
                    fromBundle:@"Khmer"

@@ -29,7 +29,7 @@
   return [self fontWithName:@"Cousine-Italic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)cousineFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Cousine-Regular"
                    fromBundle:@"Cousine"

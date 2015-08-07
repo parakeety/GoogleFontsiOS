@@ -5,7 +5,7 @@
 
 @implementation UIFont (GoblinOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)goblinOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"GoblinOne"
                    fromBundle:@"GoblinOne"

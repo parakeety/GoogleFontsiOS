@@ -5,7 +5,7 @@
 
 @implementation UIFont (Ovo)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ovoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ovo-Regular"
                    fromBundle:@"Ovo"

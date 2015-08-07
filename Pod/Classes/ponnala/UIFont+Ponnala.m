@@ -5,7 +5,7 @@
 
 @implementation UIFont (Ponnala)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ponnalaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ponnala-Regular"
                    fromBundle:@"Ponnala"

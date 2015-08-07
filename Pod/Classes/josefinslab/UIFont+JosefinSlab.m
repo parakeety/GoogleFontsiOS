@@ -37,7 +37,7 @@
   return [self fontWithName:@"JosefinSlab-LightItalic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)josefinSlabFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"JosefinSlab-Regular"
                    fromBundle:@"JosefinSlab"

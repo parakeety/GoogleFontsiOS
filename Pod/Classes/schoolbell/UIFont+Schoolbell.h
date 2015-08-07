@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Schoolbell)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)schoolbellFontOfSize:(CGFloat)size;
 
 @end
 

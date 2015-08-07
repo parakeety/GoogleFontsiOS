@@ -5,7 +5,7 @@
 
 @implementation UIFont (LakkiReddy)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)lakkiReddyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"LakkiReddy-Regular"
                    fromBundle:@"LakkiReddy"

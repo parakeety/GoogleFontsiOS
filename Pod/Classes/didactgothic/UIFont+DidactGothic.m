@@ -5,7 +5,7 @@
 
 @implementation UIFont (DidactGothic)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)didactGothicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"DidactGothic"
                    fromBundle:@"DidactGothic"

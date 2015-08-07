@@ -5,7 +5,7 @@
 
 @implementation UIFont (Play)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)playFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Play-Regular"
                    fromBundle:@"Play"

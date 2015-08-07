@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellFrenchCanon)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLFrenchCanonRomanFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeFCrm28P"
                    fromBundle:@"IMFellFrenchCanon"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"IM_FELL_French_Canon_Roman" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLFrenchCanonItalicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeFCit28P"
                    fromBundle:@"IMFellFrenchCanon"

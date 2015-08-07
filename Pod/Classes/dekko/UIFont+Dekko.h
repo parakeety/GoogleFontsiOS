@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Dekko)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)dekkoFontOfSize:(CGFloat)size;
 
 @end
 

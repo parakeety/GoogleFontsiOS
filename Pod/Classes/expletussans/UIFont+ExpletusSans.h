@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (ExpletusSans)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)expletusSansFontOfSize:(CGFloat)size;
 + (instancetype)expletusSansItalicFontOfSize:(CGFloat)size;
 + (instancetype)expletusSansMediumFontOfSize:(CGFloat)size;
 + (instancetype)expletusSansMediumItalicFontOfSize:(CGFloat)size;

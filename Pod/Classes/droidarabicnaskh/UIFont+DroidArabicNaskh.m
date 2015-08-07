@@ -5,7 +5,7 @@
 
 @implementation UIFont (DroidArabicNaskh)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)droidArabicNaskhFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"DroidNaskh-Regular"
                    fromBundle:@"DroidArabicNaskh"

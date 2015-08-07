@@ -5,7 +5,7 @@
 
 @implementation UIFont (Michroma)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)michromaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Michroma"
                    fromBundle:@"Michroma"

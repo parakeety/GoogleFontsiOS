@@ -2,7 +2,7 @@
 @interface UIFont (NotoSansHebrew)
 
 + (instancetype)notoSansHebrewBoldFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)notoSansHebrewFontOfSize:(CGFloat)size;
 
 @end
 

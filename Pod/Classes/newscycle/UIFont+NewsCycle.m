@@ -13,7 +13,7 @@
   return [self fontWithName:@"NewsCycle-Bold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)newsCycleFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NewsCycle-Regular"
                    fromBundle:@"NewsCycle"

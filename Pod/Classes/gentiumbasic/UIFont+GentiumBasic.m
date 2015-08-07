@@ -5,7 +5,7 @@
 
 @implementation UIFont (GentiumBasic)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)gentiumBasicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"GenBasR"
                    fromBundle:@"GentiumBasic"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Chewy)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)chewyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Chewy"
                    fromBundle:@"Chewy"

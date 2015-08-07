@@ -5,7 +5,7 @@
 
 @implementation UIFont (Neucha)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)neuchaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Neucha"
                    fromBundle:@"Neucha"

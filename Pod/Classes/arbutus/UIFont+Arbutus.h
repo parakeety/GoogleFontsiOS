@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Arbutus)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)arbutusFontOfSize:(CGFloat)size;
 
 @end
 

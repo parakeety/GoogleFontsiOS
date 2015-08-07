@@ -5,7 +5,7 @@
 
 @implementation UIFont (Megrim)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)megrimFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Megrim"
                    fromBundle:@"Megrim"

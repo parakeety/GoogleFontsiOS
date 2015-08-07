@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NovaRound)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)novaRoundFontOfSize:(CGFloat)size;
 
 @end
 

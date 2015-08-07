@@ -5,7 +5,7 @@
 
 @implementation UIFont (MysteryQuest)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)mysteryQuestFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"MysteryQuest-Regular"
                    fromBundle:@"MysteryQuest"

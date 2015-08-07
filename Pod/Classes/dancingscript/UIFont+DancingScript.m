@@ -5,7 +5,7 @@
 
 @implementation UIFont (DancingScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)dancingScriptFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"DancingScript-Regular"
                    fromBundle:@"DancingScript"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (ComingSoon)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)comingSoonFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"ComingSoon"
                    fromBundle:@"ComingSoon"

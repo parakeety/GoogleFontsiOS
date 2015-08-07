@@ -5,7 +5,7 @@
 
 @implementation UIFont (Taprom)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)tapromFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Taprom"
                    fromBundle:@"Taprom"

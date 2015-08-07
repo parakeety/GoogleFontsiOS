@@ -29,7 +29,7 @@
   return [self fontWithName:@"NotoSans-Italic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)notoSansFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NotoSans-Regular"
                    fromBundle:@"NotoSans"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Copse)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)copseFontOfSize:(CGFloat)size;
 
 @end
 

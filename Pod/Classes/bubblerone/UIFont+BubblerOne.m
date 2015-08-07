@@ -5,7 +5,7 @@
 
 @implementation UIFont (BubblerOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)bubblerOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"BubblerOne-Regular"
                    fromBundle:@"BubblerOne"

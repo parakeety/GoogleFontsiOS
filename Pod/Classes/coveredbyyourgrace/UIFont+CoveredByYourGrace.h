@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (CoveredByYourGrace)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)coveredByYourGraceFontOfSize:(CGFloat)size;
 
 @end
 

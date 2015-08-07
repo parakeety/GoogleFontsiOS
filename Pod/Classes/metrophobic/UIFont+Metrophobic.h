@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Metrophobic)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)metrophobicFontOfSize:(CGFloat)size;
 
 @end
 

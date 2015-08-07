@@ -5,7 +5,7 @@
 
 @implementation UIFont (Yellowtail)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)yellowtailFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Yellowtail-Regular"
                    fromBundle:@"Yellowtail"

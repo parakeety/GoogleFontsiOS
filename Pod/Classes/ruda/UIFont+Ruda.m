@@ -5,7 +5,7 @@
 
 @implementation UIFont (Ruda)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)rudaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ruda-Regular"
                    fromBundle:@"Ruda"

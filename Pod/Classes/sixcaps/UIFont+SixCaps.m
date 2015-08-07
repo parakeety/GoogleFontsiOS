@@ -5,7 +5,7 @@
 
 @implementation UIFont (SixCaps)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sixCapsFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"SixCaps"
                    fromBundle:@"SixCaps"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Dangrek)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)dangrekFontOfSize:(CGFloat)size;
 
 @end
 

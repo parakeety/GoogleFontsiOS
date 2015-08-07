@@ -5,7 +5,7 @@
 
 @implementation UIFont (CraftyGirls)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)craftyGirlsFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"CraftyGirls"
                    fromBundle:@"CraftyGirls"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Voltaire)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)voltaireFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Voltaire-Regular"
                    fromBundle:@"Voltaire"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (BigshotOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)bigshotOneFontOfSize:(CGFloat)size;
 
 @end
 

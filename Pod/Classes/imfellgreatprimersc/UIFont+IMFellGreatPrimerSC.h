@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (IMFellGreatPrimerSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)iMFELLGreatPrimerSCFontOfSize:(CGFloat)size;
 
 @end
 

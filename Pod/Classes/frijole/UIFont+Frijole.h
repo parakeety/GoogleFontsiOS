@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Frijole)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)frijoleFontOfSize:(CGFloat)size;
 
 @end
 

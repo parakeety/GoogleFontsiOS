@@ -5,7 +5,7 @@
 
 @implementation UIFont (NanumGothicCoding)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumGothicCodingFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumGothicCoding-Regular"
                    fromBundle:@"NanumGothicCoding"

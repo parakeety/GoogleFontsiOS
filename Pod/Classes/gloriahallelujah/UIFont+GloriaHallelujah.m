@@ -5,7 +5,7 @@
 
 @implementation UIFont (GloriaHallelujah)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)gloriaHallelujahFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"GloriaHallelujah"
                    fromBundle:@"GloriaHallelujah"

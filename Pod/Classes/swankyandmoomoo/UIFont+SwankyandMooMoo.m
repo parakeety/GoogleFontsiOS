@@ -5,7 +5,7 @@
 
 @implementation UIFont (SwankyandMooMoo)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)swankyandMooMooFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"SwankyandMooMoo"
                    fromBundle:@"SwankyandMooMoo"

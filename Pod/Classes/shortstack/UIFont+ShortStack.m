@@ -5,7 +5,7 @@
 
 @implementation UIFont (ShortStack)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)shortStackFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"ShortStack-Regular"
                    fromBundle:@"ShortStack"

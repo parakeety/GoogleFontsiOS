@@ -1,9 +1,9 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NanumGothic)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)nanumGothicFontOfSize:(CGFloat)size;
++ (instancetype)nanumGothicBoldFontOfSize:(CGFloat)size;
++ (instancetype)nanumGothicExtraBoldFontOfSize:(CGFloat)size;
 
 @end
 

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Mako)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)makoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Mako-Regular"
                    fromBundle:@"Mako"

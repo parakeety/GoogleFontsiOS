@@ -5,7 +5,7 @@
 
 @implementation UIFont (Rancho)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ranchoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Rancho-Regular"
                    fromBundle:@"Rancho"

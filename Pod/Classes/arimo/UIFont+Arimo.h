@@ -4,7 +4,7 @@
 + (instancetype)arimoBoldFontOfSize:(CGFloat)size;
 + (instancetype)arimoBoldItalicFontOfSize:(CGFloat)size;
 + (instancetype)arimoItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)arimoFontOfSize:(CGFloat)size;
 
 @end
 

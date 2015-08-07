@@ -5,7 +5,7 @@
 
 @implementation UIFont (NanumGothic)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumGothicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumGothic-Regular"
                    fromBundle:@"NanumGothic"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"NanumGothic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumGothicBoldFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumGothic-Bold"
                    fromBundle:@"NanumGothic"
@@ -21,7 +21,7 @@
   return [self fontWithName:@"NanumGothicBold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumGothicExtraBoldFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumGothic-ExtraBold"
                    fromBundle:@"NanumGothic"

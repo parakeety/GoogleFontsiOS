@@ -5,7 +5,7 @@
 
 @implementation UIFont (Kameron)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)kameronFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Kameron-Regular"
                    fromBundle:@"Kameron"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Aldrich)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)aldrichFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Aldrich-Regular"
                    fromBundle:@"Aldrich"

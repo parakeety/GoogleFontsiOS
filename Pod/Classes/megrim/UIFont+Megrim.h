@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Megrim)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)megrimFontOfSize:(CGFloat)size;
 
 @end
 

@@ -13,7 +13,7 @@
   return [self fontWithName:@"Rokkitt-Light" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)rokkittFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Rokkitt-Regular"
                    fromBundle:@"Rokkitt"

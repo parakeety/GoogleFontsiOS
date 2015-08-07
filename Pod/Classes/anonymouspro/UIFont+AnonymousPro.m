@@ -5,7 +5,7 @@
 
 @implementation UIFont (AnonymousPro)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)anonymousProFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"AnonymousPro-Regular"
                    fromBundle:@"AnonymousPro"

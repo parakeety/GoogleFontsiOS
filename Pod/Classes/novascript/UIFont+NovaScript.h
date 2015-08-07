@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NovaScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)novaScriptFontOfSize:(CGFloat)size;
 
 @end
 

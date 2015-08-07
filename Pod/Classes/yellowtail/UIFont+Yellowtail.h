@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Yellowtail)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)yellowtailFontOfSize:(CGFloat)size;
 
 @end
 

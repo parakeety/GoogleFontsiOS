@@ -5,7 +5,7 @@
 
 @implementation UIFont (Sunshiney)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sunshineyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Sunshiney"
                    fromBundle:@"Sunshiney"

@@ -21,7 +21,7 @@
   return [self fontWithName:@"OpenSansLight-Italic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)openSansFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"OpenSans-Regular"
                    fromBundle:@"OpenSans"

@@ -13,7 +13,7 @@
   return [self fontWithName:@"Skranji-Bold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)skranjiFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Skranji-Regular"
                    fromBundle:@"Skranji"

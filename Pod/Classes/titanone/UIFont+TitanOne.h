@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (TitanOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)titanOneFontOfSize:(CGFloat)size;
 
 @end
 

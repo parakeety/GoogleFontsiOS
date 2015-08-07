@@ -5,7 +5,7 @@
 
 @implementation UIFont (Trochut)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)trochutFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Trochut-Regular"
                    fromBundle:@"Trochut"

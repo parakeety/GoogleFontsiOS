@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Siamreap)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)siemreapFontOfSize:(CGFloat)size;
 
 @end
 

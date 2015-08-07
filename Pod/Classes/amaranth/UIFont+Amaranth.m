@@ -5,7 +5,7 @@
 
 @implementation UIFont (Amaranth)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)amaranthFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Amaranth-Regular"
                    fromBundle:@"Amaranth"

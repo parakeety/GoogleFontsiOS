@@ -5,7 +5,7 @@
 
 @implementation UIFont (Preahvihear)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)preahVihearFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Preahvihear"
                    fromBundle:@"Preahvihear"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Trocchi)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)trocchiFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Trocchi-Regular"
                    fromBundle:@"Trocchi"

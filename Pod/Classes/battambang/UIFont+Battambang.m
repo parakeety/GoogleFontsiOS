@@ -5,7 +5,7 @@
 
 @implementation UIFont (Battambang)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)battambangFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Battambang-Regular"
                    fromBundle:@"Battambang"

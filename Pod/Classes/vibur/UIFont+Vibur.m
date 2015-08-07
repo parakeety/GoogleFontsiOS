@@ -5,7 +5,7 @@
 
 @implementation UIFont (Vibur)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)viburFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Vibur-Regular"
                    fromBundle:@"Vibur"

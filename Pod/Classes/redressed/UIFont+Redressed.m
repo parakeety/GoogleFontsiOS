@@ -5,7 +5,7 @@
 
 @implementation UIFont (Redressed)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)redressedFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Redressed"
                    fromBundle:@"Redressed"

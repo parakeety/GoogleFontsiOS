@@ -5,7 +5,7 @@
 
 @implementation UIFont (OdorMeanChey)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)odorMeanCheyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"OdorMeanChey"
                    fromBundle:@"OdorMeanChey"

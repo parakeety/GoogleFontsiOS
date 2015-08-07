@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (JollyLodger)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)jollyLodgerFontOfSize:(CGFloat)size;
 
 @end
 

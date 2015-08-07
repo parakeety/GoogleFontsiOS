@@ -5,7 +5,7 @@
 
 @implementation UIFont (CarterOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)carterOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"CarterOne"
                    fromBundle:@"CarterOne"

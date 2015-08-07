@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Chewy)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)chewyFontOfSize:(CGFloat)size;
 
 @end
 

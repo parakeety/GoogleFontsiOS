@@ -5,7 +5,7 @@
 
 @implementation UIFont (Moulpali)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)moulPaliFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Moulpali"
                    fromBundle:@"Moulpali"

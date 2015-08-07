@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Trocchi)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)trocchiFontOfSize:(CGFloat)size;
 
 @end
 

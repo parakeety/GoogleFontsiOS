@@ -5,7 +5,7 @@
 
 @implementation UIFont (NovaRound)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)novaRoundFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NovaRound"
                    fromBundle:@"NovaRound"

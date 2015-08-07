@@ -5,7 +5,7 @@
 
 @implementation UIFont (WaitingfortheSunrise)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)waitingfortheSunriseFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"WaitingfortheSunrise"
                    fromBundle:@"WaitingfortheSunrise"

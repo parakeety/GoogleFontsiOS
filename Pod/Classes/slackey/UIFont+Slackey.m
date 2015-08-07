@@ -5,7 +5,7 @@
 
 @implementation UIFont (Slackey)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)slackeyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Slackey"
                    fromBundle:@"Slackey"

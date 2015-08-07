@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Suranna)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)surannaFontOfSize:(CGFloat)size;
 
 @end
 

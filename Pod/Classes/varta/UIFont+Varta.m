@@ -21,7 +21,7 @@
   return [self fontWithName:@"Varta-Regular" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)vartaSemiBoldFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Varta-SemiBold"
                    fromBundle:@"Varta"

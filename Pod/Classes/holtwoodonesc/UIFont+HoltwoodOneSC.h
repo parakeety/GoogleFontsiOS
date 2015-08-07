@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (HoltwoodOneSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)holtwoodOneSCFontOfSize:(CGFloat)size;
 
 @end
 

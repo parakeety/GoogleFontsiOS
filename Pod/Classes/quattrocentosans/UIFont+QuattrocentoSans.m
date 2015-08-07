@@ -5,7 +5,7 @@
 
 @implementation UIFont (QuattrocentoSans)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)quattrocentoSansFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"QuattrocentoSans-Regular"
                    fromBundle:@"QuattrocentoSans"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (WireOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)wireOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"WireOne"
                    fromBundle:@"WireOne"

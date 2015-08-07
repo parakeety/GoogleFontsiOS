@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Anton)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)antonFontOfSize:(CGFloat)size;
 
 @end
 

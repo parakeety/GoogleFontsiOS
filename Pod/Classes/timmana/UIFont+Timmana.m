@@ -5,7 +5,7 @@
 
 @implementation UIFont (Timmana)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)timmanaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Timmana-Regular"
                    fromBundle:@"Timmana"

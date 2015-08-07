@@ -5,7 +5,7 @@
 
 @implementation UIFont (Thabit)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)thabitFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Thabit"
                    fromBundle:@"Thabit"

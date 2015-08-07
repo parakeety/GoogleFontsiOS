@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (TenaliRamakrishna)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)tenaliRamakrishnaFontOfSize:(CGFloat)size;
 
 @end
 

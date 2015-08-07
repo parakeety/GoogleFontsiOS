@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Shanti)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)shantiFontOfSize:(CGFloat)size;
 
 @end
 

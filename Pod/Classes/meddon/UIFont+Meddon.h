@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Meddon)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)meddonFontOfSize:(CGFloat)size;
 
 @end
 

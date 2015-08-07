@@ -13,7 +13,7 @@
   return [self fontWithName:@"Merienda-Bold" size:size];
 }
 
-+ (instancetype)meriendaRegular0WtFontOfSize:(CGFloat)size {
++ (instancetype)meriendaRegular0wtFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Merienda-Regular"
                    fromBundle:@"Merienda"

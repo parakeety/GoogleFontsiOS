@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Smythe)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)smytheFontOfSize:(CGFloat)size;
 
 @end
 

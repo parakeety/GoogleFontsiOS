@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (TradeWinds)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)tradeWindsFontOfSize:(CGFloat)size;
 
 @end
 

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Schoolbell)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)schoolbellFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Schoolbell"
                    fromBundle:@"Schoolbell"

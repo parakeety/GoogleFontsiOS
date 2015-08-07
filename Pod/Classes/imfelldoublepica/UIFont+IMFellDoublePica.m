@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellDoublePica)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLDoublePicaRomanFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeDPrm28P"
                    fromBundle:@"IMFellDoublePica"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"IM_FELL_Double_Pica_Roman" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLDoublePicaItalicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeDPit28P"
                    fromBundle:@"IMFellDoublePica"

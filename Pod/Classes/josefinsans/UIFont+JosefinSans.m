@@ -37,7 +37,7 @@
   return [self fontWithName:@"JosefinSans-LightItalic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)josefinSansFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"JosefinSans-Regular"
                    fromBundle:@"JosefinSans"

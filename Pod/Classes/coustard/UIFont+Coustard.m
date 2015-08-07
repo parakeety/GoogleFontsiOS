@@ -5,7 +5,7 @@
 
 @implementation UIFont (Coustard)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)coustardFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Coustard-Regular"
                    fromBundle:@"Coustard"

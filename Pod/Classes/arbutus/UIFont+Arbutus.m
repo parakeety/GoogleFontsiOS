@@ -5,7 +5,7 @@
 
 @implementation UIFont (Arbutus)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)arbutusFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Arbutus-Regular"
                    fromBundle:@"Arbutus"

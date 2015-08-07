@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Moulpali)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)moulPaliFontOfSize:(CGFloat)size;
 
 @end
 

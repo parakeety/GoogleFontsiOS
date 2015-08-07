@@ -5,7 +5,7 @@
 
 @implementation UIFont (SansitaOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sansitaOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"SansitaOne"
                    fromBundle:@"SansitaOne"

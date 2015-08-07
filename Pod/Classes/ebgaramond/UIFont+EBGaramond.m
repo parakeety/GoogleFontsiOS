@@ -5,7 +5,7 @@
 
 @implementation UIFont (EBGaramond)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)eBGaramondFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"EBGaramond-Regular"
                    fromBundle:@"EBGaramond"

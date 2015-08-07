@@ -5,7 +5,7 @@
 
 @implementation UIFont (Inika)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)inikaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Inika-Regular"
                    fromBundle:@"Inika"

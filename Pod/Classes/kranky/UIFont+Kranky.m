@@ -5,7 +5,7 @@
 
 @implementation UIFont (Kranky)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)krankyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Kranky"
                    fromBundle:@"Kranky"

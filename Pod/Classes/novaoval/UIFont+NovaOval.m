@@ -5,7 +5,7 @@
 
 @implementation UIFont (NovaOval)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)novaOvalFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NovaOval"
                    fromBundle:@"NovaOval"

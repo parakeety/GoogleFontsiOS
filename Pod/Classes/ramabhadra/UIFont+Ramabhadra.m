@@ -5,7 +5,7 @@
 
 @implementation UIFont (Ramabhadra)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ramabhadraFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ramabhadra-Regular"
                    fromBundle:@"Ramabhadra"

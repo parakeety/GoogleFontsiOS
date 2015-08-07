@@ -5,7 +5,7 @@
 
 @implementation UIFont (MavenPro)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)mavenProRegularFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"MavenPro-Regular"
                    fromBundle:@"MavenPro"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"MavenProRegular" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)mavenProMediumFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"MavenPro-Medium"
                    fromBundle:@"MavenPro"
@@ -21,7 +21,7 @@
   return [self fontWithName:@"MavenProMedium" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)mavenProBoldFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"MavenPro-Bold"
                    fromBundle:@"MavenPro"
@@ -29,7 +29,7 @@
   return [self fontWithName:@"MavenProBold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)mavenProBlackFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"MavenPro-Black"
                    fromBundle:@"MavenPro"

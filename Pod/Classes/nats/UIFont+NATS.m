@@ -5,7 +5,7 @@
 
 @implementation UIFont (NATS)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nATSFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NATS-Regular"
                    fromBundle:@"NATS"

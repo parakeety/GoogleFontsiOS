@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (IMFellDoublePicaSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)iMFELLDoublePicaSCFontOfSize:(CGFloat)size;
 
 @end
 

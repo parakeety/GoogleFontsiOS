@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Asset)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)assetFontOfSize:(CGFloat)size;
 
 @end
 

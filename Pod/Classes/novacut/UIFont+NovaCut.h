@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NovaCut)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)novaCutFontOfSize:(CGFloat)size;
 
 @end
 

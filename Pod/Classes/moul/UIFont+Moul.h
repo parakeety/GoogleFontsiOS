@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Moul)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)moulFontOfSize:(CGFloat)size;
 
 @end
 

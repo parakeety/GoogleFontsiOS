@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Monofett)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)monofettFontOfSize:(CGFloat)size;
 
 @end
 

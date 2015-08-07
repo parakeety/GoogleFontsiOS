@@ -5,7 +5,7 @@
 
 @implementation UIFont (NovaScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)novaScriptFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NovaScript"
                    fromBundle:@"NovaScript"

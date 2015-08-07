@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellGreatPrimer)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLGreatPrimerRomanFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeGPrm28P"
                    fromBundle:@"IMFellGreatPrimer"
@@ -13,7 +13,7 @@
   return [self fontWithName:@"IM_FELL_Great_Primer_Roman" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLGreatPrimerItalicFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeGPit28P"
                    fromBundle:@"IMFellGreatPrimer"

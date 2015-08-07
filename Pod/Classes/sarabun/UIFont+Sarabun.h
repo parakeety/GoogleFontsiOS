@@ -4,7 +4,7 @@
 + (instancetype)sarabunBoldFontOfSize:(CGFloat)size;
 + (instancetype)sarabunBoldItalicFontOfSize:(CGFloat)size;
 + (instancetype)sarabunItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)sarabunFontOfSize:(CGFloat)size;
 
 @end
 

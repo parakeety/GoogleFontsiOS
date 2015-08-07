@@ -5,7 +5,7 @@
 
 @implementation UIFont (Shanti)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)shantiFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Shanti-Regular"
                    fromBundle:@"Shanti"

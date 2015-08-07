@@ -5,7 +5,7 @@
 
 @implementation UIFont (Brawler)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)brawlerFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Brawler-Regular"
                    fromBundle:@"Brawler"

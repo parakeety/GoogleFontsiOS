@@ -5,7 +5,7 @@
 
 @implementation UIFont (Unkempt)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)unkemptFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Unkempt-Regular"
                    fromBundle:@"Unkempt"

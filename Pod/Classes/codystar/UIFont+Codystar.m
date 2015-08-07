@@ -13,7 +13,7 @@
   return [self fontWithName:@"Codystar-Light" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)codystarFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Codystar-Regular"
                    fromBundle:@"Codystar"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (PaytoneOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)paytoneOneFontOfSize:(CGFloat)size;
 
 @end
 

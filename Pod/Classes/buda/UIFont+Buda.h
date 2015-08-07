@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Buda)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)budaFontOfSize:(CGFloat)size;
 
 @end
 

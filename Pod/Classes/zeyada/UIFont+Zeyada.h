@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Zeyada)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)zeyadaFontOfSize:(CGFloat)size;
 
 @end
 

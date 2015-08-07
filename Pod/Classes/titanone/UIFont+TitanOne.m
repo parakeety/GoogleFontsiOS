@@ -5,7 +5,7 @@
 
 @implementation UIFont (TitanOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)titanOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"TitanOne-Regular"
                    fromBundle:@"TitanOne"

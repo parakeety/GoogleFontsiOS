@@ -5,7 +5,7 @@
 
 @implementation UIFont (NTR)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nTRFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NTR-Regular"
                    fromBundle:@"NTR"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (CabinCondensed)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)cabinCondensedFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"CabinCondensed-Regular"
                    fromBundle:@"CabinCondensed"

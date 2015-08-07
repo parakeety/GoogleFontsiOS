@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Preahvihear)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)preahVihearFontOfSize:(CGFloat)size;
 
 @end
 

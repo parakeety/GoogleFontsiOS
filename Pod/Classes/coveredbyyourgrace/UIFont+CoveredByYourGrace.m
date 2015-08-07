@@ -5,7 +5,7 @@
 
 @implementation UIFont (CoveredByYourGrace)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)coveredByYourGraceFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"CoveredByYourGrace"
                    fromBundle:@"CoveredByYourGrace"

@@ -4,7 +4,7 @@
 + (instancetype)arvoBoldFontOfSize:(CGFloat)size;
 + (instancetype)arvoBoldItalicFontOfSize:(CGFloat)size;
 + (instancetype)arvoItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)arvoFontOfSize:(CGFloat)size;
 
 @end
 

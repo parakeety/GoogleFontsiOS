@@ -5,7 +5,7 @@
 
 @implementation UIFont (NotoSansSymbols)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)notoSansSymbolsFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NotoSansSymbols-Regular"
                    fromBundle:@"NotoSansSymbols"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Bokor)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)bokorFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Bokor"
                    fromBundle:@"Bokor"

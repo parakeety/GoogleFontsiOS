@@ -5,7 +5,7 @@
 
 @implementation UIFont (Esteban)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)estebanFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Esteban-Regular"
                    fromBundle:@"Esteban"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (ArchitectsDaughter)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)architectsDaughterFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"ArchitectsDaughter"
                    fromBundle:@"ArchitectsDaughter"

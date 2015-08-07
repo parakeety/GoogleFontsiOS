@@ -5,7 +5,7 @@
 
 @implementation UIFont (Peddana)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)peddanaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Peddana-Regular"
                    fromBundle:@"Peddana"

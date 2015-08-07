@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (PorterSansBlock)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)porterSansBlockFontOfSize:(CGFloat)size;
 
 @end
 

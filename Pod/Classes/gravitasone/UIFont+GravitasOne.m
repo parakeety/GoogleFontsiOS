@@ -5,7 +5,7 @@
 
 @implementation UIFont (GravitasOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)gravitasOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"GravitasOne"
                    fromBundle:@"GravitasOne"

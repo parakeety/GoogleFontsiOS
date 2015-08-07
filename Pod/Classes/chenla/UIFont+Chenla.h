@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Chenla)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)chenlaFontOfSize:(CGFloat)size;
 
 @end
 

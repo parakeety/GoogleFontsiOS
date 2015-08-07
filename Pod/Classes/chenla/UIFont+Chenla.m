@@ -5,7 +5,7 @@
 
 @implementation UIFont (Chenla)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)chenlaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Chenla"
                    fromBundle:@"Chenla"

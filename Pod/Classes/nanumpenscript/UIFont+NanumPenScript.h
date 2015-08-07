@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NanumPenScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)nanumPenFontOfSize:(CGFloat)size;
 
 @end
 

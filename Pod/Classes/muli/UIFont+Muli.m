@@ -21,7 +21,7 @@
   return [self fontWithName:@"Muli-LightItalic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)muliFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Muli-Regular"
                    fromBundle:@"Muli"

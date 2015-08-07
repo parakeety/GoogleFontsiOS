@@ -5,7 +5,7 @@
 
 @implementation UIFont (Meddon)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)meddonFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Meddon"
                    fromBundle:@"Meddon"

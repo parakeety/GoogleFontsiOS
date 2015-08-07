@@ -3,7 +3,7 @@
 
 + (instancetype)openSansLightFontOfSize:(CGFloat)size;
 + (instancetype)openSansLightItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)openSansFontOfSize:(CGFloat)size;
 + (instancetype)openSansItalicFontOfSize:(CGFloat)size;
 + (instancetype)openSansSemiboldFontOfSize:(CGFloat)size;
 + (instancetype)openSansSemiboldItalicFontOfSize:(CGFloat)size;

@@ -5,7 +5,7 @@
 
 @implementation UIFont (SreeKrushnadevaraya)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sreeKrushnadevarayaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"SreeKrushnadevaraya-Regular"
                    fromBundle:@"SreeKrushnadevaraya"

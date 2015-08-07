@@ -5,7 +5,7 @@
 
 @implementation UIFont (Snippet)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)snippetFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Snippet"
                    fromBundle:@"Snippet"

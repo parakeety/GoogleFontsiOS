@@ -1,8 +1,8 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (IMFellEnglish)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)iMFELLEnglishRomanFontOfSize:(CGFloat)size;
++ (instancetype)iMFELLEnglishItalicFontOfSize:(CGFloat)size;
 
 @end
 

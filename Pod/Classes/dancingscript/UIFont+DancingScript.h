@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (DancingScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)dancingScriptFontOfSize:(CGFloat)size;
 + (instancetype)dancingScriptBoldFontOfSize:(CGFloat)size;
 
 @end

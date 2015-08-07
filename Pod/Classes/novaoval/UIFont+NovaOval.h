@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NovaOval)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)novaOvalFontOfSize:(CGFloat)size;
 
 @end
 

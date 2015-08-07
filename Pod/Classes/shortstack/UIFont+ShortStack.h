@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (ShortStack)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)shortStackFontOfSize:(CGFloat)size;
 
 @end
 

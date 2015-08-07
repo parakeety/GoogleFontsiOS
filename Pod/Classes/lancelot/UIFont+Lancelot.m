@@ -5,7 +5,7 @@
 
 @implementation UIFont (Lancelot)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)lancelotFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Lancelot-Regular"
                    fromBundle:@"Lancelot"

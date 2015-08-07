@@ -13,7 +13,7 @@
   return [self fontWithName:@"Sintony-Bold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sintonyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Sintony-Regular"
                    fromBundle:@"Sintony"

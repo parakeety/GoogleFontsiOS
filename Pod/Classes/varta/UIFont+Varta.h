@@ -3,7 +3,7 @@
 
 + (instancetype)vartaLightFontOfSize:(CGFloat)size;
 + (instancetype)vartaRegularFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)vartaSemiBoldFontOfSize:(CGFloat)size;
 + (instancetype)vartaBoldFontOfSize:(CGFloat)size;
 
 @end

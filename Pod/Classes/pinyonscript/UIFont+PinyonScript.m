@@ -5,7 +5,7 @@
 
 @implementation UIFont (PinyonScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)pinyonScriptFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"PinyonScript-Regular"
                    fromBundle:@"PinyonScript"

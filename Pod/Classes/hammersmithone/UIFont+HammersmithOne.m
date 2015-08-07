@@ -5,7 +5,7 @@
 
 @implementation UIFont (HammersmithOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)hammersmithOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"HammersmithOne-Regular"
                    fromBundle:@"HammersmithOne"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (KdamThmor)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)kdamThmorFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"KdamThmor-Regular"
                    fromBundle:@"KdamThmor"

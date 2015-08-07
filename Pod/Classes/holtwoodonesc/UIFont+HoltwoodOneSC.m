@@ -5,7 +5,7 @@
 
 @implementation UIFont (HoltwoodOneSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)holtwoodOneSCFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"HoltwoodOneSC"
                    fromBundle:@"HoltwoodOneSC"

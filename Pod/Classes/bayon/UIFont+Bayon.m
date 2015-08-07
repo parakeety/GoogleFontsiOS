@@ -5,7 +5,7 @@
 
 @implementation UIFont (Bayon)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)bayonFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Bayon"
                    fromBundle:@"Bayon"

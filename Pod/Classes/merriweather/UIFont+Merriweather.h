@@ -3,7 +3,7 @@
 
 + (instancetype)merriweatherLightFontOfSize:(CGFloat)size;
 + (instancetype)merriweatherLightItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)merriweatherFontOfSize:(CGFloat)size;
 + (instancetype)merriweatherItalicFontOfSize:(CGFloat)size;
 + (instancetype)merriweatherBoldFontOfSize:(CGFloat)size;
 + (instancetype)merriweatherBoldItalicFontOfSize:(CGFloat)size;

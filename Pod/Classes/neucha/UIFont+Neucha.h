@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Neucha)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)neuchaFontOfSize:(CGFloat)size;
 
 @end
 

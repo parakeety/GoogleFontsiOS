@@ -5,7 +5,7 @@
 
 @implementation UIFont (Scheherazade)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)scheherazadeFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Scheherazade-R"
                    fromBundle:@"Scheherazade"

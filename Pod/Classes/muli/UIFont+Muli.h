@@ -3,7 +3,7 @@
 
 + (instancetype)muliLightFontOfSize:(CGFloat)size;
 + (instancetype)muliLightItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)muliFontOfSize:(CGFloat)size;
 + (instancetype)muliItalicFontOfSize:(CGFloat)size;
 
 @end

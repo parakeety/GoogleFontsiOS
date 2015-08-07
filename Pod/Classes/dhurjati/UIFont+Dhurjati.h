@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Dhurjati)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)dhurjatiFontOfSize:(CGFloat)size;
 
 @end
 

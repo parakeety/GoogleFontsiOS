@@ -5,7 +5,7 @@
 
 @implementation UIFont (Dhyana)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)dhyanaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Dhyana-Regular"
                    fromBundle:@"Dhyana"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Astloch)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)astlochFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Astloch-Regular"
                    fromBundle:@"Astloch"

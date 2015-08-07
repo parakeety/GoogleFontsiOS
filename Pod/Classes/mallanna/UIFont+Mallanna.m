@@ -5,7 +5,7 @@
 
 @implementation UIFont (Mallanna)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)mallannaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Mallanna-Regular"
                    fromBundle:@"Mallanna"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Brawler)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)brawlerFontOfSize:(CGFloat)size;
 
 @end
 

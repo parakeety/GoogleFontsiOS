@@ -5,7 +5,7 @@
 
 @implementation UIFont (ExpletusSans)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)expletusSansFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"ExpletusSans-Regular"
                    fromBundle:@"ExpletusSans"

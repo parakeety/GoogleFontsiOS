@@ -5,7 +5,7 @@
 
 @implementation UIFont (Modak)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)modakFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Modak-Regular"
                    fromBundle:@"Modak"

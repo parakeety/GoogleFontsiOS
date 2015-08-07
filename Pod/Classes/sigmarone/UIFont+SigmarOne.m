@@ -5,7 +5,7 @@
 
 @implementation UIFont (SigmarOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sigmarOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"SigmarOne"
                    fromBundle:@"SigmarOne"

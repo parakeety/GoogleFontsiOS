@@ -2,7 +2,7 @@
 @interface UIFont (Skranji)
 
 + (instancetype)skranjiBoldFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)skranjiFontOfSize:(CGFloat)size;
 
 @end
 

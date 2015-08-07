@@ -5,7 +5,7 @@
 
 @implementation UIFont (Dekko)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)dekkoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Dekko-Regular"
                    fromBundle:@"Dekko"

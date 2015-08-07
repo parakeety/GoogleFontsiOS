@@ -5,7 +5,7 @@
 
 @implementation UIFont (Ruluko)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)rulukoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ruluko-Regular"
                    fromBundle:@"Ruluko"

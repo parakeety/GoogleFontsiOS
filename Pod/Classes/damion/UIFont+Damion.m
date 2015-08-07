@@ -5,7 +5,7 @@
 
 @implementation UIFont (Damion)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)damionFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Damion-Regular"
                    fromBundle:@"Damion"

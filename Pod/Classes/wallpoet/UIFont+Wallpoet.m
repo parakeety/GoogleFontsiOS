@@ -5,7 +5,7 @@
 
 @implementation UIFont (Wallpoet)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)wallpoetFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Wallpoet-Regular"
                    fromBundle:@"Wallpoet"

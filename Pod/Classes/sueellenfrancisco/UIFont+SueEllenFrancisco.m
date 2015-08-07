@@ -5,7 +5,7 @@
 
 @implementation UIFont (SueEllenFrancisco)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sueEllenFranciscoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"SueEllenFrancisco"
                    fromBundle:@"SueEllenFrancisco"

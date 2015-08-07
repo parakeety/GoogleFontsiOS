@@ -5,7 +5,7 @@
 
 @implementation UIFont (LobsterTwo)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)lobsterTwoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"LobsterTwo-Regular"
                    fromBundle:@"LobsterTwo"

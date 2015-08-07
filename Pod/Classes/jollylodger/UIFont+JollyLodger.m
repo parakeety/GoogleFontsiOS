@@ -5,7 +5,7 @@
 
 @implementation UIFont (JollyLodger)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)jollyLodgerFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"JollyLodger-Regular"
                    fromBundle:@"JollyLodger"

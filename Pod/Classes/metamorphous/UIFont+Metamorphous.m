@@ -5,7 +5,7 @@
 
 @implementation UIFont (Metamorphous)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)metamorphousFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Metamorphous-Regular"
                    fromBundle:@"Metamorphous"

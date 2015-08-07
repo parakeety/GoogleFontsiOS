@@ -5,7 +5,7 @@
 
 @implementation UIFont (GoudyBookletter1911)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)goudyBookletter1911FontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"GoudyBookletter1911"
                    fromBundle:@"GoudyBookletter1911"

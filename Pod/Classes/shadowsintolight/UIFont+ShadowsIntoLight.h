@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (ShadowsIntoLight)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)shadowsIntoLightFontOfSize:(CGFloat)size;
 
 @end
 

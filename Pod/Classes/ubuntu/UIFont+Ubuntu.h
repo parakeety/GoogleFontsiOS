@@ -3,7 +3,7 @@
 
 + (instancetype)ubuntuLightFontOfSize:(CGFloat)size;
 + (instancetype)ubuntuLightItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)ubuntuFontOfSize:(CGFloat)size;
 + (instancetype)ubuntuItalicFontOfSize:(CGFloat)size;
 + (instancetype)ubuntuMediumFontOfSize:(CGFloat)size;
 + (instancetype)ubuntuMediumItalicFontOfSize:(CGFloat)size;

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Limelight)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)limelightFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Limelight-Regular"
                    fromBundle:@"Limelight"

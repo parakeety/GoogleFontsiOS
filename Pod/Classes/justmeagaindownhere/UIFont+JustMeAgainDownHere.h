@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (JustMeAgainDownHere)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)justMeAgainDownHereFontOfSize:(CGFloat)size;
 
 @end
 

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Hanuman)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)hanumanFontOfSize:(CGFloat)size;
 + (instancetype)hanumanBoldFontOfSize:(CGFloat)size;
 
 @end

@@ -5,7 +5,7 @@
 
 @implementation UIFont (CherryCreamSoda)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)cherryCreamSodaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"CherryCreamSoda"
                    fromBundle:@"CherryCreamSoda"

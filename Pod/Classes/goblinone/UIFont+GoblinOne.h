@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (GoblinOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)goblinOneFontOfSize:(CGFloat)size;
 
 @end
 

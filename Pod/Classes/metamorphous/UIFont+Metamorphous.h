@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Metamorphous)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)metamorphousFontOfSize:(CGFloat)size;
 
 @end
 

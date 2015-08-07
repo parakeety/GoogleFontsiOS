@@ -13,7 +13,7 @@
   return [self fontWithName:@"NotoSansHebrew-Bold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)notoSansHebrewFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NotoSansHebrew-Regular"
                    fromBundle:@"NotoSansHebrew"

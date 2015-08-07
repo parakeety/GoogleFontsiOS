@@ -5,7 +5,7 @@
 
 @implementation UIFont (Andika)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)andikaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Andika-R"
                    fromBundle:@"Andika"

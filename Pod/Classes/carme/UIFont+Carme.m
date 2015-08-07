@@ -5,7 +5,7 @@
 
 @implementation UIFont (Carme)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)carmeFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Carme-Regular"
                    fromBundle:@"Carme"

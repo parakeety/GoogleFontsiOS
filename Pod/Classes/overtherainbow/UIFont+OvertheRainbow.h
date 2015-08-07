@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (OvertheRainbow)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)overtheRainbowFontOfSize:(CGFloat)size;
 
 @end
 

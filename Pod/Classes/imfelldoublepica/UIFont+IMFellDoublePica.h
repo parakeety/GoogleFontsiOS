@@ -1,8 +1,8 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (IMFellDoublePica)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)iMFELLDoublePicaRomanFontOfSize:(CGFloat)size;
++ (instancetype)iMFELLDoublePicaItalicFontOfSize:(CGFloat)size;
 
 @end
 

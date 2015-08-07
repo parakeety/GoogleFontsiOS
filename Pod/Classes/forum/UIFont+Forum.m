@@ -5,7 +5,7 @@
 
 @implementation UIFont (Forum)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)forumFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Forum-Regular"
                    fromBundle:@"Forum"

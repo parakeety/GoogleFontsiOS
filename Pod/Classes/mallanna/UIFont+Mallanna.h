@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Mallanna)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)mallannaFontOfSize:(CGFloat)size;
 
 @end
 

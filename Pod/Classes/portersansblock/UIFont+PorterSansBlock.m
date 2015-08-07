@@ -5,7 +5,7 @@
 
 @implementation UIFont (PorterSansBlock)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)porterSansBlockFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"PorterSansBlock-Regular"
                    fromBundle:@"PorterSansBlock"

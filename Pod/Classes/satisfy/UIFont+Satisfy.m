@@ -5,7 +5,7 @@
 
 @implementation UIFont (Satisfy)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)satisfyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Satisfy-Regular"
                    fromBundle:@"Satisfy"

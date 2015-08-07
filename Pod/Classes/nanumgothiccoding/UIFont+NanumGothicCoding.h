@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (NanumGothicCoding)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)nanumGothicCodingFontOfSize:(CGFloat)size;
 + (instancetype)nanumGothicCodingBoldFontOfSize:(CGFloat)size;
 
 @end

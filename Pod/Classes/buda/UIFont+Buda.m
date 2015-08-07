@@ -5,7 +5,7 @@
 
 @implementation UIFont (Buda)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)budaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Buda-Light"
                    fromBundle:@"Buda"

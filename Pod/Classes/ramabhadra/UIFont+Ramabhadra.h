@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Ramabhadra)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)ramabhadraFontOfSize:(CGFloat)size;
 
 @end
 

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (SansitaOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)sansitaOneFontOfSize:(CGFloat)size;
 
 @end
 

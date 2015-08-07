@@ -5,7 +5,7 @@
 
 @implementation UIFont (NanumPenScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nanumPenFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NanumPenScript-Regular"
                    fromBundle:@"NanumPenScript"

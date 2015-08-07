@@ -5,7 +5,7 @@
 
 @implementation UIFont (Inconsolata)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)inconsolataFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Inconsolata-Regular"
                    fromBundle:@"Inconsolata"

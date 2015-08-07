@@ -5,7 +5,7 @@
 
 @implementation UIFont (Anton)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)antonFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Anton"
                    fromBundle:@"Anton"

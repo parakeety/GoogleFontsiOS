@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Carme)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)carmeFontOfSize:(CGFloat)size;
 
 @end
 

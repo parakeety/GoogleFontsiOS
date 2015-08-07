@@ -5,7 +5,7 @@
 
 @implementation UIFont (IndieFlower)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)indieFlowerFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IndieFlower"
                    fromBundle:@"IndieFlower"

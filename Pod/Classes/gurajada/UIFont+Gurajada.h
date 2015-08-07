@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Gurajada)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)gurajadaFontOfSize:(CGFloat)size;
 
 @end
 

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Redacted)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)redactedRegularFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Redacted-Regular"
                    fromBundle:@"Redacted"

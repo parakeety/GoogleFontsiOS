@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (WaitingfortheSunrise)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)waitingfortheSunriseFontOfSize:(CGFloat)size;
 
 @end
 

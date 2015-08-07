@@ -5,7 +5,7 @@
 
 @implementation UIFont (PaytoneOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)paytoneOneFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"PaytoneOne"
                    fromBundle:@"PaytoneOne"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (Zeyada)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)zeyadaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Zeyada"
                    fromBundle:@"Zeyada"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (OFLSortsMillGoudyTT)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)oFLGoudyStMTTFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"OFLGoudyStMTT"
                    fromBundle:@"OFLSortsMillGoudyTT"

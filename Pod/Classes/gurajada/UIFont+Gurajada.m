@@ -5,7 +5,7 @@
 
 @implementation UIFont (Gurajada)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)gurajadaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Gurajada-Regular"
                    fromBundle:@"Gurajada"

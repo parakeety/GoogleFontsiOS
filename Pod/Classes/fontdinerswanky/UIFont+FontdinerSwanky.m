@@ -5,7 +5,7 @@
 
 @implementation UIFont (FontdinerSwanky)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)fontdinerSwankyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"FontdinerSwanky"
                    fromBundle:@"FontdinerSwanky"

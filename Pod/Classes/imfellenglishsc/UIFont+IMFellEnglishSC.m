@@ -5,7 +5,7 @@
 
 @implementation UIFont (IMFellEnglishSC)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)iMFELLEnglishSCFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"IMFeENsc28P"
                    fromBundle:@"IMFellEnglishSC"

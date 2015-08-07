@@ -5,7 +5,7 @@
 
 @implementation UIFont (DawningofaNewDay)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)dawningofaNewDayFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"DawningofaNewDay"
                    fromBundle:@"DawningofaNewDay"

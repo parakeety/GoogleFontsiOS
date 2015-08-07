@@ -2,7 +2,7 @@
 @interface UIFont (Merienda)
 
 + (instancetype)meriendaBoldFontOfSize:(CGFloat)size;
-+ (instancetype)meriendaRegular0WtFontOfSize:(CGFloat)size;
++ (instancetype)meriendaRegular0wtFontOfSize:(CGFloat)size;
 
 @end
 

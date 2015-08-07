@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Ovo)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)ovoFontOfSize:(CGFloat)size;
 
 @end
 

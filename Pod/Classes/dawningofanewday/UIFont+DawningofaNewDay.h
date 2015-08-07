@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (DawningofaNewDay)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)dawningofaNewDayFontOfSize:(CGFloat)size;
 
 @end
 

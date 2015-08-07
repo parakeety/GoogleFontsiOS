@@ -5,7 +5,7 @@
 
 @implementation UIFont (Nokora)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nokoraFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Nokora-Regular"
                    fromBundle:@"Nokora"

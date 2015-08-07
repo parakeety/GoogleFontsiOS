@@ -5,7 +5,7 @@
 
 @implementation UIFont (DroidArabicKufi)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)droidArabicKufiFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"DroidKufi-Regular"
                    fromBundle:@"DroidArabicKufi"

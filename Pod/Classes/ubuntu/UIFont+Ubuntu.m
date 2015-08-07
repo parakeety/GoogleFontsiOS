@@ -21,7 +21,7 @@
   return [self fontWithName:@"Ubuntu-LightItalic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ubuntuFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ubuntu-Regular"
                    fromBundle:@"Ubuntu"

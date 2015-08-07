@@ -5,7 +5,7 @@
 
 @implementation UIFont (Caudex)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)caudexFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Caudex-Regular"
                    fromBundle:@"Caudex"

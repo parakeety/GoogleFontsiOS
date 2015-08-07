@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (RuslanDisplay)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)ruslanDisplayFontOfSize:(CGFloat)size;
 
 @end
 

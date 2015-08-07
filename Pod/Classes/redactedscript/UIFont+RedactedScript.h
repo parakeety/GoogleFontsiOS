@@ -1,8 +1,8 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (RedactedScript)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)redactedScriptBoldFontOfSize:(CGFloat)size;
++ (instancetype)redactedScriptRegularFontOfSize:(CGFloat)size;
 
 @end
 

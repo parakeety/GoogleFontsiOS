@@ -2,7 +2,7 @@
 @interface UIFont (Rokkitt)
 
 + (instancetype)rokkittLightFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)rokkittFontOfSize:(CGFloat)size;
 + (instancetype)rokkittBoldFontOfSize:(CGFloat)size;
 
 @end

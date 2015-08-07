@@ -5,7 +5,7 @@
 
 @implementation UIFont (Lateef)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)lateefFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"LateefRegOT"
                    fromBundle:@"Lateef"

@@ -5,7 +5,7 @@
 
 @implementation UIFont (TenaliRamakrishna)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)tenaliRamakrishnaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"TenaliRamakrishna-Regular"
                    fromBundle:@"TenaliRamakrishna"

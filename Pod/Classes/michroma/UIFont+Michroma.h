@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Michroma)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)michromaFontOfSize:(CGFloat)size;
 
 @end
 

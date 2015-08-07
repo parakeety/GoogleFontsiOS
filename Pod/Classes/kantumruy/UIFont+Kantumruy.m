@@ -13,7 +13,7 @@
   return [self fontWithName:@"Kantumruy-Bold" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)kantumruyLightFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Kantumruy-Light"
                    fromBundle:@"Kantumruy"
@@ -21,7 +21,7 @@
   return [self fontWithName:@"KantumruyLight" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)kantumruyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Kantumruy-Regular"
                    fromBundle:@"Kantumruy"

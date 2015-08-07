@@ -29,7 +29,7 @@
   return [self fontWithName:@"Arimo-Italic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)arimoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Arimo-Regular"
                    fromBundle:@"Arimo"

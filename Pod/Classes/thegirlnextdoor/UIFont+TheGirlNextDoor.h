@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (TheGirlNextDoor)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)theGirlNextDoorFontOfSize:(CGFloat)size;
 
 @end
 

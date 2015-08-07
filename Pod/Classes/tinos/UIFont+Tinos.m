@@ -29,7 +29,7 @@
   return [self fontWithName:@"Tinos-Italic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)tinosFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Tinos-Regular"
                    fromBundle:@"Tinos"

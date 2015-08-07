@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (SueEllenFrancisco)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)sueEllenFranciscoFontOfSize:(CGFloat)size;
 
 @end
 

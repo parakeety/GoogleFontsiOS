@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (AnnieUseYourTelescope)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)annieUseYourTelescopeFontOfSize:(CGFloat)size;
 
 @end
 

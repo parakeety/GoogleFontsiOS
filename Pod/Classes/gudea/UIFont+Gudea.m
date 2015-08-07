@@ -5,7 +5,7 @@
 
 @implementation UIFont (Gudea)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)gudeaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Gudea-Regular"
                    fromBundle:@"Gudea"

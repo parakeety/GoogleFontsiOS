@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (MedievalSharp)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)medievalSharpFontOfSize:(CGFloat)size;
 
 @end
 

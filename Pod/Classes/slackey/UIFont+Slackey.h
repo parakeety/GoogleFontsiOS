@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Slackey)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)slackeyFontOfSize:(CGFloat)size;
 
 @end
 

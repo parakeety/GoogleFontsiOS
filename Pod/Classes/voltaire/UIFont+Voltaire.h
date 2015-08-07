@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Voltaire)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)voltaireFontOfSize:(CGFloat)size;
 
 @end
 

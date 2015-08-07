@@ -5,7 +5,7 @@
 
 @implementation UIFont (JustMeAgainDownHere)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)justMeAgainDownHereFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"JustMeAgainDownHere"
                    fromBundle:@"JustMeAgainDownHere"

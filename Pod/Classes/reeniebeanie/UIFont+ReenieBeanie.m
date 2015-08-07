@@ -5,7 +5,7 @@
 
 @implementation UIFont (ReenieBeanie)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)reenieBeanieFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"ReenieBeanie"
                    fromBundle:@"ReenieBeanie"

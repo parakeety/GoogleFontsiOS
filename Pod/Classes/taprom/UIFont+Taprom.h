@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Taprom)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)tapromFontOfSize:(CGFloat)size;
 
 @end
 

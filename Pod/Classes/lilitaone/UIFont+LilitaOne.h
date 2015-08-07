@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (LilitaOne)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)lilitaOneFontOfSize:(CGFloat)size;
 
 @end
 

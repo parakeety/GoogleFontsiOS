@@ -5,7 +5,7 @@
 
 @implementation UIFont (NothingYouCouldDo)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)nothingYouCouldDoFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"NothingYouCouldDo"
                    fromBundle:@"NothingYouCouldDo"

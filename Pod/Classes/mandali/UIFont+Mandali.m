@@ -5,7 +5,7 @@
 
 @implementation UIFont (Mandali)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)mandaliFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Mandali-Regular"
                    fromBundle:@"Mandali"

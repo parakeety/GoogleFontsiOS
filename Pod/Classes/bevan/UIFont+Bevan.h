@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Bevan)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)bevanFontOfSize:(CGFloat)size;
 
 @end
 

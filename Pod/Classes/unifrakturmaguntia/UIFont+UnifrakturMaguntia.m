@@ -5,7 +5,7 @@
 
 @implementation UIFont (UnifrakturMaguntia)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)unifrakturMaguntiaFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"UnifrakturMaguntia-Book"
                    fromBundle:@"UnifrakturMaguntia"

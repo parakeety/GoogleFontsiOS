@@ -5,7 +5,7 @@
 
 @implementation UIFont (ShadowsIntoLight)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)shadowsIntoLightFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"ShadowsIntoLight"
                    fromBundle:@"ShadowsIntoLight"

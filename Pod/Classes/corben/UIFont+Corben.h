@@ -2,7 +2,7 @@
 @interface UIFont (Corben)
 
 + (instancetype)corbenRegularFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)corbenFontOfSize:(CGFloat)size;
 
 @end
 

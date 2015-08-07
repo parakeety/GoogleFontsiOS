@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (IrishGrowler)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)irishGrowlerFontOfSize:(CGFloat)size;
 
 @end
 

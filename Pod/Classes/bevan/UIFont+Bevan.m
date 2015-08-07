@@ -5,7 +5,7 @@
 
 @implementation UIFont (Bevan)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)bevanFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Bevan"
                    fromBundle:@"Bevan"

@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Bokor)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)bokorFontOfSize:(CGFloat)size;
 
 @end
 

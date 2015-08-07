@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (DroidArabicNaskh)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)droidArabicNaskhFontOfSize:(CGFloat)size;
 + (instancetype)droidArabicNaskhBoldFontOfSize:(CGFloat)size;
 
 @end

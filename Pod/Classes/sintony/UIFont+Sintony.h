@@ -2,7 +2,7 @@
 @interface UIFont (Sintony)
 
 + (instancetype)sintonyBoldFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)sintonyFontOfSize:(CGFloat)size;
 
 @end
 

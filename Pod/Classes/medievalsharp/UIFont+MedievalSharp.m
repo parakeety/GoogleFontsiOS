@@ -5,7 +5,7 @@
 
 @implementation UIFont (MedievalSharp)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)medievalSharpFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"MedievalSharp"
                    fromBundle:@"MedievalSharp"

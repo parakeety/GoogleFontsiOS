@@ -5,7 +5,7 @@
 
 @implementation UIFont (Tangerine)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)tangerineFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Tangerine_Regular"
                    fromBundle:@"Tangerine"

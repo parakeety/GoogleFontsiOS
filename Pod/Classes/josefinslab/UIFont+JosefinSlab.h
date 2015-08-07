@@ -5,7 +5,7 @@
 + (instancetype)josefinSlabThinItalicFontOfSize:(CGFloat)size;
 + (instancetype)josefinSlabLightFontOfSize:(CGFloat)size;
 + (instancetype)josefinSlabLightItalicFontOfSize:(CGFloat)size;
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)josefinSlabFontOfSize:(CGFloat)size;
 + (instancetype)josefinSlabItalicFontOfSize:(CGFloat)size;
 + (instancetype)josefinSlabSemiBoldFontOfSize:(CGFloat)size;
 + (instancetype)josefinSlabSemiBoldItalicFontOfSize:(CGFloat)size;

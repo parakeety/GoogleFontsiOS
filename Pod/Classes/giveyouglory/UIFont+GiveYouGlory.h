@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (GiveYouGlory)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)giveYouGloryFontOfSize:(CGFloat)size;
 
 @end
 

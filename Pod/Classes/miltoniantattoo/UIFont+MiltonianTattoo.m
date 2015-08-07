@@ -5,7 +5,7 @@
 
 @implementation UIFont (MiltonianTattoo)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)miltonianTattooFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"MiltonianTattoo-Regular"
                    fromBundle:@"MiltonianTattoo"

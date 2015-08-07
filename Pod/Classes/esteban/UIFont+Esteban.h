@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Esteban)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)estebanFontOfSize:(CGFloat)size;
 
 @end
 

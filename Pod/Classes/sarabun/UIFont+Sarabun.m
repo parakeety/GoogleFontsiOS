@@ -29,7 +29,7 @@
   return [self fontWithName:@"Sarabun-Italic" size:size];
 }
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)sarabunFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Sarabun-Regular"
                    fromBundle:@"Sarabun"

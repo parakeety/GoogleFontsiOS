@@ -5,7 +5,7 @@
 
 @implementation UIFont (Ultra)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)ultraFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Ultra"
                    fromBundle:@"Ultra"

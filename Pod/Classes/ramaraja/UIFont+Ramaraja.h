@@ -1,7 +1,7 @@
 #import <UIKit/UIKit.h>
 @interface UIFont (Ramaraja)
 
-+ (instancetype)FontOfSize:(CGFloat)size;
++ (instancetype)ramarajaFontOfSize:(CGFloat)size;
 
 @end
 

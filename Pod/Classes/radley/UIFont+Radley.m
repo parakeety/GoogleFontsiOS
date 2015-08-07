@@ -5,7 +5,7 @@
 
 @implementation UIFont (Radley)
 
-+ (instancetype)FontOfSize:(CGFloat)size {
++ (instancetype)radleyFontOfSize:(CGFloat)size {
   static dispatch_once_t onceToken;
   [GFIFontLoader loadFontFile:@"Radley-Regular"
                    fromBundle:@"Radley"
