@@ -28,8 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		472857EA1B7099600013078E /* GFIFontLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GFIFontLoader.h; path = GoogleFontsiOS/GFIFontLoader.h; sourceTree = "<group>"; };
-		472857EB1B7099600013078E /* GFIFontLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GFIFontLoader.m; path = GoogleFontsiOS/GFIFontLoader.m; sourceTree = "<group>"; };
+		472857EA1B7099600013078E /* GFIFontLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GFIFontLoader.h; path = Pod/Classes/GFIFontLoader.h; sourceTree = "<group>"; };
+		472857EB1B7099600013078E /* GFIFontLoader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GFIFontLoader.m; path = Pod/Classes/GFIFontLoader.m; sourceTree = "<group>"; };
 		473B89DD1B19E5C1009658C0 /* GoogleFontsiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoogleFontsiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		473B89E11B19E5C1009658C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		473B89E21B19E5C1009658C0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
