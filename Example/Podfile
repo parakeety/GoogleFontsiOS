@@ -1,0 +1,8 @@
+platform :ios, '7.0'
+
+xcodeproj 'GoogleFontsiOS'
+
+target :GoogleFontsiOS do
+    pod 'GoogleFontsiOS/ABeeZee', :path => '../'
+end
+

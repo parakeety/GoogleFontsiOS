@@ -8,6 +8,8 @@
 
 #import "FontListViewController.h"
 
+#import "UIFont+ABeeZee.h"
+
 @interface FontListViewController ()
 
 @end
@@ -41,6 +43,9 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"Cell" forIndexPath:indexPath];
+    
+    cell.textLabel.text = @"abeezee";
+    cell.textLabel.font = [UIFont aBeeZeeRegularFontOfSize:20.0f];
     
     return cell;
 }

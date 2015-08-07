@@ -14,6 +14,7 @@
 		473B89F11B19E5C1009658C0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 473B89EF1B19E5C1009658C0 /* LaunchScreen.xib */; };
 		473B89FD1B19E5C1009658C0 /* GoogleFontsiOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 473B89FC1B19E5C1009658C0 /* GoogleFontsiOSTests.m */; };
 		47D1E1C11B749457009C8D47 /* FontListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 47D1E1C01B749457009C8D47 /* FontListViewController.m */; };
+		AF8DC1B9042CF8F19D1F7C56 /* libPods-GoogleFontsiOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F2A66BBBCA6B136E84EAECA0 /* libPods-GoogleFontsiOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,9 @@
 		473B89FC1B19E5C1009658C0 /* GoogleFontsiOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GoogleFontsiOSTests.m; sourceTree = "<group>"; };
 		47D1E1BF1B749457009C8D47 /* FontListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FontListViewController.h; sourceTree = "<group>"; };
 		47D1E1C01B749457009C8D47 /* FontListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FontListViewController.m; sourceTree = "<group>"; };
+		99597E98D494E34CE6F6C67E /* Pods-GoogleFontsiOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoogleFontsiOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-GoogleFontsiOS/Pods-GoogleFontsiOS.release.xcconfig"; sourceTree = "<group>"; };
+		E1F1464C04903BD9F12C88CD /* Pods-GoogleFontsiOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoogleFontsiOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GoogleFontsiOS/Pods-GoogleFontsiOS.debug.xcconfig"; sourceTree = "<group>"; };
+		F2A66BBBCA6B136E84EAECA0 /* libPods-GoogleFontsiOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoogleFontsiOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF8DC1B9042CF8F19D1F7C56 /* libPods-GoogleFontsiOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,12 +65,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		214A004914928B43FB51C4A9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F2A66BBBCA6B136E84EAECA0 /* libPods-GoogleFontsiOS.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		473B89D41B19E5C1009658C0 = {
 			isa = PBXGroup;
 			children = (
 				473B89DF1B19E5C1009658C0 /* Example */,
 				473B89F91B19E5C1009658C0 /* GoogleFontsiOSTests */,
 				473B89DE1B19E5C1009658C0 /* Products */,
+				BDF5965FC102DC6C8BE41A4D /* Pods */,
+				214A004914928B43FB51C4A9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -120,6 +135,15 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		BDF5965FC102DC6C8BE41A4D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E1F1464C04903BD9F12C88CD /* Pods-GoogleFontsiOS.debug.xcconfig */,
+				99597E98D494E34CE6F6C67E /* Pods-GoogleFontsiOS.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -127,9 +151,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 473B8A001B19E5C1009658C0 /* Build configuration list for PBXNativeTarget "GoogleFontsiOS" */;
 			buildPhases = (
+				401CDC0274A634E50F82FF55 /* Check Pods Manifest.lock */,
 				473B89D91B19E5C1009658C0 /* Sources */,
 				473B89DA1B19E5C1009658C0 /* Frameworks */,
 				473B89DB1B19E5C1009658C0 /* Resources */,
+				2467EE7ED0F6235BFA5D613F /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -214,6 +240,39 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2467EE7ED0F6235BFA5D613F /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-GoogleFontsiOS/Pods-GoogleFontsiOS-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		401CDC0274A634E50F82FF55 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		473B89D91B19E5C1009658C0 /* Sources */ = {
@@ -348,6 +407,7 @@
 		};
 		473B8A011B19E5C1009658C0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E1F1464C04903BD9F12C88CD /* Pods-GoogleFontsiOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "$(SRCROOT)/ExampleApp/Info.plist";
@@ -358,6 +418,7 @@
 		};
 		473B8A021B19E5C1009658C0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 99597E98D494E34CE6F6C67E /* Pods-GoogleFontsiOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "$(SRCROOT)/ExampleApp/Info.plist";
