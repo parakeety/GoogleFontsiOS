@@ -1,0 +1,7041 @@
+---
+- :family: ABeeZee
+  :designer: Anja Meiners
+  :license: OFL
+  :directory: abeezee
+  :fonts:
+  - :name: ABeeZee-Italic
+    :file_name: ABeeZee-Italic
+  - :name: ABeeZee-Regular
+    :file_name: ABeeZee-Regular
+- :family: Abel
+  :designer: MADType
+  :license: OFL
+  :directory: abel
+  :fonts:
+  - :name: Abel-Regular
+    :file_name: Abel-Regular
+- :family: Abril Fatface
+  :designer: TypeTogether
+  :license: OFL
+  :directory: abrilfatface
+  :fonts:
+  - :name: AbrilFatface-Regular
+    :file_name: AbrilFatface-Regular
+- :family: Aclonica
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: aclonica
+  :fonts:
+  - :name: Aclonica-Regular
+    :file_name: Aclonica
+- :family: Acme
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: acme
+  :fonts:
+  - :name: Acme-Regular
+    :file_name: Acme-Regular
+- :family: Actor
+  :designer: Thomas Junold
+  :license: OFL
+  :directory: actor
+  :fonts:
+  - :name: Actor-Regular
+    :file_name: Actor-Regular
+- :family: Adamina
+  :designer: Cyreal
+  :license: OFL
+  :directory: adamina
+  :fonts:
+  - :name: Adamina-Regular
+    :file_name: Adamina-Regular
+- :family: Advent Pro
+  :designer: Andreas Kalpakidis
+  :license: OFL
+  :directory: adventpro
+  :fonts:
+  - :name: AdventPro-Thin
+    :file_name: AdventPro-Thin
+  - :name: AdventPro-ExtraLight
+    :file_name: AdventPro-ExtraLight
+  - :name: AdventPro-Light
+    :file_name: AdventPro-Light
+  - :name: AdventPro-Regular
+    :file_name: AdventPro-Regular
+  - :name: AdventPro-Medium
+    :file_name: AdventPro-Medium
+  - :name: AdventPro-SemiBold
+    :file_name: AdventPro-SemiBold
+  - :name: AdventPro-Bold
+    :file_name: AdventPro-Bold
+- :family: Aguafina Script
+  :designer: Sudtipos
+  :license: OFL
+  :directory: aguafinascript
+  :fonts:
+  - :name: AguafinaScript-Regular
+    :file_name: AguafinaScript-Regular
+- :family: Akronim
+  :designer: Grzegorz Klimczewski
+  :license: OFL
+  :directory: akronim
+  :fonts:
+  - :name: Akronim-Regular
+    :file_name: Akronim-Regular
+- :family: Aladin
+  :designer: Sudtipos
+  :license: OFL
+  :directory: aladin
+  :fonts:
+  - :name: Aladin-Regular
+    :file_name: Aladin-Regular
+- :family: Aldrich
+  :designer: MADType
+  :license: OFL
+  :directory: aldrich
+  :fonts:
+  - :name: Aldrich
+    :file_name: Aldrich-Regular
+- :family: Alef
+  :designer: Hagilda and Mushon Zer-Aviv
+  :license: OFL
+  :directory: alef
+  :fonts:
+  - :name: Alef-Bold
+    :file_name: Alef-Bold
+  - :name: Alef-Regular
+    :file_name: Alef-Regular
+- :family: Alegreya
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: alegreya
+  :fonts:
+  - :name: Alegreya-Regular
+    :file_name: Alegreya-Regular
+  - :name: Alegreya-Italic
+    :file_name: Alegreya-Italic
+  - :name: Alegreya-Bold
+    :file_name: Alegreya-Bold
+  - :name: Alegreya-BoldItalic
+    :file_name: Alegreya-BoldItalic
+  - :name: Alegreya-Black
+    :file_name: Alegreya-Black
+  - :name: Alegreya-BlackItalic
+    :file_name: Alegreya-BlackItalic
+- :family: Alegreya Sans
+  :designer: Juan Pablo del Peral
+  :license: OFL
+  :directory: alegreyasans
+  :fonts:
+  - :name: AlegreyaSans-Black
+    :file_name: AlegreyaSans-Black
+  - :name: AlegreyaSans-BlackItalic
+    :file_name: AlegreyaSans-BlackItalic
+  - :name: AlegreyaSans-Bold
+    :file_name: AlegreyaSans-Bold
+  - :name: AlegreyaSans-BoldItalic
+    :file_name: AlegreyaSans-BoldItalic
+  - :name: AlegreyaSans-ExtraBold
+    :file_name: AlegreyaSans-ExtraBold
+  - :name: AlegreyaSans-ExtraBoldItalic
+    :file_name: AlegreyaSans-ExtraBoldItalic
+  - :name: AlegreyaSans-Italic
+    :file_name: AlegreyaSans-Italic
+  - :name: AlegreyaSans-Light
+    :file_name: AlegreyaSans-Light
+  - :name: AlegreyaSans-LightItalic
+    :file_name: AlegreyaSans-LightItalic
+  - :name: AlegreyaSans-Medium
+    :file_name: AlegreyaSans-Medium
+  - :name: AlegreyaSans-MediumItalic
+    :file_name: AlegreyaSans-MediumItalic
+  - :name: AlegreyaSans-Regular
+    :file_name: AlegreyaSans-Regular
+  - :name: AlegreyaSans-Thin
+    :file_name: AlegreyaSans-Thin
+  - :name: AlegreyaSans-ThinItalic
+    :file_name: AlegreyaSans-ThinItalic
+- :family: Alegreya Sans SC
+  :designer: Juan Pablo del Peral
+  :license: OFL
+  :directory: alegreyasanssc
+  :fonts:
+  - :name: AlegreyaSansSC-Black
+    :file_name: AlegreyaSansSC-Black
+  - :name: AlegreyaSansSC-BlackItalic
+    :file_name: AlegreyaSansSC-BlackItalic
+  - :name: AlegreyaSansSC-Bold
+    :file_name: AlegreyaSansSC-Bold
+  - :name: AlegreyaSansSC-BoldItalic
+    :file_name: AlegreyaSansSC-BoldItalic
+  - :name: AlegreyaSansSC-ExtraBold
+    :file_name: AlegreyaSansSC-ExtraBold
+  - :name: AlegreyaSansSC-ExtraBoldItalic
+    :file_name: AlegreyaSansSC-ExtraBoldItalic
+  - :name: AlegreyaSansSC-Italic
+    :file_name: AlegreyaSansSC-Italic
+  - :name: AlegreyaSansSC-Light
+    :file_name: AlegreyaSansSC-Light
+  - :name: AlegreyaSansSC-LightItalic
+    :file_name: AlegreyaSansSC-LightItalic
+  - :name: AlegreyaSansSC-Medium
+    :file_name: AlegreyaSansSC-Medium
+  - :name: AlegreyaSansSC-MediumItalic
+    :file_name: AlegreyaSansSC-MediumItalic
+  - :name: AlegreyaSansSC-Regular
+    :file_name: AlegreyaSansSC-Regular
+  - :name: AlegreyaSansSC-Thin
+    :file_name: AlegreyaSansSC-Thin
+  - :name: AlegreyaSansSC-ThinItalic
+    :file_name: AlegreyaSansSC-ThinItalic
+- :family: Alegreya SC
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: alegreyasc
+  :fonts:
+  - :name: AlegreyaSC-Regular
+    :file_name: AlegreyaSC-Regular
+  - :name: AlegreyaSC-Italic
+    :file_name: AlegreyaSC-Italic
+  - :name: AlegreyaSC-Bold
+    :file_name: AlegreyaSC-Bold
+  - :name: AlegreyaSC-BoldItalic
+    :file_name: AlegreyaSC-BoldItalic
+  - :name: AlegreyaSC-Black
+    :file_name: AlegreyaSC-Black
+  - :name: AlegreyaSC-BlackItalic
+    :file_name: AlegreyaSC-BlackItalic
+- :family: Alex Brush
+  :designer: TypeSETit
+  :license: OFL
+  :directory: alexbrush
+  :fonts:
+  - :name: AlexBrush-Regular
+    :file_name: AlexBrush-Regular
+- :family: Alfa Slab One
+  :designer: JM Solé
+  :license: OFL
+  :directory: alfaslabone
+  :fonts:
+  - :name: AlfaSlabOne-Regular
+    :file_name: AlfaSlabOne-Regular
+- :family: Alice
+  :designer: Cyreal
+  :license: OFL
+  :directory: alice
+  :fonts:
+  - :name: Alice-Regular
+    :file_name: Alice-Regular
+- :family: Alike
+  :designer: Cyreal
+  :license: OFL
+  :directory: alike
+  :fonts:
+  - :name: Alike-Regular
+    :file_name: Alike-Regular
+- :family: Alike Angular
+  :designer: Cyreal
+  :license: OFL
+  :directory: alikeangular
+  :fonts:
+  - :name: AlikeAngular-Regular
+    :file_name: AlikeAngular-Regular
+- :family: Allan
+  :designer: Anton Koovit
+  :license: OFL
+  :directory: allan
+  :fonts:
+  - :name: Allan-Bold
+    :file_name: Allan-Bold
+  - :name: Allan-Regular
+    :file_name: Allan-Regular
+- :family: Allerta
+  :designer: Matt McInerney
+  :license: OFL
+  :directory: allerta
+  :fonts:
+  - :name: Allerta-Regular
+    :file_name: Allerta-Regular
+- :family: Allerta Stencil
+  :designer: Matt McInerney
+  :license: OFL
+  :directory: allertastencil
+  :fonts:
+  - :name: AllertaStencil-Regular
+    :file_name: AllertaStencil-Regular
+- :family: Allura
+  :designer: TypeSETit
+  :license: OFL
+  :directory: allura
+  :fonts:
+  - :name: Allura-Regular
+    :file_name: Allura-Regular
+- :family: Almendra
+  :designer: Ana Sanfelippo
+  :license: OFL
+  :directory: almendra
+  :fonts:
+  - :name: Almendra-Bold
+    :file_name: Almendra-Bold
+  - :name: Almendra-BoldItalic
+    :file_name: Almendra-BoldItalic
+  - :name: Almendra-Italic
+    :file_name: Almendra-Italic
+  - :name: Almendra-Regular
+    :file_name: Almendra-Regular
+- :family: Almendra Display
+  :designer: Ana Sanfelippo
+  :license: OFL
+  :directory: almendradisplay
+  :fonts:
+  - :name: AlmendraDisplay-Regular
+    :file_name: AlmendraDisplay-Regular
+- :family: Almendra SC
+  :designer: Ana Sanfelippo
+  :license: OFL
+  :directory: almendrasc
+  :fonts:
+  - :name: AlmendraSC-Bold
+    :file_name: AlmendraSC-Bold
+  - :name: AlmendraSC-BoldItalic
+    :file_name: AlmendraSC-BoldItalic
+  - :name: AlmendraSC-Italic
+    :file_name: AlmendraSC-Italic
+  - :name: AlmendraSC-Regular
+    :file_name: AlmendraSC-Regular
+- :family: Amarante
+  :designer: Karolina Lach
+  :license: OFL
+  :directory: amarante
+  :fonts:
+  - :name: Amarante-Regular
+    :file_name: Amarante-Regular
+- :family: Amaranth
+  :designer: Gesine Todt
+  :license: OFL
+  :directory: amaranth
+  :fonts:
+  - :name: Amaranth
+    :file_name: Amaranth-Regular
+  - :name: Amaranth-Italic
+    :file_name: Amaranth-Italic
+  - :name: Amaranth-Bold
+    :file_name: Amaranth-Bold
+  - :name: Amaranth-BoldItalic
+    :file_name: Amaranth-BoldItalic
+- :family: Amatic SC
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: amaticsc
+  :fonts:
+  - :name: AmaticSC-Regular
+    :file_name: AmaticSC-Regular
+  - :name: AmaticSC-Bold
+    :file_name: AmaticSC-Bold
+- :family: Amethysta
+  :designer: Cyreal
+  :license: OFL
+  :directory: amethysta
+  :fonts:
+  - :name: Amethysta-Regular
+    :file_name: Amethysta-Regular
+- :family: Amiri
+  :designer: Khaled Hosny
+  :license: OFL
+  :directory: amiri
+  :fonts:
+  - :name: Amiri-Bold
+    :file_name: Amiri-Bold
+  - :name: Amiri-BoldSlanted
+    :file_name: Amiri-BoldSlanted
+  - :name: Amiri-Regular
+    :file_name: Amiri-Regular
+  - :name: Amiri-Slanted
+    :file_name: Amiri-Slanted
+- :family: Amita
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: amita
+  :fonts:
+  - :name: Amita-Regular
+    :file_name: Amita-Regular
+  - :name: Amita-Bold
+    :file_name: Amita-Bold
+- :family: Anaheim
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: anaheim
+  :fonts:
+  - :name: Anaheim-Regular
+    :file_name: Anaheim-Regular
+- :family: Andada
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: andada
+  :fonts:
+  - :name: Andada-Bold
+    :file_name: Andada-Bold
+  - :name: Andada-BoldItalic
+    :file_name: Andada-BoldItalic
+  - :name: Andada-Italic
+    :file_name: Andada-Italic
+  - :name: Andada-Regular
+    :file_name: Andada-Regular
+- :family: Andada SC
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: andadasc
+  :fonts:
+  - :name: AndadaSC-Bold
+    :file_name: AndadaSC-Bold
+  - :name: AndadaSC-BoldItalic
+    :file_name: AndadaSC-BoldItalic
+  - :name: AndadaSC-Italic
+    :file_name: AndadaSC-Italic
+  - :name: AndadaSC-Regular
+    :file_name: AndadaSC-Regular
+- :family: Andika
+  :designer: Annie Olsen
+  :license: OFL
+  :directory: andika
+  :fonts:
+  - :name: Andika
+    :file_name: Andika-R
+- :family: Angkor
+  :designer: Danh Hong
+  :license: OFL
+  :directory: angkor
+  :fonts:
+  - :name: Angkor
+    :file_name: Angkor
+- :family: Annie Use Your Telescope
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: annieuseyourtelescope
+  :fonts:
+  - :name: AnnieUseYourTelescope
+    :file_name: AnnieUseYourTelescope
+- :family: Anonymous Pro
+  :designer: Mark Simonson
+  :license: OFL
+  :directory: anonymouspro
+  :fonts:
+  - :name: AnonymousPro
+    :file_name: AnonymousPro-Regular
+  - :name: AnonymousPro-Italic
+    :file_name: AnonymousPro-Italic
+  - :name: AnonymousPro-Bold
+    :file_name: AnonymousPro-Bold
+  - :name: AnonymousPro-BoldItalic
+    :file_name: AnonymousPro-BoldItalic
+- :family: Antic
+  :designer: Santiago Orozco
+  :license: OFL
+  :directory: antic
+  :fonts:
+  - :name: Antic-Regular
+    :file_name: Antic-Regular
+- :family: Antic Didone
+  :designer: Santiago Orozco
+  :license: OFL
+  :directory: anticdidone
+  :fonts:
+  - :name: AnticDidone-Regular
+    :file_name: AnticDidone-Regular
+- :family: Antic Slab
+  :designer: Santiago Orozco
+  :license: OFL
+  :directory: anticslab
+  :fonts:
+  - :name: AnticSlab-Regular
+    :file_name: AnticSlab-Regular
+- :family: Anton
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: anton
+  :fonts:
+  - :name: Anton
+    :file_name: Anton
+- :family: Antonio
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: antonio
+  :fonts:
+  - :name: Antonio-Bold
+    :file_name: Antonio-Bold
+  - :name: Antonio-Light
+    :file_name: Antonio-Light
+  - :name: Antonio-Regular
+    :file_name: Antonio-Regular
+- :family: Arapey
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: arapey
+  :fonts:
+  - :name: Arapey-Regular
+    :file_name: Arapey-Regular
+  - :name: Arapey-Italic
+    :file_name: Arapey-Italic
+- :family: Arbutus
+  :designer: Karolina Lach
+  :license: OFL
+  :directory: arbutus
+  :fonts:
+  - :name: Arbutus
+    :file_name: Arbutus-Regular
+- :family: Arbutus Slab
+  :designer: Karolina Lach
+  :license: OFL
+  :directory: arbutusslab
+  :fonts:
+  - :name: ArbutusSlab-Regular
+    :file_name: ArbutusSlab-Regular
+- :family: Architects Daughter
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: architectsdaughter
+  :fonts:
+  - :name: ArchitectsDaughter
+    :file_name: ArchitectsDaughter
+- :family: Archivo Black
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: archivoblack
+  :fonts:
+  - :name: ArchivoBlack-Regular
+    :file_name: ArchivoBlack-Regular
+- :family: Archivo Narrow
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: archivonarrow
+  :fonts:
+  - :name: ArchivoNarrow-Bold
+    :file_name: ArchivoNarrow-Bold
+  - :name: ArchivoNarrow-BoldItalic
+    :file_name: ArchivoNarrow-BoldItalic
+  - :name: ArchivoNarrow-Italic
+    :file_name: ArchivoNarrow-Italic
+  - :name: ArchivoNarrow-Regular
+    :file_name: ArchivoNarrow-Regular
+- :family: Arimo
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: arimo
+  :fonts:
+  - :name: Arimo-Bold
+    :file_name: Arimo-Bold
+  - :name: Arimo-BoldItalic
+    :file_name: Arimo-BoldItalic
+  - :name: Arimo-Italic
+    :file_name: Arimo-Italic
+  - :name: Arimo
+    :file_name: Arimo-Regular
+- :family: Arizonia
+  :designer: TypeSETit
+  :license: OFL
+  :directory: arizonia
+  :fonts:
+  - :name: Arizonia-Regular
+    :file_name: Arizonia-Regular
+- :family: Armata
+  :designer: Viktoriya Grabowska
+  :license: OFL
+  :directory: armata
+  :fonts:
+  - :name: Armata-Regular
+    :file_name: Armata-Regular
+- :family: Artifika
+  :designer: Cyreal
+  :license: OFL
+  :directory: artifika
+  :fonts:
+  - :name: Artifika-Medium
+    :file_name: Artifika-Regular
+- :family: Arvo
+  :designer: Anton Koovit
+  :license: OFL
+  :directory: arvo
+  :fonts:
+  - :name: Arvo-Bold
+    :file_name: Arvo-Bold
+  - :name: Arvo-BoldItalic
+    :file_name: Arvo-BoldItalic
+  - :name: Arvo-Italic
+    :file_name: Arvo-Italic
+  - :name: Arvo
+    :file_name: Arvo-Regular
+- :family: Arya
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: arya
+  :fonts:
+  - :name: Arya-Regular
+    :file_name: Arya-Regular
+  - :name: Arya-Bold
+    :file_name: Arya-Bold
+- :family: Asap
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: asap
+  :fonts:
+  - :name: Asap-Regular
+    :file_name: Asap-Regular
+  - :name: Asap-Italic
+    :file_name: Asap-Italic
+  - :name: Asap-Bold
+    :file_name: Asap-Bold
+  - :name: Asap-BoldItalic
+    :file_name: Asap-BoldItalic
+- :family: Asar
+  :designer: Eben Sorkin
+  :license: OFL
+  :directory: asar
+  :fonts:
+  - :name: Asar-Regular
+    :file_name: Asar-Regular
+- :family: Asset
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: asset
+  :fonts:
+  - :name: Asset
+    :file_name: Asset
+- :family: Astloch
+  :designer: Dan Rhatigan
+  :license: OFL
+  :directory: astloch
+  :fonts:
+  - :name: Astloch
+    :file_name: Astloch-Regular
+  - :name: Astloch-Bold
+    :file_name: Astloch-Bold
+- :family: Asul
+  :designer: Mariela Monsalve
+  :license: OFL
+  :directory: asul
+  :fonts:
+  - :name: Asul-Regular
+    :file_name: Asul-Regular
+  - :name: Asul-Bold
+    :file_name: Asul-Bold
+- :family: Atomic Age
+  :designer: James Grieshaber
+  :license: OFL
+  :directory: atomicage
+  :fonts:
+  - :name: AtomicAge
+    :file_name: AtomicAge-Regular
+- :family: Aubrey
+  :designer: Cyreal
+  :license: OFL
+  :directory: aubrey
+  :fonts:
+  - :name: Aubrey-Regular
+    :file_name: Aubrey-Regular
+- :family: Audiowide
+  :designer: Astigmatic
+  :license: OFL
+  :directory: audiowide
+  :fonts:
+  - :name: Audiowide-Regular
+    :file_name: Audiowide-Regular
+- :family: Autour One
+  :designer: Eben Sorkin
+  :license: OFL
+  :directory: autourone
+  :fonts:
+  - :name: AutourOne-Regular
+    :file_name: AutourOne-Regular
+- :family: Average
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: average
+  :fonts:
+  - :name: Average-Regular
+    :file_name: Average-Regular
+- :family: Average Sans
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: averagesans
+  :fonts:
+  - :name: AverageSans-Regular
+    :file_name: AverageSans-Regular
+- :family: Averia Gruesa Libre
+  :designer: Dan Sayers
+  :license: OFL
+  :directory: averiagruesalibre
+  :fonts:
+  - :name: AveriaGruesaLibre-Regular
+    :file_name: AveriaGruesaLibre-Regular
+- :family: Averia Libre
+  :designer: Dan Sayers
+  :license: OFL
+  :directory: averialibre
+  :fonts:
+  - :name: AveriaLibre-Light
+    :file_name: AveriaLibre-Light
+  - :name: AveriaLibre-LightItalic
+    :file_name: AveriaLibre-LightItalic
+  - :name: AveriaLibre-Regular
+    :file_name: AveriaLibre-Regular
+  - :name: AveriaLibre-Italic
+    :file_name: AveriaLibre-Italic
+  - :name: AveriaLibre-Bold
+    :file_name: AveriaLibre-Bold
+  - :name: AveriaLibre-BoldItalic
+    :file_name: AveriaLibre-BoldItalic
+- :family: Averia Sans Libre
+  :designer: Dan Sayers
+  :license: OFL
+  :directory: averiasanslibre
+  :fonts:
+  - :name: AveriaSansLibre-Light
+    :file_name: AveriaSansLibre-Light
+  - :name: AveriaSansLibre-LightItalic
+    :file_name: AveriaSansLibre-LightItalic
+  - :name: AveriaSansLibre-Regular
+    :file_name: AveriaSansLibre-Regular
+  - :name: AveriaSansLibre-Italic
+    :file_name: AveriaSansLibre-Italic
+  - :name: AveriaSansLibre-Bold
+    :file_name: AveriaSansLibre-Bold
+  - :name: AveriaSansLibre-BoldItalic
+    :file_name: AveriaSansLibre-BoldItalic
+- :family: Averia Serif Libre
+  :designer: Dan Sayers
+  :license: OFL
+  :directory: averiaseriflibre
+  :fonts:
+  - :name: AveriaSerifLibre-Light
+    :file_name: AveriaSerifLibre-Light
+  - :name: AveriaSerifLibre-LightItalic
+    :file_name: AveriaSerifLibre-LightItalic
+  - :name: AveriaSerifLibre-Regular
+    :file_name: AveriaSerifLibre-Regular
+  - :name: AveriaSerifLibre-Italic
+    :file_name: AveriaSerifLibre-Italic
+  - :name: AveriaSerifLibre-Bold
+    :file_name: AveriaSerifLibre-Bold
+  - :name: AveriaSerifLibre-BoldItalic
+    :file_name: AveriaSerifLibre-BoldItalic
+- :family: Bad Script
+  :designer: Gaslight
+  :license: OFL
+  :directory: badscript
+  :fonts:
+  - :name: BadScript-Regular
+    :file_name: BadScript-Regular
+- :family: Balthazar
+  :designer: Dario Manuel Muhafara
+  :license: OFL
+  :directory: balthazar
+  :fonts:
+  - :name: Balthazar-Regular
+    :file_name: Balthazar-Regular
+- :family: Bangers
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: bangers
+  :fonts:
+  - :name: Bangers-Regular
+    :file_name: Bangers
+- :family: Basic
+  :designer: Magnus Gaarde
+  :license: OFL
+  :directory: basic
+  :fonts:
+  - :name: Basic-Regular
+    :file_name: Basic-Regular
+- :family: Battambang
+  :designer: Danh Hong
+  :license: OFL
+  :directory: battambang
+  :fonts:
+  - :name: Battambang
+    :file_name: Battambang-Regular
+  - :name: Battambang-Bold
+    :file_name: Battambang-Bold
+- :family: Baumans
+  :designer: Cyreal
+  :license: OFL
+  :directory: baumans
+  :fonts:
+  - :name: Baumans-Regular
+    :file_name: Baumans-Regular
+- :family: Bayon
+  :designer: Danh Hong
+  :license: OFL
+  :directory: bayon
+  :fonts:
+  - :name: Bayon
+    :file_name: Bayon
+- :family: Belgrano
+  :designer: LatinoType
+  :license: OFL
+  :directory: belgrano
+  :fonts:
+  - :name: Belgrano-Regular
+    :file_name: Belgrano-Regular
+- :family: Belleza
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: belleza
+  :fonts:
+  - :name: Belleza-Regular
+    :file_name: Belleza-Regular
+- :family: BenchNine
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: benchnine
+  :fonts:
+  - :name: BenchNine-Bold
+    :file_name: BenchNine-Bold
+  - :name: BenchNine-Light
+    :file_name: BenchNine-Light
+  - :name: BenchNine-Regular
+    :file_name: BenchNine-Regular
+- :family: Bentham
+  :designer: Ben Weiner
+  :license: OFL
+  :directory: bentham
+  :fonts:
+  - :name: Bentham-Regular
+    :file_name: Bentham-Regular
+- :family: Berkshire Swash
+  :designer: Astigmatic
+  :license: OFL
+  :directory: berkshireswash
+  :fonts:
+  - :name: BerkshireSwash-Regular
+    :file_name: BerkshireSwash-Regular
+- :family: Bevan
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: bevan
+  :fonts:
+  - :name: Bevan
+    :file_name: Bevan
+- :family: Bhavuka
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: bhavuka
+  :fonts:
+  - :name: Bhavuka-Regular
+    :file_name: Bhavuka-Regular
+- :family: Bigelow Rules
+  :designer: Astigmatic
+  :license: OFL
+  :directory: bigelowrules
+  :fonts:
+  - :name: BigelowRules-Regular
+    :file_name: BigelowRules-Regular
+- :family: Bigshot One
+  :designer: Gesine Todt
+  :license: OFL
+  :directory: bigshotone
+  :fonts:
+  - :name: BigshotOne
+    :file_name: BigshotOne
+- :family: Bilbo
+  :designer: TypeSETit
+  :license: OFL
+  :directory: bilbo
+  :fonts:
+  - :name: Bilbo-Regular
+    :file_name: Bilbo-Regular
+- :family: Bilbo Swash Caps
+  :designer: TypeSETit
+  :license: OFL
+  :directory: bilboswashcaps
+  :fonts:
+  - :name: BilboSwashCaps-Regular
+    :file_name: BilboSwashCaps-Regular
+- :family: Biryani
+  :designer: Dan Reynolds and Mathieu Réguer
+  :license: OFL
+  :directory: biryani
+  :fonts:
+  - :name: Biryani-Bold
+    :file_name: Biryani-Bold
+  - :name: Biryani-DemiBold
+    :file_name: Biryani-DemiBold
+  - :name: Biryani-ExtraBold
+    :file_name: Biryani-ExtraBold
+  - :name: Biryani-Heavy
+    :file_name: Biryani-Heavy
+  - :name: Biryani-Light
+    :file_name: Biryani-Light
+  - :name: Biryani-Regular
+    :file_name: Biryani-Regular
+  - :name: Biryani-UltraLight
+    :file_name: Biryani-UltraLight
+- :family: Bitter
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: bitter
+  :fonts:
+  - :name: Bitter-Regular
+    :file_name: Bitter-Regular
+  - :name: Bitter-Italic
+    :file_name: Bitter-Italic
+  - :name: Bitter-Bold
+    :file_name: Bitter-Bold
+- :family: Black Ops One
+  :designer: James Grieshaber
+  :license: OFL
+  :directory: blackopsone
+  :fonts:
+  - :name: BlackOpsOne-Regular
+    :file_name: BlackOpsOne-Regular
+- :family: Bokor
+  :designer: Danh Hong
+  :license: OFL
+  :directory: bokor
+  :fonts:
+  - :name: Bokor
+    :file_name: Bokor
+- :family: Bonbon
+  :designer: Cyreal
+  :license: OFL
+  :directory: bonbon
+  :fonts:
+  - :name: Bonbon-Regular
+    :file_name: Bonbon-Regular
+- :family: Boogaloo
+  :designer: John Vargas Beltrán
+  :license: OFL
+  :directory: boogaloo
+  :fonts:
+  - :name: Boogaloo-Regular
+    :file_name: Boogaloo-Regular
+- :family: Bowlby One
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: bowlbyone
+  :fonts:
+  - :name: BowlbyOne
+    :file_name: BowlbyOne-Regular
+- :family: Bowlby One SC
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: bowlbyonesc
+  :fonts:
+  - :name: BowlbyOneSC-Regular
+    :file_name: BowlbyOneSC-Regular
+- :family: Brawler
+  :designer: Cyreal
+  :license: OFL
+  :directory: brawler
+  :fonts:
+  - :name: Brawler
+    :file_name: Brawler-Regular
+- :family: Bree Serif
+  :designer: TypeTogether
+  :license: OFL
+  :directory: breeserif
+  :fonts:
+  - :name: BreeSerif-Regular
+    :file_name: BreeSerif-Regular
+- :family: Bruno Ace
+  :designer: Astigmatic
+  :license: OFL
+  :directory: brunoace
+  :fonts:
+  - :name: BrunoAce-Regular
+    :file_name: BrunoAce-Regular
+- :family: Bruno Ace SC
+  :designer: Astigmatic
+  :license: OFL
+  :directory: brunoacesc
+  :fonts:
+  - :name: BrunoAceSC-Regular
+    :file_name: BrunoAceSC-Regular
+- :family: Bubblegum Sans
+  :designer: Sudtipos
+  :license: OFL
+  :directory: bubblegumsans
+  :fonts:
+  - :name: BubblegumSans-Regular
+    :file_name: BubblegumSans-Regular
+- :family: Bubbler One
+  :designer: Brenda Gallo
+  :license: OFL
+  :directory: bubblerone
+  :fonts:
+  - :name: BubblerOne
+    :file_name: BubblerOne-Regular
+- :family: Buda
+  :designer: Adèle Antignac
+  :license: OFL
+  :directory: buda
+  :fonts:
+  - :name: Buda
+    :file_name: Buda-Light
+- :family: Buenard
+  :designer: FontFuror
+  :license: OFL
+  :directory: buenard
+  :fonts:
+  - :name: Buenard-Regular
+    :file_name: Buenard-Regular
+  - :name: Buenard-Bold
+    :file_name: Buenard-Bold
+- :family: Butcherman
+  :designer: Typomondo
+  :license: OFL
+  :directory: butcherman
+  :fonts:
+  - :name: Butcherman-Regular
+    :file_name: Butcherman-Regular
+- :family: Butcherman Caps
+  :designer: Typomondo
+  :license: OFL
+  :directory: butchermancaps
+  :fonts:
+  - :name: ButchermanCaps-Regular
+    :file_name: ButchermanCaps-Regular
+- :family: Butterfly Kids
+  :designer: Tart Workshop
+  :license: OFL
+  :directory: butterflykids
+  :fonts:
+  - :name: ButterflyKids
+    :file_name: ButterflyKids-Regular
+- :family: Cabin
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: cabin
+  :fonts:
+  - :name: Cabin-Regular
+    :file_name: Cabin-Regular
+  - :name: Cabin-Italic
+    :file_name: Cabin-Italic
+  - :name: Cabin-Medium
+    :file_name: Cabin-Medium
+  - :name: Cabin-MediumItalic
+    :file_name: Cabin-MediumItalic
+  - :name: Cabin-SemiBold
+    :file_name: Cabin-SemiBold
+  - :name: Cabin-SemiBoldItalic
+    :file_name: Cabin-SemiBoldItalic
+  - :name: Cabin-Bold
+    :file_name: Cabin-Bold
+  - :name: Cabin-BoldItalic
+    :file_name: Cabin-BoldItalic
+- :family: Cabin Condensed
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: cabincondensed
+  :fonts:
+  - :name: CabinCondensed
+    :file_name: CabinCondensed-Regular
+  - :name: CabinCondensed-Medium
+    :file_name: CabinCondensed-Medium
+  - :name: CabinCondensed-SemiBold
+    :file_name: CabinCondensed-SemiBold
+  - :name: CabinCondensed-Bold
+    :file_name: CabinCondensed-Bold
+- :family: Cabin Sketch
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: cabinsketch
+  :fonts:
+  - :name: CabinSketch-Regular
+    :file_name: CabinSketch-Regular
+  - :name: CabinSketch-Bold
+    :file_name: CabinSketch-Bold
+- :family: Caesar Dressing
+  :designer: Open Window
+  :license: OFL
+  :directory: caesardressing
+  :fonts:
+  - :name: CaesarDressing-Regular
+    :file_name: CaesarDressing-Regular
+- :family: Cagliostro
+  :designer: MADType
+  :license: OFL
+  :directory: cagliostro
+  :fonts:
+  - :name: Cagliostro-Regular
+    :file_name: Cagliostro-Regular
+- :family: Calligraffitti
+  :designer: Open Window
+  :license: Apache2
+  :directory: calligraffitti
+  :fonts:
+  - :name: Calligraffitti-Regular
+    :file_name: Calligraffitti-Regular
+- :family: Cambay
+  :designer: Pooja Saxena
+  :license: OFL
+  :directory: cambay
+  :fonts:
+  - :name: Cambay-Bold
+    :file_name: Cambay-Bold
+  - :name: Cambay-BoldItalic
+    :file_name: Cambay-BoldItalic
+  - :name: Cambay-Italic
+    :file_name: Cambay-Italic
+  - :name: Cambay-Regular
+    :file_name: Cambay-Regular
+- :family: Cambo
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: cambo
+  :fonts:
+  - :name: Cambo-Regular
+    :file_name: Cambo-Regular
+- :family: Candal
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: candal
+  :fonts:
+  - :name: Candal
+    :file_name: Candal
+- :family: Cantarell
+  :designer: Dave Crossland
+  :license: OFL
+  :directory: cantarell
+  :fonts:
+  - :name: Cantarell-Regular
+    :file_name: Cantarell-Regular
+  - :name: Cantarell-Oblique
+    :file_name: Cantarell-Oblique
+  - :name: Cantarell-Bold
+    :file_name: Cantarell-Bold
+  - :name: Cantarell-BoldOblique
+    :file_name: Cantarell-BoldOblique
+- :family: Cantata One
+  :designer: Joana Correia da Silva
+  :license: OFL
+  :directory: cantataone
+  :fonts:
+  - :name: CantataOne-Regular
+    :file_name: CantataOne-Regular
+- :family: Cantora One
+  :designer: Impallari Type
+  :license: OFL
+  :directory: cantoraone
+  :fonts:
+  - :name: CantoraOne-Regular
+    :file_name: CantoraOne-Regular
+- :family: Capriola
+  :designer: Viktoriya Grabowska
+  :license: OFL
+  :directory: capriola
+  :fonts:
+  - :name: Capriola-Regular
+    :file_name: Capriola-Regular
+- :family: Cardo
+  :designer: David Perry
+  :license: OFL
+  :directory: cardo
+  :fonts:
+  - :name: Cardo-Regular
+    :file_name: Cardo-Regular
+  - :name: Cardo-Italic
+    :file_name: Cardo-Italic
+  - :name: Cardo-Bold
+    :file_name: Cardo-Bold
+- :family: Carme
+  :designer: Rubén Prol
+  :license: OFL
+  :directory: carme
+  :fonts:
+  - :name: Carme
+    :file_name: Carme-Regular
+- :family: Carrois Gothic
+  :designer: Ralph du Carrois
+  :license: OFL
+  :directory: carroisgothic
+  :fonts:
+  - :name: CarroisGothic-Regular
+    :file_name: CarroisGothic-Regular
+- :family: Carrois Gothic SC
+  :designer: Ralph du Carrois
+  :license: OFL
+  :directory: carroisgothicsc
+  :fonts:
+  - :name: CarroisGothicSC-Regular
+    :file_name: CarroisGothicSC-Regular
+- :family: Carter One
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: carterone
+  :fonts:
+  - :name: CarterOne
+    :file_name: CarterOne
+- :family: Caudex
+  :designer: Nidud
+  :license: OFL
+  :directory: caudex
+  :fonts:
+  - :name: Caudex
+    :file_name: Caudex-Regular
+  - :name: Caudex-Italic
+    :file_name: Caudex-Italic
+  - :name: Caudex-Bold
+    :file_name: Caudex-Bold
+  - :name: Caudex-BoldItalic
+    :file_name: Caudex-BoldItalic
+- :family: Cedarville Cursive
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: cedarvillecursive
+  :fonts:
+  - :name: Cedarville-Cursive
+    :file_name: Cedarville-Cursive
+- :family: Ceviche One
+  :designer: LatinoType
+  :license: OFL
+  :directory: cevicheone
+  :fonts:
+  - :name: CevicheOne-Regular
+    :file_name: CevicheOne-Regular
+- :family: Changa
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: changa
+  :fonts:
+  - :name: Changa-Regular
+    :file_name: Changa-Regular
+- :family: Changa One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: changaone
+  :fonts:
+  - :name: ChangaOne
+    :file_name: ChangaOne-Regular
+  - :name: ChangaOne-Italic
+    :file_name: ChangaOne-Italic
+- :family: Chango
+  :designer: Fontstage
+  :license: OFL
+  :directory: chango
+  :fonts:
+  - :name: Chango-Regular
+    :file_name: Chango-Regular
+- :family: Chau Philomene One
+  :designer: Vicente Lamonaca
+  :license: OFL
+  :directory: chauphilomeneone
+  :fonts:
+  - :name: ChauPhilomeneOne-Regular
+    :file_name: ChauPhilomeneOne-Regular
+  - :name: ChauPhilomeneOne-Italic
+    :file_name: ChauPhilomeneOne-Italic
+- :family: Chela One
+  :designer: Miguel Hernandez
+  :license: OFL
+  :directory: chelaone
+  :fonts:
+  - :name: ChelaOne-Regular
+    :file_name: ChelaOne-Regular
+- :family: Chelsea Market
+  :designer: Tart Workshop
+  :license: OFL
+  :directory: chelseamarket
+  :fonts:
+  - :name: ChelseaMarket-Regular
+    :file_name: ChelseaMarket-Regular
+- :family: Chenla
+  :designer: Danh Hong
+  :license: OFL
+  :directory: chenla
+  :fonts:
+  - :name: Chenla
+    :file_name: Chenla
+- :family: Cherry Cream Soda
+  :designer: Font Diner
+  :license: Apache2
+  :directory: cherrycreamsoda
+  :fonts:
+  - :name: CherryCreamSoda
+    :file_name: CherryCreamSoda
+- :family: Cherry Swash
+  :designer: Nataliya Kasatkina
+  :license: OFL
+  :directory: cherryswash
+  :fonts:
+  - :name: CherrySwash-Bold
+    :file_name: CherrySwash-Bold
+  - :name: CherrySwash-Regular
+    :file_name: CherrySwash-Regular
+- :family: Chewy
+  :designer: Sideshow
+  :license: Apache2
+  :directory: chewy
+  :fonts:
+  - :name: Chewy
+    :file_name: Chewy
+- :family: Chicle
+  :designer: Sudtipos
+  :license: OFL
+  :directory: chicle
+  :fonts:
+  - :name: Chicle-Regular
+    :file_name: Chicle-Regular
+- :family: Chivo
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: chivo
+  :fonts:
+  - :name: Chivo-Regular
+    :file_name: Chivo-Regular
+  - :name: Chivo-Italic
+    :file_name: Chivo-Italic
+  - :name: Chivo-Black
+    :file_name: Chivo-Black
+  - :name: Chivo-BlackItalic
+    :file_name: Chivo-BlackItalic
+- :family: Cinzel
+  :designer: Natanael Gama
+  :license: OFL
+  :directory: cinzel
+  :fonts:
+  - :name: Cinzel-Black
+    :file_name: Cinzel-Black
+  - :name: Cinzel-Bold
+    :file_name: Cinzel-Bold
+  - :name: Cinzel-Regular
+    :file_name: Cinzel-Regular
+- :family: Cinzel Decorative
+  :designer: Natanael Gama
+  :license: OFL
+  :directory: cinzeldecorative
+  :fonts:
+  - :name: CinzelDecorative-Black
+    :file_name: CinzelDecorative-Black
+  - :name: CinzelDecorative-Bold
+    :file_name: CinzelDecorative-Bold
+  - :name: CinzelDecorative-Regular
+    :file_name: CinzelDecorative-Regular
+- :family: Clara
+  :designer: Proyecto Demo
+  :license: OFL
+  :directory: clara
+  :fonts:
+  - :name: Clara-Regular
+    :file_name: Clara-Regular
+- :family: Clicker Script
+  :designer: Astigmatic
+  :license: OFL
+  :directory: clickerscript
+  :fonts:
+  - :name: ClickerScript-Regular
+    :file_name: ClickerScript-Regular
+- :family: Coda
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: coda
+  :fonts:
+  - :name: Coda-Regular
+    :file_name: Coda-Regular
+  - :name: Coda-Heavy
+    :file_name: Coda-Heavy
+- :family: Coda Caption
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: codacaption
+  :fonts:
+  - :name: CodaCaption-Heavy
+    :file_name: CodaCaption-Heavy
+- :family: Codystar
+  :designer: Neapolitan
+  :license: OFL
+  :directory: codystar
+  :fonts:
+  - :name: Codystar-Light
+    :file_name: Codystar-Light
+  - :name: Codystar
+    :file_name: Codystar-Regular
+- :family: Combo
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: combo
+  :fonts:
+  - :name: Combo-Regular
+    :file_name: Combo-Regular
+- :family: Comfortaa
+  :designer: Johan Aakerlund
+  :license: OFL
+  :directory: comfortaa
+  :fonts:
+  - :name: Comfortaa-Light
+    :file_name: Comfortaa-Light
+  - :name: Comfortaa-Regular
+    :file_name: Comfortaa-Regular
+  - :name: Comfortaa-Bold
+    :file_name: Comfortaa-Bold
+- :family: Coming Soon
+  :designer: Open Window
+  :license: Apache2
+  :directory: comingsoon
+  :fonts:
+  - :name: ComingSoon
+    :file_name: ComingSoon
+- :family: Concert One
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: concertone
+  :fonts:
+  - :name: ConcertOne-Regular
+    :file_name: ConcertOne-Regular
+- :family: Condiment
+  :designer: Sudtipos
+  :license: OFL
+  :directory: condiment
+  :fonts:
+  - :name: Condiment-Regular
+    :file_name: Condiment-Regular
+- :family: Content
+  :designer: Danh Hong
+  :license: OFL
+  :directory: content
+  :fonts:
+  - :name: Content
+    :file_name: Content-Regular
+  - :name: Content-Bold
+    :file_name: Content-Bold
+- :family: Contrail One
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: contrailone
+  :fonts:
+  - :name: ContrailOne-Regular
+    :file_name: ContrailOne-Regular
+- :family: Convergence
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: convergence
+  :fonts:
+  - :name: Convergence-Regular
+    :file_name: Convergence-Regular
+- :family: Cookie
+  :designer: Ania Kruk
+  :license: OFL
+  :directory: cookie
+  :fonts:
+  - :name: Cookie-Regular
+    :file_name: Cookie-Regular
+- :family: Copse
+  :designer: Dan Rhatigan
+  :license: OFL
+  :directory: copse
+  :fonts:
+  - :name: Copse
+    :file_name: Copse-Regular
+- :family: Corben
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: corben
+  :fonts:
+  - :name: Corben-Regular
+    :file_name: Corben-Regular
+  - :name: Corben
+    :file_name: Corben-Bold
+- :family: Courgette
+  :designer: Karolina Lach
+  :license: OFL
+  :directory: courgette
+  :fonts:
+  - :name: Courgette-Regular
+    :file_name: Courgette-Regular
+- :family: Cousine
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: cousine
+  :fonts:
+  - :name: Cousine-Bold
+    :file_name: Cousine-Bold
+  - :name: Cousine-BoldItalic
+    :file_name: Cousine-BoldItalic
+  - :name: Cousine-Italic
+    :file_name: Cousine-Italic
+  - :name: Cousine
+    :file_name: Cousine-Regular
+- :family: Coustard
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: coustard
+  :fonts:
+  - :name: Coustard
+    :file_name: Coustard-Regular
+  - :name: Coustard-Black
+    :file_name: Coustard-Black
+- :family: Covered By Your Grace
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: coveredbyyourgrace
+  :fonts:
+  - :name: CoveredByYourGrace
+    :file_name: CoveredByYourGrace
+- :family: Crafty Girls
+  :designer: Tart Workshop
+  :license: Apache2
+  :directory: craftygirls
+  :fonts:
+  - :name: CraftyGirls
+    :file_name: CraftyGirls
+- :family: Creepster
+  :designer: Sideshow
+  :license: OFL
+  :directory: creepster
+  :fonts:
+  - :name: Creepster-Regular
+    :file_name: Creepster-Regular
+- :family: Creepster Caps
+  :designer: Sideshow
+  :license: Apache2
+  :directory: creepstercaps
+  :fonts:
+  - :name: CreepsterCaps-Regular
+    :file_name: CreepsterCaps-Regular
+- :family: Crete Round
+  :designer: TypeTogether
+  :license: OFL
+  :directory: creteround
+  :fonts:
+  - :name: CreteRound-Regular
+    :file_name: CreteRound-Regular
+  - :name: CreteRound-Italic
+    :file_name: CreteRound-Italic
+- :family: Crimson Text
+  :designer: Sebastian Kosch
+  :license: OFL
+  :directory: crimsontext
+  :fonts:
+  - :name: CrimsonText-Bold
+    :file_name: CrimsonText-Bold
+  - :name: CrimsonText-BoldItalic
+    :file_name: CrimsonText-BoldItalic
+  - :name: CrimsonText-Italic
+    :file_name: CrimsonText-Italic
+  - :name: CrimsonText-Roman
+    :file_name: CrimsonText-Regular
+  - :name: CrimsonText-Semibold
+    :file_name: CrimsonText-Semibold
+  - :name: CrimsonText-SemiboldItalic
+    :file_name: CrimsonText-SemiboldItalic
+- :family: Croissant One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: croissantone
+  :fonts:
+  - :name: CroissantOne-Regular
+    :file_name: CroissantOne-Regular
+- :family: Crushed
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: crushed
+  :fonts:
+  - :name: Crushed-Regular
+    :file_name: Crushed
+- :family: Cuprum
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: cuprum
+  :fonts:
+  - :name: Cuprum-Regular
+    :file_name: Cuprum-Regular
+  - :name: Cuprum-Italic
+    :file_name: Cuprum-Italic
+  - :name: Cuprum-Bold
+    :file_name: Cuprum-Bold
+  - :name: Cuprum-BoldItalic
+    :file_name: Cuprum-BoldItalic
+- :family: Cutive
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: cutive
+  :fonts:
+  - :name: Cutive-Regular
+    :file_name: Cutive-Regular
+- :family: Cutive Mono
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: cutivemono
+  :fonts:
+  - :name: CutiveMono-Regular
+    :file_name: CutiveMono-Regular
+- :family: Damion
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: damion
+  :fonts:
+  - :name: Damion
+    :file_name: Damion-Regular
+- :family: Dancing Script
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: dancingscript
+  :fonts:
+  - :name: DancingScript
+    :file_name: DancingScript-Regular
+  - :name: DancingScript-Bold
+    :file_name: DancingScript-Bold
+- :family: Dangrek
+  :designer: Danh Hong
+  :license: OFL
+  :directory: dangrek
+  :fonts:
+  - :name: Dangrek
+    :file_name: Dangrek
+- :family: Dawning of a New Day
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: dawningofanewday
+  :fonts:
+  - :name: DawningofaNewDay
+    :file_name: DawningofaNewDay
+- :family: Days One
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: daysone
+  :fonts:
+  - :name: DaysOne-Regular
+    :file_name: DaysOne-Regular
+- :family: Dekko
+  :designer: Eben Sorkin
+  :license: OFL
+  :directory: dekko
+  :fonts:
+  - :name: Dekko
+    :file_name: Dekko-Regular
+- :family: Delius
+  :designer: Natalia Raices
+  :license: OFL
+  :directory: delius
+  :fonts:
+  - :name: Delius-Regular
+    :file_name: Delius-Regular
+- :family: Delius Swash Caps
+  :designer: Natalia Raices
+  :license: OFL
+  :directory: deliusswashcaps
+  :fonts:
+  - :name: DeliusSwashCaps-Regular
+    :file_name: DeliusSwashCaps-Regular
+- :family: Delius Unicase
+  :designer: Natalia Raices
+  :license: OFL
+  :directory: deliusunicase
+  :fonts:
+  - :name: DeliusUnicase-Regular
+    :file_name: DeliusUnicase-Regular
+  - :name: DeliusUnicase-Bold
+    :file_name: DeliusUnicase-Bold
+- :family: Della Respira
+  :designer: Nathan Willis
+  :license: OFL
+  :directory: dellarespira
+  :fonts:
+  - :name: DellaRespira-Regular
+    :file_name: DellaRespira-Regular
+- :family: Denk One
+  :designer: Sorkin Type
+  :license: OFL
+  :directory: denkone
+  :fonts:
+  - :name: DenkOne-Regular
+    :file_name: DenkOne-Regular
+- :family: Devonshire
+  :designer: Astigmatic
+  :license: OFL
+  :directory: devonshire
+  :fonts:
+  - :name: Devonshire-Regular
+    :file_name: Devonshire-Regular
+- :family: Dhurjati
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: dhurjati
+  :fonts:
+  - :name: Dhurjati
+    :file_name: Dhurjati-Regular
+- :family: Dhyana
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: dhyana
+  :fonts:
+  - :name: Dhyana
+    :file_name: Dhyana-Regular
+  - :name: Dhyana-Bold
+    :file_name: Dhyana-Bold
+- :family: Didact Gothic
+  :designer: Daniel Johnson
+  :license: OFL
+  :directory: didactgothic
+  :fonts:
+  - :name: DidactGothic
+    :file_name: DidactGothic
+- :family: Dinah
+  :designer: Blondina Elms Pastel
+  :license: OFL
+  :directory: dinah
+  :fonts:
+  - :name: Dinah-Regular
+    :file_name: Dinah-Regular
+  - :name: Dinah-Bold
+    :file_name: Dinah-Bold
+- :family: Diplomata
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: diplomata
+  :fonts:
+  - :name: Diplomata-Regular
+    :file_name: Diplomata-Regular
+- :family: Diplomata SC
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: diplomatasc
+  :fonts:
+  - :name: DiplomataSC-Regular
+    :file_name: DiplomataSC-Regular
+- :family: Domine
+  :designer: Impallari Type
+  :license: OFL
+  :directory: domine
+  :fonts:
+  - :name: Domine-Bold
+    :file_name: Domine-Bold
+  - :name: Domine-Regular
+    :file_name: Domine-Regular
+- :family: Donegal One
+  :designer: Gary Lonergan
+  :license: OFL
+  :directory: donegalone
+  :fonts:
+  - :name: DonegalOne-Regular
+    :file_name: DonegalOne-Regular
+- :family: Doppio One
+  :designer: Szymon Celej
+  :license: OFL
+  :directory: doppioone
+  :fonts:
+  - :name: DoppioOne-Regular
+    :file_name: DoppioOne-Regular
+- :family: Dorsa
+  :designer: Santiago Orozco
+  :license: OFL
+  :directory: dorsa
+  :fonts:
+  - :name: Dorsa-Regular
+    :file_name: Dorsa-Regular
+- :family: Dosis
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: dosis
+  :fonts:
+  - :name: Dosis-ExtraLight
+    :file_name: Dosis-ExtraLight
+  - :name: Dosis-Light
+    :file_name: Dosis-Light
+  - :name: Dosis-Regular
+    :file_name: Dosis-Regular
+  - :name: Dosis-Medium
+    :file_name: Dosis-Medium
+  - :name: Dosis-SemiBold
+    :file_name: Dosis-SemiBold
+  - :name: Dosis-Bold
+    :file_name: Dosis-Bold
+  - :name: Dosis-ExtraBold
+    :file_name: Dosis-ExtraBold
+- :family: Droid Arabic Kufi
+  :designer: Pascal Zoghbi
+  :license: Apache2
+  :directory: droidarabickufi
+  :fonts:
+  - :name: DroidArabicKufi
+    :file_name: DroidKufi-Regular
+  - :name: DroidArabicKufi-Bold
+    :file_name: DroidKufi-Bold
+- :family: Droid Arabic Naskh
+  :designer: Pascal Zoghbi
+  :license: Apache2
+  :directory: droidarabicnaskh
+  :fonts:
+  - :name: DroidArabicNaskh
+    :file_name: DroidNaskh-Regular
+  - :name: DroidArabicNaskh-Bold
+    :file_name: DroidNaskh-Bold
+- :family: Droid Sans
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: droidsans
+  :fonts:
+  - :name: DroidSans
+    :file_name: DroidSans
+  - :name: DroidSans-Bold
+    :file_name: DroidSans-Bold
+- :family: Droid Sans Ethiopic
+  :designer: Monotype
+  :license: Apache2
+  :directory: droidsansethiopic
+  :fonts:
+  - :name: DroidSansEthiopic
+    :file_name: DroidSansEthiopic-Regular
+  - :name: DroidSansEthiopic-Bold
+    :file_name: DroidSansEthiopic-Bold
+- :family: Droid Sans Mono
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: droidsansmono
+  :fonts:
+  - :name: DroidSansMono
+    :file_name: DroidSansMono
+- :family: Droid Sans Thai
+  :designer: Monotype
+  :license: Apache2
+  :directory: droidsansthai
+  :fonts:
+  - :name: DroidSansThai
+    :file_name: DroidSansThai-Regular
+  - :name: DroidSansThai-Bold
+    :file_name: DroidSansThai-Bold
+- :family: Droid Serif
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: droidserif
+  :fonts:
+  - :name: DroidSerif
+    :file_name: DroidSerif
+  - :name: DroidSerif-Italic
+    :file_name: DroidSerif-Italic
+  - :name: DroidSerif-Bold
+    :file_name: DroidSerif-Bold
+  - :name: DroidSerif-BoldItalic
+    :file_name: DroidSerif-BoldItalic
+- :family: Droid Serif Thai
+  :designer: Monotype
+  :license: Apache2
+  :directory: droidserifthai
+  :fonts:
+  - :name: DroidSerifThai
+    :file_name: DroidSerifThai-Regular
+  - :name: DroidSerifThai-Bold
+    :file_name: DroidSerifThai-Bold
+- :family: Dr Sugiyama
+  :designer: Sudtipos
+  :license: OFL
+  :directory: drsugiyama
+  :fonts:
+  - :name: DrSugiyama-Regular
+    :file_name: DrSugiyama-Regular
+- :family: Duru Sans
+  :designer: Onur Yazıcıgil
+  :license: OFL
+  :directory: durusans
+  :fonts:
+  - :name: DuruSans-Regular
+    :file_name: DuruSans-Regular
+- :family: Dynalight
+  :designer: Astigmatic
+  :license: OFL
+  :directory: dynalight
+  :fonts:
+  - :name: Dynalight-Regular
+    :file_name: Dynalight-Regular
+- :family: Eagle Lake
+  :designer: Astigmatic
+  :license: OFL
+  :directory: eaglelake
+  :fonts:
+  - :name: EagleLake-Regular
+    :file_name: EagleLake-Regular
+- :family: Eater
+  :designer: Typomondo
+  :license: OFL
+  :directory: eater
+  :fonts:
+  - :name: Eater-Regular
+    :file_name: Eater-Regular
+- :family: Eater Caps
+  :designer: Typomondo
+  :license: OFL
+  :directory: eatercaps
+  :fonts:
+  - :name: EaterCaps-Regular
+    :file_name: EaterCaps-Regular
+- :family: EB Garamond
+  :designer: Georg Duffner
+  :license: OFL
+  :directory: ebgaramond
+  :fonts:
+  - :name: EBGaramond
+    :file_name: EBGaramond-Regular
+- :family: Economica
+  :designer: Vicente Lamónaca
+  :license: OFL
+  :directory: economica
+  :fonts:
+  - :name: Economica-Regular
+    :file_name: Economica-Regular
+  - :name: Economica-Italic
+    :file_name: Economica-Italic
+  - :name: Economica-Bold
+    :file_name: Economica-Bold
+  - :name: Economica-BoldItalic
+    :file_name: Economica-BoldItalic
+- :family: Eczar
+  :designer: Vaibhav Singh
+  :license: OFL
+  :directory: eczar
+  :fonts:
+  - :name: Eczar-Bold
+    :file_name: Eczar-Bold
+  - :name: Eczar-Extrabold
+    :file_name: Eczar-Extrabold
+  - :name: Eczar-Medium
+    :file_name: Eczar-Medium
+  - :name: Eczar-Regular
+    :file_name: Eczar-Regular
+  - :name: Eczar-Semibold
+    :file_name: Eczar-Semibold
+- :family: Ek Mukta
+  :designer: Ek Type
+  :license: OFL
+  :directory: ekmukta
+  :fonts:
+  - :name: EkMukta-Bold
+    :file_name: EkMukta-Bold
+  - :name: EkMukta-ExtraBold
+    :file_name: EkMukta-ExtraBold
+  - :name: EkMukta-ExtraLight
+    :file_name: EkMukta-ExtraLight
+  - :name: EkMukta-Light
+    :file_name: EkMukta-Light
+  - :name: EkMukta-Medium
+    :file_name: EkMukta-Medium
+  - :name: EkMukta-Regular
+    :file_name: EkMukta-Regular
+  - :name: EkMukta-SemiBold
+    :file_name: EkMukta-SemiBold
+- :family: Electrolize
+  :designer: Gaslight
+  :license: OFL
+  :directory: electrolize
+  :fonts:
+  - :name: Electrolize-Regular
+    :file_name: Electrolize-Regular
+- :family: Elsie
+  :designer: Alejandro Inler
+  :license: OFL
+  :directory: elsie
+  :fonts:
+  - :name: ElsieBlack-Regular
+    :file_name: Elsie-Black
+  - :name: Elsie-Regular
+    :file_name: Elsie-Regular
+- :family: Elsie Swash Caps
+  :designer: Alejandro Inler
+  :license: OFL
+  :directory: elsieswashcaps
+  :fonts:
+  - :name: ElsieSwashCapsBlack-Regular
+    :file_name: ElsieSwashCaps-Black
+  - :name: ElsieSwashCaps-Regular
+    :file_name: ElsieSwashCaps-Regular
+- :family: Emblema One
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: emblemaone
+  :fonts:
+  - :name: EmblemaOne-Regular
+    :file_name: EmblemaOne-Regular
+- :family: Emilys Candy
+  :designer: Neapolitan
+  :license: OFL
+  :directory: emilyscandy
+  :fonts:
+  - :name: EmilysCandy-Regular
+    :file_name: EmilysCandy-Regular
+- :family: Encode Sans
+  :designer: Impallari Type
+  :license: OFL
+  :directory: encodesans
+  :fonts:
+  - :name: EncodeSans-Black
+    :file_name: EncodeSans-Black
+  - :name: EncodeSans-Bold
+    :file_name: EncodeSans-Bold
+  - :name: EncodeSans-ExtraBold
+    :file_name: EncodeSans-ExtraBold
+  - :name: EncodeSans-ExtraLight
+    :file_name: EncodeSans-ExtraLight
+  - :name: EncodeSans-Light
+    :file_name: EncodeSans-Light
+  - :name: EncodeSans-Medium
+    :file_name: EncodeSans-Medium
+  - :name: EncodeSans-Regular
+    :file_name: EncodeSans-Regular
+  - :name: EncodeSans-SemiBold
+    :file_name: EncodeSans-SemiBold
+  - :name: EncodeSans-Thin
+    :file_name: EncodeSans-Thin
+- :family: Encode Sans Compressed
+  :designer: Impallari Type
+  :license: OFL
+  :directory: encodesanscompressed
+  :fonts:
+  - :name: EncodeSansCompressed-Black
+    :file_name: EncodeSansCompressed-Black
+  - :name: EncodeSansCompressed-Bold
+    :file_name: EncodeSansCompressed-Bold
+  - :name: EncodeSansCompressed-ExtraBold
+    :file_name: EncodeSansCompressed-ExtraBold
+  - :name: EncodeSansCompressed-ExtraLight
+    :file_name: EncodeSansCompressed-ExtraLight
+  - :name: EncodeSansCompressed-Light
+    :file_name: EncodeSansCompressed-Light
+  - :name: EncodeSansCompressed-Medium
+    :file_name: EncodeSansCompressed-Medium
+  - :name: EncodeSansCompressed-Regular
+    :file_name: EncodeSansCompressed-Regular
+  - :name: EncodeSansCompressed-SemiBold
+    :file_name: EncodeSansCompressed-SemiBold
+  - :name: EncodeSansCompressed-Thin
+    :file_name: EncodeSansCompressed-Thin
+- :family: Encode Sans Condensed
+  :designer: Impallari Type
+  :license: OFL
+  :directory: encodesanscondensed
+  :fonts:
+  - :name: EncodeSansCondensed-Black
+    :file_name: EncodeSansCondensed-Black
+  - :name: EncodeSansCondensed-Bold
+    :file_name: EncodeSansCondensed-Bold
+  - :name: EncodeSansCondensed-ExtraBold
+    :file_name: EncodeSansCondensed-ExtraBold
+  - :name: EncodeSansCondensed-ExtraLight
+    :file_name: EncodeSansCondensed-ExtraLight
+  - :name: EncodeSansCondensed-Light
+    :file_name: EncodeSansCondensed-Light
+  - :name: EncodeSansCondensed-Medium
+    :file_name: EncodeSansCondensed-Medium
+  - :name: EncodeSansCondensed-Regular
+    :file_name: EncodeSansCondensed-Regular
+  - :name: EncodeSansCondensed-SemiBold
+    :file_name: EncodeSansCondensed-SemiBold
+  - :name: EncodeSansCondensed-Thin
+    :file_name: EncodeSansCondensed-Thin
+- :family: Encode Sans Narrow
+  :designer: Impallari Type
+  :license: OFL
+  :directory: encodesansnarrow
+  :fonts:
+  - :name: EncodeSansNarrow-Black
+    :file_name: EncodeSansNarrow-Black
+  - :name: EncodeSansNarrow-Bold
+    :file_name: EncodeSansNarrow-Bold
+  - :name: EncodeSansNarrow-ExtraBold
+    :file_name: EncodeSansNarrow-ExtraBold
+  - :name: EncodeSansNarrow-ExtraLight
+    :file_name: EncodeSansNarrow-ExtraLight
+  - :name: EncodeSansNarrow-Light
+    :file_name: EncodeSansNarrow-Light
+  - :name: EncodeSansNarrow-Medium
+    :file_name: EncodeSansNarrow-Medium
+  - :name: EncodeSansNarrow-Regular
+    :file_name: EncodeSansNarrow-Regular
+  - :name: EncodeSansNarrow-SemiBold
+    :file_name: EncodeSansNarrow-SemiBold
+  - :name: EncodeSansNarrow-Thin
+    :file_name: EncodeSansNarrow-Thin
+- :family: Encode Sans Wide
+  :designer: Impallari Type
+  :license: OFL
+  :directory: encodesanswide
+  :fonts:
+  - :name: EncodeSansWide-Black
+    :file_name: EncodeSansWide-Black
+  - :name: EncodeSansWide-Bold
+    :file_name: EncodeSansWide-Bold
+  - :name: EncodeSansWide-ExtraBold
+    :file_name: EncodeSansWide-ExtraBold
+  - :name: EncodeSansWide-ExtraLight
+    :file_name: EncodeSansWide-ExtraLight
+  - :name: EncodeSansWide-Light
+    :file_name: EncodeSansWide-Light
+  - :name: EncodeSansWide-Medium
+    :file_name: EncodeSansWide-Medium
+  - :name: EncodeSansWide-Regular
+    :file_name: EncodeSansWide-Regular
+  - :name: EncodeSansWide-SemiBold
+    :file_name: EncodeSansWide-SemiBold
+  - :name: EncodeSansWide-Thin
+    :file_name: EncodeSansWide-Thin
+- :family: Engagement
+  :designer: Astigmatic
+  :license: OFL
+  :directory: engagement
+  :fonts:
+  - :name: Engagement-Regular
+    :file_name: Engagement-Regular
+- :family: Englebert
+  :designer: Astigmatic
+  :license: OFL
+  :directory: englebert
+  :fonts:
+  - :name: Englebert-Regular
+    :file_name: Englebert-Regular
+- :family: Enriqueta
+  :designer: FontFuror
+  :license: OFL
+  :directory: enriqueta
+  :fonts:
+  - :name: Enriqueta-Regular
+    :file_name: Enriqueta-Regular
+  - :name: Enriqueta-Bold
+    :file_name: Enriqueta-Bold
+- :family: Erica One
+  :designer: LatinoType
+  :license: OFL
+  :directory: ericaone
+  :fonts:
+  - :name: EricaOne-Regular
+    :file_name: EricaOne-Regular
+- :family: Esteban
+  :designer: Angélica Díaz
+  :license: OFL
+  :directory: esteban
+  :fonts:
+  - :name: Esteban
+    :file_name: Esteban-Regular
+- :family: Euphoria Script
+  :designer: Sabrina Mariela Lopez
+  :license: OFL
+  :directory: euphoriascript
+  :fonts:
+  - :name: EuphoriaScript-Regular
+    :file_name: EuphoriaScript-Regular
+- :family: Ewert
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: ewert
+  :fonts:
+  - :name: Ewert-Regular
+    :file_name: Ewert-Regular
+- :family: Exo
+  :designer: Natanael Gama
+  :license: OFL
+  :directory: exo
+  :fonts:
+  - :name: Exo-Thin
+    :file_name: Exo-Thin
+  - :name: Exo-ThinItalic
+    :file_name: Exo-ThinItalic
+  - :name: Exo-ExtraLight
+    :file_name: Exo-ExtraLight
+  - :name: Exo-ExtraLightItalic
+    :file_name: Exo-ExtraLightItalic
+  - :name: Exo-Light
+    :file_name: Exo-Light
+  - :name: Exo-LightItalic
+    :file_name: Exo-LightItalic
+  - :name: Exo-Regular
+    :file_name: Exo-Regular
+  - :name: Exo-Italic
+    :file_name: Exo-Italic
+  - :name: Exo-Medium
+    :file_name: Exo-Medium
+  - :name: Exo-MediumItalic
+    :file_name: Exo-MediumItalic
+  - :name: Exo-DemiBold
+    :file_name: Exo-SemiBold
+  - :name: Exo-DemiBoldItalic
+    :file_name: Exo-SemiBoldItalic
+  - :name: Exo-Bold
+    :file_name: Exo-Bold
+  - :name: Exo-BoldItalic
+    :file_name: Exo-BoldItalic
+  - :name: Exo-ExtraBold
+    :file_name: Exo-ExtraBold
+  - :name: Exo-ExtraBoldItalic
+    :file_name: Exo-ExtraBoldItalic
+  - :name: Exo-Black
+    :file_name: Exo-Black
+  - :name: Exo-BlackItalic
+    :file_name: Exo-BlackItalic
+- :family: Exo 2
+  :designer: Natanael Gama
+  :license: OFL
+  :directory: exo2
+  :fonts:
+  - :name: Exo2-Black
+    :file_name: Exo2-Black
+  - :name: Exo2-BlackItalic
+    :file_name: Exo2-BlackItalic
+  - :name: Exo2-Bold
+    :file_name: Exo2-Bold
+  - :name: Exo2-BoldItalic
+    :file_name: Exo2-BoldItalic
+  - :name: Exo2-ExtraBold
+    :file_name: Exo2-ExtraBold
+  - :name: Exo2-ExtraBoldItalic
+    :file_name: Exo2-ExtraBoldItalic
+  - :name: Exo2-ExtraLight
+    :file_name: Exo2-ExtraLight
+  - :name: Exo2-ExtraLightItalic
+    :file_name: Exo2-ExtraLightItalic
+  - :name: Exo2-Italic
+    :file_name: Exo2-Italic
+  - :name: Exo2-Light
+    :file_name: Exo2-Light
+  - :name: Exo2-LightItalic
+    :file_name: Exo2-LightItalic
+  - :name: Exo2-Medium
+    :file_name: Exo2-Medium
+  - :name: Exo2-MediumItalic
+    :file_name: Exo2-MediumItalic
+  - :name: Exo2-Regular
+    :file_name: Exo2-Regular
+  - :name: Exo2-SemiBold
+    :file_name: Exo2-SemiBold
+  - :name: Exo2-SemiBoldItalic
+    :file_name: Exo2-SemiBoldItalic
+  - :name: Exo2-Thin
+    :file_name: Exo2-Thin
+  - :name: Exo2-ThinItalic
+    :file_name: Exo2-ThinItalic
+- :family: Expletus Sans
+  :designer: Jasper de Waard
+  :license: OFL
+  :directory: expletussans
+  :fonts:
+  - :name: ExpletusSans
+    :file_name: ExpletusSans-Regular
+  - :name: ExpletusSans-Italic
+    :file_name: ExpletusSans-Italic
+  - :name: ExpletusSans-Medium
+    :file_name: ExpletusSans-Medium
+  - :name: ExpletusSans-MediumItalic
+    :file_name: ExpletusSans-MediumItalic
+  - :name: ExpletusSans-SemiBold
+    :file_name: ExpletusSans-SemiBold
+  - :name: ExpletusSans-SemiBoldItalic
+    :file_name: ExpletusSans-SemiBoldItalic
+  - :name: ExpletusSans-Bold
+    :file_name: ExpletusSans-Bold
+  - :name: ExpletusSans-BoldItalic
+    :file_name: ExpletusSans-BoldItalic
+- :family: Fanwood Text
+  :designer: Barry Schwartz
+  :license: OFL
+  :directory: fanwoodtext
+  :fonts:
+  - :name: FanwoodText-Regular
+    :file_name: FanwoodText-Regular
+  - :name: FanwoodText-Italic
+    :file_name: FanwoodText-Italic
+- :family: Fascinate
+  :designer: Astigmatic
+  :license: OFL
+  :directory: fascinate
+  :fonts:
+  - :name: Fascinate-Regular
+    :file_name: Fascinate-Regular
+- :family: Fascinate Inline
+  :designer: Astigmatic
+  :license: OFL
+  :directory: fascinateinline
+  :fonts:
+  - :name: FascinateInline-Regular
+    :file_name: FascinateInline-Regular
+- :family: Faster One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: fasterone
+  :fonts:
+  - :name: FasterOne-Regular
+    :file_name: FasterOne-Regular
+- :family: Fasthand
+  :designer: Danh Hong
+  :license: OFL
+  :directory: fasthand
+  :fonts:
+  - :name: Fasthand-Regular
+    :file_name: Fasthand-Regular
+- :family: Fauna One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: faunaone
+  :fonts:
+  - :name: FaunaOne-Regular
+    :file_name: FaunaOne-Regular
+- :family: Federant
+  :designer: Cyreal
+  :license: OFL
+  :directory: federant
+  :fonts:
+  - :name: Federant-Medium
+    :file_name: Federant-Regular
+- :family: Federo
+  :designer: Cyreal
+  :license: OFL
+  :directory: federo
+  :fonts:
+  - :name: Federo-Regular
+    :file_name: Federo-Regular
+- :family: Felipa
+  :designer: Fontstage
+  :license: OFL
+  :directory: felipa
+  :fonts:
+  - :name: Felipa-Regular
+    :file_name: Felipa-Regular
+- :family: Fenix
+  :designer: Fernando Díaz
+  :license: OFL
+  :directory: fenix
+  :fonts:
+  - :name: Fenix-Regular
+    :file_name: Fenix-Regular
+- :family: Finger Paint
+  :designer: Ralph du Carrois
+  :license: OFL
+  :directory: fingerpaint
+  :fonts:
+  - :name: FingerPaint-Regular
+    :file_name: FingerPaint-Regular
+- :family: Fira Mono
+  :designer: Carrois and Edenspiekermann
+  :license: OFL
+  :directory: firamono
+  :fonts:
+  - :name: FiraMono-Bold
+    :file_name: FiraMono-Bold
+  - :name: FiraMono-Medium
+    :file_name: FiraMono-Medium
+  - :name: FiraMono-Regular
+    :file_name: FiraMono-Regular
+- :family: Fira Sans
+  :designer: Carrois and Edenspiekermann
+  :license: OFL
+  :directory: firasans
+  :fonts:
+  - :name: FiraSans-Bold
+    :file_name: FiraSans-Bold
+  - :name: FiraSans-BoldItalic
+    :file_name: FiraSans-BoldItalic
+  - :name: FiraSans-Italic
+    :file_name: FiraSans-Italic
+  - :name: FiraSans-Light
+    :file_name: FiraSans-Light
+  - :name: FiraSans-LightItalic
+    :file_name: FiraSans-LightItalic
+  - :name: FiraSans-Medium
+    :file_name: FiraSans-Medium
+  - :name: FiraSans-MediumItalic
+    :file_name: FiraSans-MediumItalic
+  - :name: FiraSans-Regular
+    :file_name: FiraSans-Regular
+- :family: Fjalla One
+  :designer: Sorkin Type
+  :license: OFL
+  :directory: fjallaone
+  :fonts:
+  - :name: FjallaOne-Regular
+    :file_name: FjallaOne-Regular
+- :family: Fjord One
+  :designer: Viktoriya Grabowska
+  :license: OFL
+  :directory: fjordone
+  :fonts:
+  - :name: Fjord-One
+    :file_name: FjordOne-Regular
+- :family: Flamenco
+  :designer: LatinoType
+  :license: OFL
+  :directory: flamenco
+  :fonts:
+  - :name: Flamenco-Light
+    :file_name: Flamenco-Light
+  - :name: Flamenco-Regular
+    :file_name: Flamenco-Regular
+- :family: Flavors
+  :designer: Sideshow
+  :license: OFL
+  :directory: flavors
+  :fonts:
+  - :name: Flavors-Regular
+    :file_name: Flavors-Regular
+- :family: Fondamento
+  :designer: Astigmatic
+  :license: OFL
+  :directory: fondamento
+  :fonts:
+  - :name: Fondamento-Regular
+    :file_name: Fondamento-Regular
+  - :name: Fondamento-Italic
+    :file_name: Fondamento-Italic
+- :family: Fontdiner Swanky
+  :designer: Font Diner
+  :license: Apache2
+  :directory: fontdinerswanky
+  :fonts:
+  - :name: FontdinerSwanky
+    :file_name: FontdinerSwanky
+- :family: Forum
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: forum
+  :fonts:
+  - :name: Forum
+    :file_name: Forum-Regular
+- :family: Francois One
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: francoisone
+  :fonts:
+  - :name: FrancoisOne-Regular
+    :file_name: FrancoisOne
+- :family: Freckle Face
+  :designer: Astigmatic
+  :license: OFL
+  :directory: freckleface
+  :fonts:
+  - :name: FreckleFace-Regular
+    :file_name: FreckleFace-Regular
+- :family: Fredericka the Great
+  :designer: Tart Workshop
+  :license: OFL
+  :directory: frederickathegreat
+  :fonts:
+  - :name: FrederickatheGreat
+    :file_name: FrederickatheGreat-Regular
+- :family: Fredoka One
+  :designer: Milena Brandao
+  :license: OFL
+  :directory: fredokaone
+  :fonts:
+  - :name: FredokaOne-Regular
+    :file_name: FredokaOne-Regular
+- :family: Freehand
+  :designer: Danh Hong
+  :license: OFL
+  :directory: freehand
+  :fonts:
+  - :name: Freehand
+    :file_name: Freehand
+- :family: Fresca
+  :designer: Fontstage
+  :license: OFL
+  :directory: fresca
+  :fonts:
+  - :name: Fresca-Regular
+    :file_name: Fresca-Regular
+- :family: Frijole
+  :designer: Sideshow
+  :license: OFL
+  :directory: frijole
+  :fonts:
+  - :name: Frijole
+    :file_name: Frijole-Regular
+- :family: Fruktur
+  :designer: Viktoriya Grabowska
+  :license: OFL
+  :directory: fruktur
+  :fonts:
+  - :name: Fruktur-Regular
+    :file_name: Fruktur-Regular
+- :family: Fugaz One
+  :designer: LatinoType
+  :license: OFL
+  :directory: fugazone
+  :fonts:
+  - :name: FugazOne-Regular
+    :file_name: FugazOne-Regular
+- :family: Gabriela
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: gabriela
+  :fonts:
+  - :name: Gabriela-Regular
+    :file_name: Gabriela-Regular
+- :family: Gafata
+  :designer: Lautaro Hourcade
+  :license: OFL
+  :directory: gafata
+  :fonts:
+  - :name: Gafata-Regular
+    :file_name: Gafata-Regular
+- :family: Galdeano
+  :designer: Dario Manuel Muhafara
+  :license: OFL
+  :directory: galdeano
+  :fonts:
+  - :name: Galdeano-Regular
+    :file_name: Galdeano-Regular
+- :family: Galindo
+  :designer: Astigmatic
+  :license: OFL
+  :directory: galindo
+  :fonts:
+  - :name: Galindo-Regular
+    :file_name: Galindo-Regular
+- :family: Gentium Basic
+  :designer: Victor Gaultney
+  :license: OFL
+  :directory: gentiumbasic
+  :fonts:
+  - :name: GentiumBasic
+    :file_name: GenBasR
+  - :name: GentiumBasic-Italic
+    :file_name: GenBasI
+  - :name: GentiumBasic-Bold
+    :file_name: GenBasB
+  - :name: GentiumBasic-BoldItalic
+    :file_name: GenBasBI
+- :family: Gentium Book Basic
+  :designer: Victor Gaultney
+  :license: OFL
+  :directory: gentiumbookbasic
+  :fonts:
+  - :name: GentiumBookBasic
+    :file_name: GenBkBasR
+  - :name: GentiumBookBasic-Italic
+    :file_name: GenBkBasI
+  - :name: GentiumBookBasic-Bold
+    :file_name: GenBkBasB
+  - :name: GentiumBookBasic-BoldItalic
+    :file_name: GenBkBasBI
+- :family: Geo
+  :designer: Ben Weiner
+  :license: OFL
+  :directory: geo
+  :fonts:
+  - :name: Geo-Regular
+    :file_name: Geo-Regular
+  - :name: Geo-Oblique
+    :file_name: Geo-Oblique
+- :family: Geostar
+  :designer: Joe Prince
+  :license: OFL
+  :directory: geostar
+  :fonts:
+  - :name: Geostar-Regular
+    :file_name: Geostar-Regular
+- :family: Geostar Fill
+  :designer: Joe Prince
+  :license: OFL
+  :directory: geostarfill
+  :fonts:
+  - :name: GeostarFill-Regular
+    :file_name: GeostarFill-Regular
+- :family: Germania One
+  :designer: John Vargas Beltrán
+  :license: OFL
+  :directory: germaniaone
+  :fonts:
+  - :name: GermaniaOne-Regular
+    :file_name: GermaniaOne-Regular
+- :family: GFS Didot
+  :designer: Greek Font Society
+  :license: OFL
+  :directory: gfsdidot
+  :fonts:
+  - :name: GFSDidot-Regular
+    :file_name: GFSDidot-Regular
+- :family: GFS Neohellenic
+  :designer: Greek Font Society
+  :license: OFL
+  :directory: gfsneohellenic
+  :fonts:
+  - :name: GFSNeohellenic-Regular
+    :file_name: GFSNeohellenic
+  - :name: GFSNeohellenic-Italic
+    :file_name: GFSNeohellenicItalic
+  - :name: GFSNeohellenic-Bold
+    :file_name: GFSNeohellenicBold
+  - :name: GFSNeohellenic-BoldItalic
+    :file_name: GFSNeohellenicBoldItalic
+- :family: Gidugu
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: gidugu
+  :fonts:
+  - :name: Gidugu
+    :file_name: Gidugu-Regular
+- :family: Gilda Display
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: gildadisplay
+  :fonts:
+  - :name: GildaDisplay-Regular
+    :file_name: GildaDisplay-Regular
+- :family: Give You Glory
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: giveyouglory
+  :fonts:
+  - :name: GiveYouGlory
+    :file_name: GiveYouGlory
+- :family: Glass Antiqua
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: glassantiqua
+  :fonts:
+  - :name: GlassAntiqua-Regular
+    :file_name: GlassAntiqua-Regular
+- :family: Glegoo
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: glegoo
+  :fonts:
+  - :name: Glegoo-Bold
+    :file_name: Glegoo-Bold
+  - :name: Glegoo-Regular
+    :file_name: Glegoo-Regular
+- :family: Gloria Hallelujah
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: gloriahallelujah
+  :fonts:
+  - :name: GloriaHallelujah
+    :file_name: GloriaHallelujah
+- :family: Goblin One
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: goblinone
+  :fonts:
+  - :name: GoblinOne
+    :file_name: GoblinOne
+- :family: Gochi Hand
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: gochihand
+  :fonts:
+  - :name: GochiHand-Regular
+    :file_name: GochiHand-Regular
+- :family: Gorditas
+  :designer: Gustavo Dipre
+  :license: OFL
+  :directory: gorditas
+  :fonts:
+  - :name: Gorditas-Regular
+    :file_name: Gorditas-Regular
+  - :name: Gorditas-Bold
+    :file_name: Gorditas-Bold
+- :family: Goudy Bookletter 1911
+  :designer: Barry Schwartz
+  :license: OFL
+  :directory: goudybookletter1911
+  :fonts:
+  - :name: GoudyBookletter1911
+    :file_name: GoudyBookletter1911
+- :family: Graduate
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: graduate
+  :fonts:
+  - :name: Graduate-Regular
+    :file_name: Graduate-Regular
+- :family: Grand Hotel
+  :designer: Astigmatic
+  :license: OFL
+  :directory: grandhotel
+  :fonts:
+  - :name: GrandHotel-Regular
+    :file_name: GrandHotel-Regular
+- :family: Gravitas One
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: gravitasone
+  :fonts:
+  - :name: GravitasOne
+    :file_name: GravitasOne
+- :family: Great Vibes
+  :designer: TypeSETit
+  :license: OFL
+  :directory: greatvibes
+  :fonts:
+  - :name: GreatVibes-Regular
+    :file_name: GreatVibes-Regular
+- :family: Griffy
+  :designer: Neapolitan
+  :license: OFL
+  :directory: griffy
+  :fonts:
+  - :name: Griffy-Regular
+    :file_name: Griffy-Regular
+- :family: Gruppo
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: gruppo
+  :fonts:
+  - :name: Gruppo
+    :file_name: Gruppo-Regular
+- :family: Gudea
+  :designer: Agustina Mingote
+  :license: OFL
+  :directory: gudea
+  :fonts:
+  - :name: Gudea
+    :file_name: Gudea-Regular
+  - :name: Gudea-Italic
+    :file_name: Gudea-Italic
+  - :name: Gudea-Bold
+    :file_name: Gudea-Bold
+- :family: Gurajada
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: gurajada
+  :fonts:
+  - :name: Gurajada
+    :file_name: Gurajada-Regular
+- :family: Habibi
+  :designer: Magnus Gaarde
+  :license: OFL
+  :directory: habibi
+  :fonts:
+  - :name: Habibi-Regular
+    :file_name: Habibi-Regular
+- :family: Halant
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: halant
+  :fonts:
+  - :name: Halant-Bold
+    :file_name: Halant-Bold
+  - :name: Halant-Light
+    :file_name: Halant-Light
+  - :name: Halant-Medium
+    :file_name: Halant-Medium
+  - :name: Halant-Regular
+    :file_name: Halant-Regular
+  - :name: Halant-Semibold
+    :file_name: Halant-Semibold
+- :family: Hammersmith One
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: hammersmithone
+  :fonts:
+  - :name: HammersmithOne
+    :file_name: HammersmithOne-Regular
+- :family: Hanalei
+  :designer: Astigmatic
+  :license: OFL
+  :directory: hanalei
+  :fonts:
+  - :name: Hanalei-Regular
+    :file_name: Hanalei-Regular
+- :family: Hanalei Fill
+  :designer: Astigmatic
+  :license: OFL
+  :directory: hanaleifill
+  :fonts:
+  - :name: HanaleiFill-Regular
+    :file_name: HanaleiFill-Regular
+- :family: Handlee
+  :designer: Joe Prince
+  :license: OFL
+  :directory: handlee
+  :fonts:
+  - :name: Handlee-Regular
+    :file_name: Handlee-Regular
+- :family: Hanuman
+  :designer: Danh Hong
+  :license: OFL
+  :directory: hanuman
+  :fonts:
+  - :name: Hanuman
+    :file_name: Hanuman
+  - :name: Hanuman-Bold
+    :file_name: Hanumanb
+- :family: Happy Monkey
+  :designer: Brenda Gallo
+  :license: OFL
+  :directory: happymonkey
+  :fonts:
+  - :name: HappyMonkey-Regular
+    :file_name: HappyMonkey-Regular
+- :family: Headland One
+  :designer: Gary Lonergan
+  :license: OFL
+  :directory: headlandone
+  :fonts:
+  - :name: HeadlandOne-Regular
+    :file_name: HeadlandOne-Regular
+- :family: Henny Penny
+  :designer: Brownfox
+  :license: OFL
+  :directory: hennypenny
+  :fonts:
+  - :name: HennyPenny-Regular
+    :file_name: HennyPenny-Regular
+- :family: Hermeneus One
+  :designer: Impallari Type
+  :license: OFL
+  :directory: hermeneusone
+  :fonts:
+  - :name: HermeneusOne-Regular
+    :file_name: HermeneusOne-Regular
+- :family: Herr Von Muellerhoff
+  :designer: Sudtipos
+  :license: OFL
+  :directory: herrvonmuellerhoff
+  :fonts:
+  - :name: HerrVonMuellerhoff-Regular
+    :file_name: HerrVonMuellerhoff-Regular
+- :family: Hind
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: hind
+  :fonts:
+  - :name: Hind-Bold
+    :file_name: Hind-Bold
+  - :name: Hind-Light
+    :file_name: Hind-Light
+  - :name: Hind-Medium
+    :file_name: Hind-Medium
+  - :name: Hind-Regular
+    :file_name: Hind-Regular
+  - :name: Hind-Semibold
+    :file_name: Hind-Semibold
+- :family: Holtwood One SC
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: holtwoodonesc
+  :fonts:
+  - :name: HoltwoodOneSC
+    :file_name: HoltwoodOneSC
+- :family: Homemade Apple
+  :designer: Font Diner
+  :license: Apache2
+  :directory: homemadeapple
+  :fonts:
+  - :name: HomemadeApple
+    :file_name: HomemadeApple
+- :family: Homenaje
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: homenaje
+  :fonts:
+  - :name: Homenaje-Regular
+    :file_name: Homenaje-Regular
+- :family: Iceberg
+  :designer: Cyreal
+  :license: OFL
+  :directory: iceberg
+  :fonts:
+  - :name: Iceberg-Regular
+    :file_name: Iceberg-Regular
+- :family: Iceland
+  :designer: Cyreal
+  :license: OFL
+  :directory: iceland
+  :fonts:
+  - :name: Iceland-Regular
+    :file_name: Iceland-Regular
+- :family: IM Fell Double Pica
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfelldoublepica
+  :fonts:
+  - :name: IM_FELL_Double_Pica_Roman
+    :file_name: IMFeDPrm28P
+  - :name: IM_FELL_Double_Pica_Italic
+    :file_name: IMFeDPit28P
+- :family: IM Fell Double Pica SC
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfelldoublepicasc
+  :fonts:
+  - :name: IM_FELL_Double_Pica_SC
+    :file_name: IMFeDPsc28P
+- :family: IM Fell DW Pica
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfelldwpica
+  :fonts:
+  - :name: IM_FELL_DW_Pica_Roman
+    :file_name: IMFePIrm28P
+  - :name: IM_FELL_DW_Pica_Italic
+    :file_name: IMFePIit28P
+- :family: IM Fell DW Pica SC
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfelldwpicasc
+  :fonts:
+  - :name: IM_FELL_DW_Pica_SC
+    :file_name: IMFePIsc28P
+- :family: IM Fell English
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfellenglish
+  :fonts:
+  - :name: IM_FELL_English_Roman
+    :file_name: IMFeENrm28P
+  - :name: IM_FELL_English_Italic
+    :file_name: IMFeENit28P
+- :family: IM Fell English SC
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfellenglishsc
+  :fonts:
+  - :name: IM_FELL_English_SC
+    :file_name: IMFeENsc28P
+- :family: IM Fell French Canon
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfellfrenchcanon
+  :fonts:
+  - :name: IM_FELL_French_Canon_Roman
+    :file_name: IMFeFCrm28P
+  - :name: IM_FELL_French_Canon_Italic
+    :file_name: IMFeFCit28P
+- :family: IM Fell French Canon SC
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfellfrenchcanonsc
+  :fonts:
+  - :name: IM_FELL_French_Canon_SC
+    :file_name: IMFeFCsc28P
+- :family: IM Fell Great Primer
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfellgreatprimer
+  :fonts:
+  - :name: IM_FELL_Great_Primer_Roman
+    :file_name: IMFeGPrm28P
+  - :name: IM_FELL_Great_Primer_Italic
+    :file_name: IMFeGPit28P
+- :family: IM Fell Great Primer SC
+  :designer: Igino Marini
+  :license: OFL
+  :directory: imfellgreatprimersc
+  :fonts:
+  - :name: IM_FELL_Great_Primer_SC
+    :file_name: IMFeGPsc28P
+- :family: Imprima
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: imprima
+  :fonts:
+  - :name: Imprima-Regular
+    :file_name: Imprima-Regular
+- :family: Inconsolata
+  :designer: Raph Levien
+  :license: OFL
+  :directory: inconsolata
+  :fonts:
+  - :name: Inconsolata
+    :file_name: Inconsolata-Regular
+  - :name: Inconsolata-Bold
+    :file_name: Inconsolata-Bold
+- :family: Inder
+  :designer: Sorkin Type
+  :license: OFL
+  :directory: inder
+  :fonts:
+  - :name: Inder-Regular
+    :file_name: Inder-Regular
+- :family: Indie Flower
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: indieflower
+  :fonts:
+  - :name: IndieFlower
+    :file_name: IndieFlower
+- :family: Inika
+  :designer: Constanza Artigas
+  :license: OFL
+  :directory: inika
+  :fonts:
+  - :name: Inika
+    :file_name: Inika-Regular
+  - :name: Inika-Bold
+    :file_name: Inika-Bold
+- :family: Inknut Antiqua
+  :designer: Claus Eggers Sørensen
+  :license: OFL
+  :directory: inknutantiqua
+  :fonts:
+  - :name: InknutAntiqua-Regular
+    :file_name: InknutAntiqua-Regular
+  - :name: InknutAntiqua-Black
+    :file_name: InknutAntiqua-Black
+  - :name: InknutAntiqua-ExtraBold
+    :file_name: InknutAntiqua-ExtraBold
+  - :name: InknutAntiqua-Light
+    :file_name: InknutAntiqua-Light
+  - :name: InknutAntiqua-SemiBold
+    :file_name: InknutAntiqua-SemiBold
+  - :name: InknutAntiqua-Bold
+    :file_name: InknutAntiqua-Bold
+  - :name: InknutAntiqua-Medium
+    :file_name: InknutAntiqua-Medium
+- :family: Irish Grover
+  :designer: Sideshow
+  :license: Apache2
+  :directory: irishgrover
+  :fonts:
+  - :name: IrishGrover
+    :file_name: IrishGrover
+- :family: Irish Growler
+  :designer: Sideshow
+  :license: Apache2
+  :directory: irishgrowler
+  :fonts:
+  - :name: IrishGrowler
+    :file_name: IrishGrowler
+- :family: Istok Web
+  :designer: Andrey V. Panov
+  :license: OFL
+  :directory: istokweb
+  :fonts:
+  - :name: IstokWeb-Bold
+    :file_name: IstokWeb-Bold
+  - :name: IstokWeb-BoldItalic
+    :file_name: IstokWeb-BoldItalic
+  - :name: IstokWeb-Italic
+    :file_name: IstokWeb-Italic
+  - :name: IstokWeb-Regular
+    :file_name: IstokWeb-Regular
+- :family: Italiana
+  :designer: Santiago Orozco
+  :license: OFL
+  :directory: italiana
+  :fonts:
+  - :name: Italiana-Regular
+    :file_name: Italiana-Regular
+- :family: Italianno
+  :designer: TypeSETit
+  :license: OFL
+  :directory: italianno
+  :fonts:
+  - :name: Italianno-Regular
+    :file_name: Italianno-Regular
+- :family: Jacques Francois
+  :designer: Cyreal
+  :license: OFL
+  :directory: jacquesfrancois
+  :fonts:
+  - :name: JacquesFrancois-Regular
+    :file_name: JacquesFrancois-Regular
+- :family: Jacques Francois Shadow
+  :designer: Cyreal
+  :license: OFL
+  :directory: jacquesfrancoisshadow
+  :fonts:
+  - :name: JacquesFrancoisShadow-Regular
+    :file_name: JacquesFrancoisShadow-Regular
+- :family: Jaldi
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: jaldi
+  :fonts:
+  - :name: Jaldi-Bold
+    :file_name: Jaldi-Bold
+  - :name: Jaldi-Regular
+    :file_name: Jaldi-Regular
+- :family: Jim Nightshade
+  :designer: Astigmatic
+  :license: OFL
+  :directory: jimnightshade
+  :fonts:
+  - :name: JimNightshade-Regular
+    :file_name: JimNightshade-Regular
+- :family: Jockey One
+  :designer: TypeTogether
+  :license: OFL
+  :directory: jockeyone
+  :fonts:
+  - :name: JockeyOne-Regular
+    :file_name: JockeyOne-Regular
+- :family: Jolly Lodger
+  :designer: Font Diner
+  :license: OFL
+  :directory: jollylodger
+  :fonts:
+  - :name: JollyLodger
+    :file_name: JollyLodger-Regular
+- :family: Josefin Sans
+  :designer: Santiago Orozco
+  :license: OFL
+  :directory: josefinsans
+  :fonts:
+  - :name: JosefinSans-Thin
+    :file_name: JosefinSans-Thin
+  - :name: JosefinSans-ThinItalic
+    :file_name: JosefinSans-ThinItalic
+  - :name: JosefinSans-Light
+    :file_name: JosefinSans-Light
+  - :name: JosefinSans-LightItalic
+    :file_name: JosefinSans-LightItalic
+  - :name: JosefinSans
+    :file_name: JosefinSans-Regular
+  - :name: JosefinSans-Italic
+    :file_name: JosefinSans-Italic
+  - :name: JosefinSans-SemiBold
+    :file_name: JosefinSans-SemiBold
+  - :name: JosefinSans-SemiBoldItalic
+    :file_name: JosefinSans-SemiBoldItalic
+  - :name: JosefinSans-Bold
+    :file_name: JosefinSans-Bold
+  - :name: JosefinSans-BoldItalic
+    :file_name: JosefinSans-BoldItalic
+- :family: Josefin Sans Std Light
+  :designer: hidden
+  :license: OFL
+  :directory: josefinsansstdlight
+  :fonts:
+  - :name: JosefinSansStd-Light
+    :file_name: JosefinSansStd-Light
+- :family: Josefin Slab
+  :designer: Santiago Orozco
+  :license: OFL
+  :directory: josefinslab
+  :fonts:
+  - :name: JosefinSlab-Thin
+    :file_name: JosefinSlab-Thin
+  - :name: JosefinSlab-ThinItalic
+    :file_name: JosefinSlab-ThinItalic
+  - :name: JosefinSlab-Light
+    :file_name: JosefinSlab-Light
+  - :name: JosefinSlab-LightItalic
+    :file_name: JosefinSlab-LightItalic
+  - :name: JosefinSlab
+    :file_name: JosefinSlab-Regular
+  - :name: JosefinSlab-Italic
+    :file_name: JosefinSlab-Italic
+  - :name: JosefinSlab-SemiBold
+    :file_name: JosefinSlab-SemiBold
+  - :name: JosefinSlab-SemiBoldItalic
+    :file_name: JosefinSlab-SemiBoldItalic
+  - :name: JosefinSlab-Bold
+    :file_name: JosefinSlab-Bold
+  - :name: JosefinSlab-BoldItalic
+    :file_name: JosefinSlab-BoldItalic
+- :family: Joti One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: jotione
+  :fonts:
+  - :name: JotiOne-Regular
+    :file_name: JotiOne-Regular
+- :family: jsMath cmbx10
+  :designer: Donald Knuth
+  :license: Apache2
+  :directory: jsmathcmbx10
+  :fonts:
+  - :name: jsMath-cmbx10
+    :file_name: jsMath-cmbx10
+- :family: jsMath cmex10
+  :designer: Donald Knuth
+  :license: Apache2
+  :directory: jsmathcmex10
+  :fonts:
+  - :name: jsMath-cmex10
+    :file_name: jsMath-cmex10
+- :family: jsMath cmmi10
+  :designer: Donald Knuth
+  :license: Apache2
+  :directory: jsmathcmmi10
+  :fonts:
+  - :name: jsMath-cmmi10
+    :file_name: jsMath-cmmi10
+- :family: jsMath cmr10
+  :designer: Donald Knuth
+  :license: Apache2
+  :directory: jsmathcmr10
+  :fonts:
+  - :name: jsMath-cmr10
+    :file_name: jsMath-cmr10
+- :family: jsMath cmsy10
+  :designer: Donald Knuth
+  :license: Apache2
+  :directory: jsmathcmsy10
+  :fonts:
+  - :name: jsMath-cmsy10
+    :file_name: jsMath-cmsy10
+- :family: jsMath cmti10
+  :designer: Donald Knuth
+  :license: Apache2
+  :directory: jsmathcmti10
+  :fonts:
+  - :name: jsMath-cmti10
+    :file_name: jsMath-cmti10
+- :family: Judson
+  :designer: Daniel Johnson
+  :license: OFL
+  :directory: judson
+  :fonts:
+  - :name: Judson-Regular
+    :file_name: Judson-Regular
+  - :name: Judson-Italic
+    :file_name: Judson-Italic
+  - :name: Judson-Bold
+    :file_name: Judson-Bold
+- :family: Julee
+  :designer: Julian Tunni
+  :license: OFL
+  :directory: julee
+  :fonts:
+  - :name: Julee-Regular
+    :file_name: Julee-Regular
+- :family: Julius Sans One
+  :designer: Luciano Vergara
+  :license: OFL
+  :directory: juliussansone
+  :fonts:
+  - :name: JuliusSansOne-Regular
+    :file_name: JuliusSansOne-Regular
+- :family: Junge
+  :designer: Cyreal
+  :license: OFL
+  :directory: junge
+  :fonts:
+  - :name: Junge-Regular
+    :file_name: Junge-Regular
+- :family: Jura
+  :designer: Daniel Johnson
+  :license: OFL
+  :directory: jura
+  :fonts:
+  - :name: Jura-Light
+    :file_name: Jura-Light
+  - :name: Jura-Regular
+    :file_name: Jura-Regular
+  - :name: Jura-Medium
+    :file_name: Jura-Medium
+  - :name: Jura-DemiBold
+    :file_name: Jura-DemiBold
+- :family: Just Another Hand
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: justanotherhand
+  :fonts:
+  - :name: JustAnotherHand-Regular
+    :file_name: JustAnotherHand
+- :family: Just Me Again Down Here
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: justmeagaindownhere
+  :fonts:
+  - :name: JustMeAgainDownHere
+    :file_name: JustMeAgainDownHere
+- :family: Kadwa
+  :designer: Sol Matas
+  :license: OFL
+  :directory: kadwa
+  :fonts:
+  - :name: Kadwa-Bold
+    :file_name: Kadwa-Bold
+  - :name: Kadwa-Regular
+    :file_name: Kadwa-Regular
+- :family: Kalam
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: kalam
+  :fonts:
+  - :name: Kalam-Bold
+    :file_name: Kalam-Bold
+  - :name: Kalam-Light
+    :file_name: Kalam-Light
+  - :name: Kalam-Regular
+    :file_name: Kalam-Regular
+- :family: Kameron
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: kameron
+  :fonts:
+  - :name: Kameron
+    :file_name: Kameron-Regular
+  - :name: Kameron-Bold
+    :file_name: Kameron-Bold
+- :family: Kantumruy
+  :designer: Tep Sovichet
+  :license: OFL
+  :directory: kantumruy
+  :fonts:
+  - :name: Kantumruy-Bold
+    :file_name: Kantumruy-Bold
+  - :name: KantumruyLight
+    :file_name: Kantumruy-Light
+  - :name: Kantumruy
+    :file_name: Kantumruy-Regular
+- :family: Karla
+  :designer: Jonny Pinhorn
+  :license: OFL
+  :directory: karla
+  :fonts:
+  - :name: Karla-Regular
+    :file_name: Karla-Regular
+  - :name: Karla-Italic
+    :file_name: Karla-Italic
+  - :name: Karla-Bold
+    :file_name: Karla-Bold
+  - :name: Karla-BoldItalic
+    :file_name: Karla-BoldItalic
+- :family: Karla Tamil Inclined
+  :designer: Jonathan Pinhorn
+  :license: OFL
+  :directory: karlatamilinclined
+  :fonts:
+  - :name: KarlaTamilInclined-Bold
+    :file_name: KarlaTamilInclined-Bold
+  - :name: KarlaTamilInclined-Regular
+    :file_name: KarlaTamilInclined-Regular
+- :family: Karla Tamil Upright
+  :designer: Jonathan Pinhorn
+  :license: OFL
+  :directory: karlatamilupright
+  :fonts:
+  - :name: KarlaTamilUpright-Bold
+    :file_name: KarlaTamilUpright-Bold
+  - :name: KarlaTamilUpright-Regular
+    :file_name: KarlaTamilUpright-Regular
+- :family: Karma
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: karma
+  :fonts:
+  - :name: Karma-Bold
+    :file_name: Karma-Bold
+  - :name: Karma-Light
+    :file_name: Karma-Light
+  - :name: Karma-Medium
+    :file_name: Karma-Medium
+  - :name: Karma-Regular
+    :file_name: Karma-Regular
+  - :name: Karma-Semibold
+    :file_name: Karma-SemiBold
+- :family: Kaushan Script
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: kaushanscript
+  :fonts:
+  - :name: KaushanScript-Regular
+    :file_name: KaushanScript-Regular
+- :family: Kavoon
+  :designer: Viktoriya Grabowska
+  :license: OFL
+  :directory: kavoon
+  :fonts:
+  - :name: Kavoon-Regular
+    :file_name: Kavoon-Regular
+- :family: Kdam Thmor
+  :designer: Tep Sovichet
+  :license: OFL
+  :directory: kdamthmor
+  :fonts:
+  - :name: KdamThmor
+    :file_name: KdamThmor-Regular
+- :family: Keania One
+  :designer: Julia Petretta
+  :license: OFL
+  :directory: keaniaone
+  :fonts:
+  - :name: KeaniaOne-Regular
+    :file_name: KeaniaOne-Regular
+- :family: Kelly Slab
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: kellyslab
+  :fonts:
+  - :name: KellySlab-Regular
+    :file_name: KellySlab-Regular
+- :family: Kenia
+  :designer: Julia Petretta
+  :license: OFL
+  :directory: kenia
+  :fonts:
+  - :name: Kenia-Regular
+    :file_name: Kenia-Regular
+- :family: Khand
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: khand
+  :fonts:
+  - :name: Khand-SemiLight
+    :file_name: Khand-SemiLight
+  - :name: Khand-Regular
+    :file_name: Khand-Regular
+  - :name: Khand-Black
+    :file_name: Khand-Black
+  - :name: Khand-Bold
+    :file_name: Khand-Bold
+  - :name: Khand-SemiBold
+    :file_name: Khand-SemiBold
+  - :name: Khand-ExtraBold
+    :file_name: Khand-ExtraBold
+  - :name: Khand-ExtraLight
+    :file_name: Khand-ExtraLight
+  - :name: Khand-Light
+    :file_name: Khand-Light
+- :family: Khmer
+  :designer: Danh Hong
+  :license: OFL
+  :directory: khmer
+  :fonts:
+  - :name: Khmer
+    :file_name: Khmer
+- :family: Khula
+  :designer: Erin McLaughlin
+  :license: OFL
+  :directory: khula
+  :fonts:
+  - :name: Khula-Bold
+    :file_name: Khula-Bold
+  - :name: Khula-ExtraBold
+    :file_name: Khula-ExtraBold
+  - :name: Khula-Light
+    :file_name: Khula-Light
+  - :name: Khula-Regular
+    :file_name: Khula-Regular
+  - :name: Khula-Semibold
+    :file_name: Khula-SemiBold
+- :family: Kite One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: kiteone
+  :fonts:
+  - :name: KiteOne-Regular
+    :file_name: KiteOne-Regular
+- :family: Knewave
+  :designer: Tyler Finck
+  :license: OFL
+  :directory: knewave
+  :fonts:
+  - :name: Knewave-Regular
+    :file_name: Knewave-Regular
+- :family: Kotta One
+  :designer: Ania Kruk
+  :license: OFL
+  :directory: kottaone
+  :fonts:
+  - :name: KottaOne-Regular
+    :file_name: KottaOne-Regular
+- :family: Koulen
+  :designer: Danh Hong
+  :license: OFL
+  :directory: koulen
+  :fonts:
+  - :name: Koulen
+    :file_name: Koulen
+- :family: Kranky
+  :designer: Sideshow
+  :license: Apache2
+  :directory: kranky
+  :fonts:
+  - :name: Kranky
+    :file_name: Kranky
+- :family: Kreon
+  :designer: Julia Petretta
+  :license: OFL
+  :directory: kreon
+  :fonts:
+  - :name: Kreon-Light
+    :file_name: Kreon-Light
+  - :name: Kreon-Regular
+    :file_name: Kreon-Regular
+  - :name: Kreon-Bold
+    :file_name: Kreon-Bold
+- :family: Kristi
+  :designer: Birgit Pulk
+  :license: OFL
+  :directory: kristi
+  :fonts:
+  - :name: Kristi
+    :file_name: Kristi
+- :family: Krona One
+  :designer: Yvonne Schüttler
+  :license: OFL
+  :directory: kronaone
+  :fonts:
+  - :name: KronaOne-Regular
+    :file_name: KronaOne-Regular
+- :family: Kurale
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: kurale
+  :fonts:
+  - :name: Kurale-Regular
+    :file_name: Kurale-Regular
+- :family: La Belle Aurore
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: labelleaurore
+  :fonts:
+  - :name: LaBelleAurore
+    :file_name: LaBelleAurore
+- :family: Laila
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: laila
+  :fonts:
+  - :name: Laila-Bold
+    :file_name: Laila-Bold
+  - :name: Laila-Light
+    :file_name: Laila-Light
+  - :name: Laila-Medium
+    :file_name: Laila-Medium
+  - :name: Laila-Regular
+    :file_name: Laila-Regular
+  - :name: Laila-Semibold
+    :file_name: Laila-Semibold
+- :family: Lakki Reddy
+  :designer: Appaji Ambarisha Darbha
+  :license: OFL
+  :directory: lakkireddy
+  :fonts:
+  - :name: LakkiReddy
+    :file_name: LakkiReddy-Regular
+- :family: Lancelot
+  :designer: Marion Kadi
+  :license: OFL
+  :directory: lancelot
+  :fonts:
+  - :name: Lancelot
+    :file_name: Lancelot-Regular
+- :family: Lateef
+  :designer: SIL International
+  :license: OFL
+  :directory: lateef
+  :fonts:
+  - :name: Lateef
+    :file_name: LateefRegOT
+- :family: Lato
+  :designer: "Łukasz Dziedzic"
+  :license: OFL
+  :directory: lato
+  :fonts:
+  - :name: Lato-Hairline
+    :file_name: Lato-Hairline
+  - :name: Lato-HairlineItalic
+    :file_name: Lato-HairlineItalic
+  - :name: Lato-Light
+    :file_name: Lato-Light
+  - :name: Lato-LightItalic
+    :file_name: Lato-LightItalic
+  - :name: Lato-Regular
+    :file_name: Lato-Regular
+  - :name: Lato-Italic
+    :file_name: Lato-Italic
+  - :name: Lato-Bold
+    :file_name: Lato-Bold
+  - :name: Lato-BoldItalic
+    :file_name: Lato-BoldItalic
+  - :name: Lato-Black
+    :file_name: Lato-Black
+  - :name: Lato-BlackItalic
+    :file_name: Lato-BlackItalic
+- :family: League Script
+  :designer: Haley Fiege
+  :license: OFL
+  :directory: leaguescript
+  :fonts:
+  - :name: LeagueScript
+    :file_name: LeagueScript
+- :family: Leckerli One
+  :designer: Gesine Todt
+  :license: OFL
+  :directory: leckerlione
+  :fonts:
+  - :name: LeckerliOne-Regular
+    :file_name: LeckerliOne-Regular
+- :family: Ledger
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: ledger
+  :fonts:
+  - :name: Ledger-Regular
+    :file_name: Ledger-Regular
+- :family: Lekton
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: lekton
+  :fonts:
+  - :name: Lekton-Regular
+    :file_name: Lekton-Regular
+  - :name: Lekton-Italic
+    :file_name: Lekton-Italic
+  - :name: Lekton-Bold
+    :file_name: Lekton-Bold
+- :family: Lemon
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: lemon
+  :fonts:
+  - :name: Lemon-Regular
+    :file_name: Lemon-Regular
+- :family: Lemon One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: lemonone
+  :fonts:
+  - :name: LemonOne-Regular
+    :file_name: LemonOne-Regular
+- :family: Libre Baskerville
+  :designer: Impallari Type
+  :license: OFL
+  :directory: librebaskerville
+  :fonts:
+  - :name: LibreBaskerville-Bold
+    :file_name: LibreBaskerville-Bold
+  - :name: LibreBaskerville-Italic
+    :file_name: LibreBaskerville-Italic
+  - :name: LibreBaskerville-Regular
+    :file_name: LibreBaskerville-Regular
+- :family: Libre Caslon Text
+  :designer: Impallari Type
+  :license: OFL
+  :directory: librecaslontext
+  :fonts:
+  - :name: LibreCaslonText-Bold
+    :file_name: LibreCaslonText-Bold
+  - :name: LibreCaslonText-Italic
+    :file_name: LibreCaslonText-Italic
+  - :name: LibreCaslonText-Regular
+    :file_name: LibreCaslonText-Regular
+- :family: Life Savers
+  :designer: Impallari Type
+  :license: OFL
+  :directory: lifesavers
+  :fonts:
+  - :name: LifeSavers-Bold
+    :file_name: LifeSavers-Bold
+  - :name: LifeSavers-ExtraBold
+    :file_name: LifeSavers-ExtraBold
+  - :name: LifeSavers-Regular
+    :file_name: LifeSavers-Regular
+- :family: Lilita One
+  :designer: Juan Montoreano
+  :license: OFL
+  :directory: lilitaone
+  :fonts:
+  - :name: LilitaOne
+    :file_name: LilitaOne-Regular
+- :family: Lily Script One
+  :designer: Julia Petretta
+  :license: OFL
+  :directory: lilyscriptone
+  :fonts:
+  - :name: LilyScriptOne-Regular
+    :file_name: LilyScriptOne-Regular
+- :family: Limelight
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: limelight
+  :fonts:
+  - :name: Limelight
+    :file_name: Limelight-Regular
+- :family: Linden Hill
+  :designer: Barry Schwartz
+  :license: OFL
+  :directory: lindenhill
+  :fonts:
+  - :name: LindenHill-Regular
+    :file_name: LindenHill-Regular
+  - :name: LindenHill-Italic
+    :file_name: LindenHill-Italic
+- :family: Lobster
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: lobster
+  :fonts:
+  - :name: Lobster-Regular
+    :file_name: Lobster-Regular
+- :family: Lobster Two
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: lobstertwo
+  :fonts:
+  - :name: LobsterTwo
+    :file_name: LobsterTwo-Regular
+  - :name: LobsterTwo-Italic
+    :file_name: LobsterTwo-Italic
+  - :name: LobsterTwo-Bold
+    :file_name: LobsterTwo-Bold
+  - :name: LobsterTwo-BoldItalic
+    :file_name: LobsterTwo-BoldItalic
+- :family: Lohit Bengali
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: lohitbengali
+  :fonts:
+  - :name: Lohit-Bengali
+    :file_name: Lohit-Bengali
+- :family: Lohit Tamil
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: lohittamil
+  :fonts:
+  - :name: Lohit-Tamil
+    :file_name: Lohit-Tamil
+- :family: Londrina Outline
+  :designer: Marcelo Magalhães
+  :license: OFL
+  :directory: londrinaoutline
+  :fonts:
+  - :name: LondrinaOutline-Regular
+    :file_name: LondrinaOutline-Regular
+- :family: Londrina Shadow
+  :designer: Marcelo Magalhães
+  :license: OFL
+  :directory: londrinashadow
+  :fonts:
+  - :name: LondrinaShadow-Regular
+    :file_name: LondrinaShadow-Regular
+- :family: Londrina Sketch
+  :designer: Marcelo Magalhães
+  :license: OFL
+  :directory: londrinasketch
+  :fonts:
+  - :name: LondrinaSketch-Regular
+    :file_name: LondrinaSketch-Regular
+- :family: Londrina Solid
+  :designer: Marcelo Magalhães
+  :license: OFL
+  :directory: londrinasolid
+  :fonts:
+  - :name: LondrinaSolid-Regular
+    :file_name: LondrinaSolid-Regular
+- :family: Lora
+  :designer: Cyreal
+  :license: OFL
+  :directory: lora
+  :fonts:
+  - :name: Lora-Bold
+    :file_name: Lora-Bold
+  - :name: Lora-BoldItalic
+    :file_name: Lora-BoldItalic
+  - :name: Lora-Italic
+    :file_name: Lora-Italic
+  - :name: Lora-Regular
+    :file_name: Lora-Regular
+- :family: Loved by the King
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: lovedbytheking
+  :fonts:
+  - :name: LovedbytheKing
+    :file_name: LovedbytheKing
+- :family: Lovers Quarrel
+  :designer: TypeSETit
+  :license: OFL
+  :directory: loversquarrel
+  :fonts:
+  - :name: LoversQuarrel-Regular
+    :file_name: LoversQuarrel-Regular
+- :family: Love Ya Like A Sister
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: loveyalikeasister
+  :fonts:
+  - :name: LoveYaLikeASister-Regular
+    :file_name: LoveYaLikeASister
+- :family: Luckiest Guy
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: luckiestguy
+  :fonts:
+  - :name: LuckiestGuy-Regular
+    :file_name: LuckiestGuy
+- :family: Lusitana
+  :designer: Ana Paula Megda
+  :license: OFL
+  :directory: lusitana
+  :fonts:
+  - :name: Lusitana
+    :file_name: Lusitana-Regular
+  - :name: Lusitana-Bold
+    :file_name: Lusitana-Bold
+- :family: Lustria
+  :designer: MADType
+  :license: OFL
+  :directory: lustria
+  :fonts:
+  - :name: Lustria-Regular
+    :file_name: Lustria-Regular
+- :family: Macondo
+  :designer: John Vargas Beltrán
+  :license: OFL
+  :directory: macondo
+  :fonts:
+  - :name: Macondo-Regular
+    :file_name: Macondo-Regular
+- :family: Macondo Swash Caps
+  :designer: John Vargas Beltrán
+  :license: OFL
+  :directory: macondoswashcaps
+  :fonts:
+  - :name: MacondoSwashCaps-Regular
+    :file_name: MacondoSwashCaps-Regular
+- :family: Magra
+  :designer: FontFuror
+  :license: OFL
+  :directory: magra
+  :fonts:
+  - :name: Magra
+    :file_name: Magra-Regular
+  - :name: Magra-Bold
+    :file_name: Magra-Bold
+- :family: Maiden Orange
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: maidenorange
+  :fonts:
+  - :name: MaidenOrange-Regular
+    :file_name: MaidenOrange
+- :family: Mako
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: mako
+  :fonts:
+  - :name: Mako
+    :file_name: Mako-Regular
+- :family: Mallanna
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: mallanna
+  :fonts:
+  - :name: Mallanna
+    :file_name: Mallanna-Regular
+- :family: Mandali
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: mandali
+  :fonts:
+  - :name: Mandali
+    :file_name: Mandali-Regular
+- :family: Marcellus
+  :designer: Astigmatic
+  :license: OFL
+  :directory: marcellus
+  :fonts:
+  - :name: Marcellus-Regular
+    :file_name: Marcellus-Regular
+- :family: Marcellus SC
+  :designer: Astigmatic
+  :license: OFL
+  :directory: marcellussc
+  :fonts:
+  - :name: MarcellusSC-Regular
+    :file_name: MarcellusSC-Regular
+- :family: Marck Script
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: marckscript
+  :fonts:
+  - :name: MarckScript-Regular
+    :file_name: MarckScript-Regular
+- :family: Margarine
+  :designer: Astigmatic
+  :license: OFL
+  :directory: margarine
+  :fonts:
+  - :name: Margarine-Regular
+    :file_name: Margarine-Regular
+- :family: Marko One
+  :designer: Cyreal
+  :license: OFL
+  :directory: markoone
+  :fonts:
+  - :name: MarkoOne-Regular
+    :file_name: MarkoOne-Regular
+- :family: Marmelad
+  :designer: Cyreal
+  :license: OFL
+  :directory: marmelad
+  :fonts:
+  - :name: Marmelad-Regular
+    :file_name: Marmelad-Regular
+- :family: Martel
+  :designer: Dan Reynolds
+  :license: OFL
+  :directory: martel
+  :fonts:
+  - :name: Martel-Bold
+    :file_name: Martel-Bold
+  - :name: Martel-DemiBold
+    :file_name: Martel-DemiBold
+  - :name: Martel-ExtraBold
+    :file_name: Martel-ExtraBold
+  - :name: Martel-Heavy
+    :file_name: Martel-Heavy
+  - :name: Martel-Light
+    :file_name: Martel-Light
+  - :name: Martel-Regular
+    :file_name: Martel-Regular
+  - :name: Martel-UltraLight
+    :file_name: Martel-UltraLight
+- :family: Martel Sans
+  :designer: Dan Reynolds
+  :license: OFL
+  :directory: martelsans
+  :fonts:
+  - :name: MartelSans-Black
+    :file_name: MartelSans-Black
+  - :name: MartelSans-Bold
+    :file_name: MartelSans-Bold
+  - :name: MartelSans-ExtraBold
+    :file_name: MartelSans-ExtraBold
+  - :name: MartelSans-ExtraLight
+    :file_name: MartelSans-ExtraLight
+  - :name: MartelSans-Light
+    :file_name: MartelSans-Light
+  - :name: MartelSans-Regular
+    :file_name: MartelSans-Regular
+  - :name: MartelSans-SemiBold
+    :file_name: MartelSans-SemiBold
+- :family: Marvel
+  :designer: Carolina Trebol
+  :license: OFL
+  :directory: marvel
+  :fonts:
+  - :name: Marvel-Regular
+    :file_name: Marvel-Regular
+  - :name: Marvel-Italic
+    :file_name: Marvel-Italic
+  - :name: Marvel-Bold
+    :file_name: Marvel-Bold
+  - :name: Marvel-BoldItalic
+    :file_name: Marvel-BoldItalic
+- :family: Mate
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: mate
+  :fonts:
+  - :name: Mate-Regular
+    :file_name: Mate-Regular
+  - :name: Mate-Italic
+    :file_name: Mate-Italic
+- :family: Mate SC
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: matesc
+  :fonts:
+  - :name: MateSC-Regular
+    :file_name: MateSC-Regular
+- :family: Maven Pro
+  :designer: Joe Prince
+  :license: OFL
+  :directory: mavenpro
+  :fonts:
+  - :name: MavenProRegular
+    :file_name: MavenPro-Regular
+  - :name: MavenProMedium
+    :file_name: MavenPro-Medium
+  - :name: MavenProBold
+    :file_name: MavenPro-Bold
+  - :name: MavenProBlack
+    :file_name: MavenPro-Black
+- :family: McLaren
+  :designer: Astigmatic
+  :license: OFL
+  :directory: mclaren
+  :fonts:
+  - :name: McLaren-Regular
+    :file_name: McLaren-Regular
+- :family: Meddon
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: meddon
+  :fonts:
+  - :name: Meddon
+    :file_name: Meddon
+- :family: MedievalSharp
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: medievalsharp
+  :fonts:
+  - :name: MedievalSharp
+    :file_name: MedievalSharp
+- :family: Medula One
+  :designer: LatinoType
+  :license: OFL
+  :directory: medulaone
+  :fonts:
+  - :name: MedulaOne-Regular
+    :file_name: MedulaOne-Regular
+- :family: Megrim
+  :designer: Daniel Johnson
+  :license: OFL
+  :directory: megrim
+  :fonts:
+  - :name: Megrim
+    :file_name: Megrim
+- :family: Meie Script
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: meiescript
+  :fonts:
+  - :name: MeieScript-Regular
+    :file_name: MeieScript-Regular
+- :family: Merge One
+  :designer: Kosal Sen
+  :license: OFL
+  :directory: mergeone
+  :fonts:
+  - :name: MergeOne-Regular
+    :file_name: MergeOne-Regular
+- :family: Merienda
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: merienda
+  :fonts:
+  - :name: Merienda-Bold
+    :file_name: Merienda-Bold
+  - :name: Merienda-Regular_0_wt
+    :file_name: Merienda-Regular
+- :family: Merienda One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: meriendaone
+  :fonts:
+  - :name: MeriendaOne-Regular
+    :file_name: MeriendaOne-Regular
+- :family: Merriweather
+  :designer: Eben Sorkin
+  :license: OFL
+  :directory: merriweather
+  :fonts:
+  - :name: Merriweather-Light
+    :file_name: Merriweather-Light
+  - :name: Merriweather-LightItalic
+    :file_name: Merriweather-LightItalic
+  - :name: Merriweather
+    :file_name: Merriweather-Regular
+  - :name: Merriweather-Italic
+    :file_name: Merriweather-Italic
+  - :name: Merriweather-Bold
+    :file_name: Merriweather-Bold
+  - :name: Merriweather-BoldItalic
+    :file_name: Merriweather-BoldItalic
+  - :name: Merriweather-Heavy
+    :file_name: Merriweather-Black
+  - :name: Merriweather-HeavyItalic
+    :file_name: Merriweather-HeavyItalic
+- :family: Merriweather Sans
+  :designer: Eben Sorkin
+  :license: OFL
+  :directory: merriweathersans
+  :fonts:
+  - :name: MerriweatherSans-Bold
+    :file_name: MerriweatherSans-Bold
+  - :name: MerriweatherSans-BoldItalic
+    :file_name: MerriweatherSans-BoldItalic
+  - :name: MerriweatherSans-ExtraBold
+    :file_name: MerriweatherSans-ExtraBold
+  - :name: MerriweatherSans-ExtraBldItalic
+    :file_name: MerriweatherSans-ExtraBoldItalic
+  - :name: MerriweatherSans-Italic
+    :file_name: MerriweatherSans-Italic
+  - :name: MerriweatherSans-Light
+    :file_name: MerriweatherSans-Light
+  - :name: MerriweatherSans-LightItalic
+    :file_name: MerriweatherSans-LightItalic
+  - :name: MerriweatherSans-Regular
+    :file_name: MerriweatherSans-Regular
+- :family: Mervale Script
+  :designer: Astigmatic
+  :license: OFL
+  :directory: mervalescript
+  :fonts:
+  - :name: MervaleScript-Regular
+    :file_name: MervaleScript-Regular
+- :family: Metal
+  :designer: Danh Hong
+  :license: OFL
+  :directory: metal
+  :fonts:
+  - :name: Metal
+    :file_name: Metal
+- :family: Metal Mania
+  :designer: Open Window
+  :license: OFL
+  :directory: metalmania
+  :fonts:
+  - :name: MetalMania-Regular
+    :file_name: MetalMania-Regular
+- :family: Metamorphous
+  :designer: James Grieshaber
+  :license: OFL
+  :directory: metamorphous
+  :fonts:
+  - :name: Metamorphous
+    :file_name: Metamorphous-Regular
+- :family: Metrophobic
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: metrophobic
+  :fonts:
+  - :name: Metrophobic
+    :file_name: Metrophobic
+- :family: Miama
+  :designer: Linus Romer
+  :license: OFL
+  :directory: miama
+  :fonts:
+  - :name: Miama-Regular
+    :file_name: Miama-Regular
+- :family: Michroma
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: michroma
+  :fonts:
+  - :name: Michroma
+    :file_name: Michroma
+- :family: Milonga
+  :designer: Impallari Type
+  :license: OFL
+  :directory: milonga
+  :fonts:
+  - :name: Milonga-Regular
+    :file_name: Milonga-Regular
+- :family: Miltonian
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: miltonian
+  :fonts:
+  - :name: Miltonian-Regular
+    :file_name: Miltonian-Regular
+- :family: Miltonian Tattoo
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: miltoniantattoo
+  :fonts:
+  - :name: MiltonianTattoo
+    :file_name: MiltonianTattoo-Regular
+- :family: Miniver
+  :designer: Open Window
+  :license: OFL
+  :directory: miniver
+  :fonts:
+  - :name: Miniver
+    :file_name: Miniver-Regular
+- :family: Miss Fajardose
+  :designer: Sudtipos
+  :license: OFL
+  :directory: missfajardose
+  :fonts:
+  - :name: MissFajardose-Regular
+    :file_name: MissFajardose-Regular
+- :family: Miss Saint Delafield
+  :designer: Sudtipos
+  :license: OFL
+  :directory: misssaintdelafield
+  :fonts:
+  - :name: MrsSaintDelafield-Regular
+    :file_name: MrsSaintDelafield-Regular
+- :family: Modak
+  :designer: Ek Type
+  :license: OFL
+  :directory: modak
+  :fonts:
+  - :name: Modak
+    :file_name: Modak-Regular
+- :family: Modern Antiqua
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: modernantiqua
+  :fonts:
+  - :name: ModernAntiqua-Regular
+    :file_name: ModernAntiqua-Regular
+- :family: Molengo
+  :designer: Denis Jacquerye
+  :license: OFL
+  :directory: molengo
+  :fonts:
+  - :name: Molengo-Regular
+    :file_name: Molengo-Regular
+- :family: Molle
+  :designer: Elena Albertoni
+  :license: OFL
+  :directory: molle
+  :fonts:
+  - :name: Molle-Regular
+    :file_name: Molle-Regular
+- :family: Monda
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: monda
+  :fonts:
+  - :name: Monda-Bold
+    :file_name: Monda-Bold
+  - :name: Monda-Regular
+    :file_name: Monda-Regular
+- :family: Monofett
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: monofett
+  :fonts:
+  - :name: Monofett
+    :file_name: Monofett
+- :family: Monoton
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: monoton
+  :fonts:
+  - :name: Monoton-Regular
+    :file_name: Monoton-Regular
+- :family: Monsieur La Doulaise
+  :designer: Sudtipos
+  :license: OFL
+  :directory: monsieurladoulaise
+  :fonts:
+  - :name: MonsieurLaDoulaise-Regular
+    :file_name: MonsieurLaDoulaise-Regular
+- :family: Montaga
+  :designer: Alejandra Rodriguez
+  :license: OFL
+  :directory: montaga
+  :fonts:
+  - :name: Montaga-Regular
+    :file_name: Montaga-Regular
+- :family: Montez
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: montez
+  :fonts:
+  - :name: Montez-Regular
+    :file_name: Montez-Regular
+- :family: Montserrat
+  :designer: Julieta Ulanovsky
+  :license: OFL
+  :directory: montserrat
+  :fonts:
+  - :name: Montserrat-Black
+    :file_name: Montserrat-Black
+  - :name: Montserrat-Bold
+    :file_name: Montserrat-Bold
+  - :name: Montserrat-Light
+    :file_name: Montserrat-Light
+  - :name: Montserrat-Regular
+    :file_name: Montserrat-Regular
+  - :name: Montserrat-Hairline
+    :file_name: Montserrat-Thin
+- :family: Montserrat Alternates
+  :designer: Julieta Ulanovsky
+  :license: OFL
+  :directory: montserratalternates
+  :fonts:
+  - :name: MontserratAlternates-Bold
+    :file_name: MontserratAlternates-Bold
+  - :name: MontserratAlternates-Regular
+    :file_name: MontserratAlternates-Regular
+- :family: Montserrat Subrayada
+  :designer: Julieta Ulanovsky
+  :license: OFL
+  :directory: montserratsubrayada
+  :fonts:
+  - :name: MontserratSubrayada-Bold
+    :file_name: MontserratSubrayada-Bold
+  - :name: MontserratSubrayada-Regular
+    :file_name: MontserratSubrayada-Regular
+- :family: Moul
+  :designer: Danh Hong
+  :license: OFL
+  :directory: moul
+  :fonts:
+  - :name: Moul
+    :file_name: Moul
+- :family: Moulpali
+  :designer: Danh Hong
+  :license: OFL
+  :directory: moulpali
+  :fonts:
+  - :name: MoulPali
+    :file_name: Moulpali
+- :family: Mountains of Christmas
+  :designer: Tart Workshop
+  :license: Apache2
+  :directory: mountainsofchristmas
+  :fonts:
+  - :name: MountainsofChristmas-Regular
+    :file_name: MountainsofChristmas-Regular
+  - :name: MountainsofChristmas-Bold
+    :file_name: MountainsofChristmas-Bold
+- :family: Mouse Memoirs
+  :designer: Astigmatic
+  :license: OFL
+  :directory: mousememoirs
+  :fonts:
+  - :name: MouseMemoirs-Regular
+    :file_name: MouseMemoirs-Regular
+- :family: Mr Bedford
+  :designer: Sudtipos
+  :license: OFL
+  :directory: mrbedford
+  :fonts:
+  - :name: MrBedfort-Regular
+    :file_name: MrBedfort-Regular
+- :family: Mr Bedfort
+  :designer: Sudtipos
+  :license: OFL
+  :directory: mrbedfort
+  :fonts:
+  - :name: MrBedfort-Regular
+    :file_name: MrBedfort-Regular
+- :family: Mr Dafoe
+  :designer: Sudtipos
+  :license: OFL
+  :directory: mrdafoe
+  :fonts:
+  - :name: MrDafoe-Regular
+    :file_name: MrDafoe-Regular
+- :family: Mr De Haviland
+  :designer: Sudtipos
+  :license: OFL
+  :directory: mrdehaviland
+  :fonts:
+  - :name: MrDeHaviland-Regular
+    :file_name: MrDeHaviland-Regular
+- :family: Mrs Saint Delafield
+  :designer: Sudtipos
+  :license: OFL
+  :directory: mrssaintdelafield
+  :fonts:
+  - :name: MrsSaintDelafield-Regular
+    :file_name: MrsSaintDelafield-Regular
+- :family: Mrs Sheppards
+  :designer: Sudtipos
+  :license: OFL
+  :directory: mrssheppards
+  :fonts:
+  - :name: MrsSheppards-Regular
+    :file_name: MrsSheppards-Regular
+- :family: Muli
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: muli
+  :fonts:
+  - :name: Muli-Light
+    :file_name: Muli-Light
+  - :name: Muli-LightItalic
+    :file_name: Muli-LightItalic
+  - :name: Muli
+    :file_name: Muli-Regular
+  - :name: Muli-Italic
+    :file_name: Muli-Italic
+- :family: Mystery Quest
+  :designer: Sideshow
+  :license: OFL
+  :directory: mysteryquest
+  :fonts:
+  - :name: MysteryQuest
+    :file_name: MysteryQuest-Regular
+- :family: Nanum Brush Script
+  :designer: Sandoll Communication
+  :license: OFL
+  :directory: nanumbrushscript
+  :fonts:
+  - :name: NanumBrush
+    :file_name: NanumBrushScript-Regular
+- :family: Nanum Gothic
+  :designer: Sandoll Communication
+  :license: OFL
+  :directory: nanumgothic
+  :fonts:
+  - :name: NanumGothic
+    :file_name: NanumGothic-Regular
+  - :name: NanumGothicBold
+    :file_name: NanumGothic-Bold
+  - :name: NanumGothicExtraBold
+    :file_name: NanumGothic-ExtraBold
+- :family: Nanum Gothic Coding
+  :designer: Sandoll Communication
+  :license: OFL
+  :directory: nanumgothiccoding
+  :fonts:
+  - :name: NanumGothicCoding
+    :file_name: NanumGothicCoding-Regular
+  - :name: NanumGothicCoding-Bold
+    :file_name: NanumGothicCoding-Bold
+- :family: Nanum Myeongjo
+  :designer: Sandoll Communication
+  :license: OFL
+  :directory: nanummyeongjo
+  :fonts:
+  - :name: NanumMyeongjo
+    :file_name: NanumMyeongjo-Regular
+  - :name: NanumMyeongjoBold
+    :file_name: NanumMyeongjo-Bold
+  - :name: NanumMyeongjoExtraBold
+    :file_name: NanumMyeongjo-ExtraBold
+- :family: Nanum Pen Script
+  :designer: Sandoll Communication
+  :license: OFL
+  :directory: nanumpenscript
+  :fonts:
+  - :name: NanumPen
+    :file_name: NanumPenScript-Regular
+- :family: NATS
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: nats
+  :fonts:
+  - :name: NATS
+    :file_name: NATS-Regular
+- :family: Neucha
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: neucha
+  :fonts:
+  - :name: Neucha
+    :file_name: Neucha
+- :family: Neuton
+  :designer: Brian Zick
+  :license: OFL
+  :directory: neuton
+  :fonts:
+  - :name: Neuton-ExtraLight
+    :file_name: Neuton-ExtraLight
+  - :name: Neuton-Light
+    :file_name: Neuton-Light
+  - :name: Neuton-Regular
+    :file_name: Neuton-Regular
+  - :name: Neuton-Italic
+    :file_name: Neuton-Italic
+  - :name: Neuton-Bold
+    :file_name: Neuton-Bold
+  - :name: Neuton-ExtraBold
+    :file_name: Neuton-ExtraBold
+- :family: New Rocker
+  :designer: Impallari Type
+  :license: OFL
+  :directory: newrocker
+  :fonts:
+  - :name: NewRocker-Regular
+    :file_name: NewRocker-Regular
+- :family: News Cycle
+  :designer: Nathan Willis
+  :license: OFL
+  :directory: newscycle
+  :fonts:
+  - :name: NewsCycle-Bold
+    :file_name: NewsCycle-Bold
+  - :name: NewsCycle
+    :file_name: NewsCycle-Regular
+- :family: Niconne
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: niconne
+  :fonts:
+  - :name: Niconne-Regular
+    :file_name: Niconne-Regular
+- :family: Nixie One
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: nixieone
+  :fonts:
+  - :name: NixieOne-Regular
+    :file_name: NixieOne-Regular
+- :family: Nobile
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: nobile
+  :fonts:
+  - :name: Nobile-Regular
+    :file_name: Nobile-Regular
+  - :name: Nobile-Italic
+    :file_name: Nobile-Italic
+  - :name: Nobile-Medium
+    :file_name: Nobile-Medium
+  - :name: Nobile-MediumItalic
+    :file_name: Nobile-MediumItalic
+  - :name: Nobile-Bold
+    :file_name: Nobile-Bold
+  - :name: Nobile-BoldItalic
+    :file_name: Nobile-BoldItalic
+- :family: Nokora
+  :designer: Danh Hong
+  :license: Apache2
+  :directory: nokora
+  :fonts:
+  - :name: Nokora
+    :file_name: Nokora-Regular
+  - :name: Nokora-Bold
+    :file_name: Nokora-Bold
+- :family: Norican
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: norican
+  :fonts:
+  - :name: Norican-Regular
+    :file_name: Norican-Regular
+- :family: Nosifer
+  :designer: Typomondo
+  :license: OFL
+  :directory: nosifer
+  :fonts:
+  - :name: Nosifer-Regular
+    :file_name: Nosifer-Regular
+- :family: Nosifer Caps
+  :designer: Typomondo
+  :license: OFL
+  :directory: nosifercaps
+  :fonts:
+  - :name: NosiferCaps-Regular
+    :file_name: NosiferCaps-Regular
+- :family: Nothing You Could Do
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: nothingyoucoulddo
+  :fonts:
+  - :name: NothingYouCouldDo
+    :file_name: NothingYouCouldDo
+- :family: Noticia Text
+  :designer: JM Solé
+  :license: OFL
+  :directory: noticiatext
+  :fonts:
+  - :name: NoticiaText-Regular
+    :file_name: NoticiaText-Regular
+  - :name: NoticiaText-Italic
+    :file_name: NoticiaText-Italic
+  - :name: NoticiaText-Bold
+    :file_name: NoticiaText-Bold
+  - :name: NoticiaText-BoldItalic
+    :file_name: NoticiaText-BoldItalic
+- :family: Noto Sans
+  :designer: Google
+  :license: Apache2
+  :directory: notosans
+  :fonts:
+  - :name: NotoSans-Bold
+    :file_name: NotoSans-Bold
+  - :name: NotoSans-BoldItalic
+    :file_name: NotoSans-BoldItalic
+  - :name: NotoSans-Italic
+    :file_name: NotoSans-Italic
+  - :name: NotoSans
+    :file_name: NotoSans-Regular
+- :family: Noto Sans Hebrew
+  :designer: Monotype
+  :license: Apache2
+  :directory: notosanshebrew
+  :fonts:
+  - :name: NotoSansHebrew-Bold
+    :file_name: NotoSansHebrew-Bold
+  - :name: NotoSansHebrew
+    :file_name: NotoSansHebrew-Regular
+- :family: Noto Sans Symbols
+  :designer: Google
+  :license: Apache2
+  :directory: notosanssymbols
+  :fonts:
+  - :name: NotoSansSymbols
+    :file_name: NotoSansSymbols-Regular
+- :family: Noto Sans UI
+  :designer: Google
+  :license: Apache2
+  :directory: notosansui
+  :fonts:
+  - :name: NotoSansUI-Bold
+    :file_name: NotoSansUI-Bold
+  - :name: NotoSansUI-BoldItalic
+    :file_name: NotoSansUI-BoldItalic
+  - :name: NotoSansUI-Italic
+    :file_name: NotoSansUI-Italic
+  - :name: NotoSansUI
+    :file_name: NotoSansUI-Regular
+- :family: Noto Serif
+  :designer: Google
+  :license: Apache2
+  :directory: notoserif
+  :fonts:
+  - :name: NotoSerif-Bold
+    :file_name: NotoSerif-Bold
+  - :name: NotoSerif-BoldItalic
+    :file_name: NotoSerif-BoldItalic
+  - :name: NotoSerif-Italic
+    :file_name: NotoSerif-Italic
+  - :name: NotoSerif
+    :file_name: NotoSerif-Regular
+- :family: Nova Cut
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novacut
+  :fonts:
+  - :name: NovaCut
+    :file_name: NovaCut
+- :family: Nova Flat
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novaflat
+  :fonts:
+  - :name: NovaFlat
+    :file_name: NovaFlat
+- :family: Nova Mono
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novamono
+  :fonts:
+  - :name: NovaMono
+    :file_name: NovaMono
+- :family: Nova Oval
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novaoval
+  :fonts:
+  - :name: NovaOval
+    :file_name: NovaOval
+- :family: Nova Round
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novaround
+  :fonts:
+  - :name: NovaRound
+    :file_name: NovaRound
+- :family: Nova Script
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novascript
+  :fonts:
+  - :name: NovaScript
+    :file_name: NovaScript
+- :family: Nova Slim
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novaslim
+  :fonts:
+  - :name: NovaSlim
+    :file_name: NovaSlim
+- :family: Nova Square
+  :designer: Wojciech Kalinowski
+  :license: OFL
+  :directory: novasquare
+  :fonts:
+  - :name: NovaSquare
+    :file_name: NovaSquare
+- :family: NTR
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: ntr
+  :fonts:
+  - :name: NTR
+    :file_name: NTR-Regular
+- :family: Numans
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: numans
+  :fonts:
+  - :name: Numans-Regular
+    :file_name: Numans-Regular
+- :family: Nunito
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: nunito
+  :fonts:
+  - :name: Nunito-Bold
+    :file_name: Nunito-Bold
+  - :name: Nunito-Light
+    :file_name: Nunito-Light
+  - :name: Nunito-Regular
+    :file_name: Nunito-Regular
+- :family: Odor Mean Chey
+  :designer: Danh Hong
+  :license: OFL
+  :directory: odormeanchey
+  :fonts:
+  - :name: OdorMeanChey
+    :file_name: OdorMeanChey
+- :family: Offside
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: offside
+  :fonts:
+  - :name: Offside-Regular
+    :file_name: Offside-Regular
+- :family: OFL Sorts Mill Goudy TT
+  :designer: Barry Schwartz
+  :license: OFL
+  :directory: oflsortsmillgoudytt
+  :fonts:
+  - :name: OFLGoudyStMTT
+    :file_name: OFLGoudyStMTT
+  - :name: OFLGoudyStMTT-Italic
+    :file_name: OFLGoudyStMTT-Italic
+- :family: Oldenburg
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: oldenburg
+  :fonts:
+  - :name: Oldenburg-Regular
+    :file_name: Oldenburg-Regular
+- :family: Old Standard TT
+  :designer: Alexey Kryukov
+  :license: OFL
+  :directory: oldstandardtt
+  :fonts:
+  - :name: OldStandardTT-Regular
+    :file_name: OldStandard-Regular
+  - :name: OldStandardTT-Italic
+    :file_name: OldStandard-Italic
+  - :name: OldStandardTT-Bold
+    :file_name: OldStandard-Bold
+- :family: Oleo Script
+  :designer: soytutype fonts
+  :license: OFL
+  :directory: oleoscript
+  :fonts:
+  - :name: OleoScript-Bold
+    :file_name: OleoScript-Bold
+  - :name: OleoScript-Regular
+    :file_name: OleoScript-Regular
+- :family: Oleo Script Swash Caps
+  :designer: soytutype fonts
+  :license: OFL
+  :directory: oleoscriptswashcaps
+  :fonts:
+  - :name: OleoScriptSwashCaps-Bold
+    :file_name: OleoScriptSwashCaps-Bold
+  - :name: OleoScriptSwashCaps-Regular
+    :file_name: OleoScriptSwashCaps-Regular
+- :family: Open Sans
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: opensans
+  :fonts:
+  - :name: OpenSans-Light
+    :file_name: OpenSans-Light
+  - :name: OpenSansLight-Italic
+    :file_name: OpenSans-LightItalic
+  - :name: OpenSans
+    :file_name: OpenSans-Regular
+  - :name: OpenSans-Italic
+    :file_name: OpenSans-Italic
+  - :name: OpenSans-Semibold
+    :file_name: OpenSans-Semibold
+  - :name: OpenSans-SemiboldItalic
+    :file_name: OpenSans-SemiboldItalic
+  - :name: OpenSans-Bold
+    :file_name: OpenSans-Bold
+  - :name: OpenSans-BoldItalic
+    :file_name: OpenSans-BoldItalic
+  - :name: OpenSans-Extrabold
+    :file_name: OpenSans-ExtraBold
+  - :name: OpenSans-ExtraboldItalic
+    :file_name: OpenSans-ExtraBoldItalic
+- :family: Open Sans Condensed
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: opensanscondensed
+  :fonts:
+  - :name: OpenSans-CondensedLight
+    :file_name: OpenSans-CondLight
+  - :name: OpenSans-CondensedLightItalic
+    :file_name: OpenSans-CondLightItalic
+  - :name: OpenSans-CondensedBold
+    :file_name: OpenSans-CondBold
+- :family: Oranienbaum
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: oranienbaum
+  :fonts:
+  - :name: Oranienbaum-Regular
+    :file_name: Oranienbaum-Regular
+- :family: Orbitron
+  :designer: Matt McInerney
+  :license: OFL
+  :directory: orbitron
+  :fonts:
+  - :name: Orbitron-Regular
+    :file_name: Orbitron-Regular
+  - :name: Orbitron-Medium
+    :file_name: Orbitron-Medium
+  - :name: Orbitron-Bold
+    :file_name: Orbitron-Bold
+  - :name: Orbitron-Black
+    :file_name: Orbitron-Black
+- :family: Oregano
+  :designer: Astigmatic
+  :license: OFL
+  :directory: oregano
+  :fonts:
+  - :name: Oregano-Italic
+    :file_name: Oregano-Italic
+  - :name: Oregano-Regular
+    :file_name: Oregano-Regular
+- :family: Orienta
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: orienta
+  :fonts:
+  - :name: Orienta-Regular
+    :file_name: Orienta-Regular
+- :family: Original Surfer
+  :designer: Astigmatic
+  :license: OFL
+  :directory: originalsurfer
+  :fonts:
+  - :name: OriginalSurfer-Regular
+    :file_name: OriginalSurfer-Regular
+- :family: Oswald
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: oswald
+  :fonts:
+  - :name: Oswald-Bold
+    :file_name: Oswald-Bold
+  - :name: Oswald-Light
+    :file_name: Oswald-Light
+  - :name: Oswald-Regular
+    :file_name: Oswald-Regular
+- :family: Overlock
+  :designer: Dario Manuel Muhafara
+  :license: OFL
+  :directory: overlock
+  :fonts:
+  - :name: Overlock-Regular
+    :file_name: Overlock-Regular
+  - :name: Overlock-Italic
+    :file_name: Overlock-Italic
+  - :name: Overlock-Bold
+    :file_name: Overlock-Bold
+  - :name: Overlock-BoldItalic
+    :file_name: Overlock-BoldItalic
+  - :name: Overlock-Black
+    :file_name: Overlock-Black
+  - :name: Overlock-BlackItalic
+    :file_name: Overlock-BlackItalic
+- :family: Overlock SC
+  :designer: Dario Manuel Muhafara
+  :license: OFL
+  :directory: overlocksc
+  :fonts:
+  - :name: OverlockSC-Regular
+    :file_name: OverlockSC-Regular
+- :family: Over the Rainbow
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: overtherainbow
+  :fonts:
+  - :name: OvertheRainbow
+    :file_name: OvertheRainbow
+- :family: Ovo
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: ovo
+  :fonts:
+  - :name: Ovo
+    :file_name: Ovo-Regular
+- :family: Oxygen
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: oxygen
+  :fonts:
+  - :name: Oxygen-Bold
+    :file_name: Oxygen-Bold
+  - :name: Oxygen-Light
+    :file_name: Oxygen-Light
+  - :name: Oxygen-Regular
+    :file_name: Oxygen-Regular
+- :family: Oxygen Mono
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: oxygenmono
+  :fonts:
+  - :name: OxygenMono-Regular
+    :file_name: OxygenMono-Regular
+- :family: Pacifico
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: pacifico
+  :fonts:
+  - :name: Pacifico-Regular
+    :file_name: Pacifico
+- :family: Palanquin
+  :designer: Pria Ravichandran
+  :license: OFL
+  :directory: palanquin
+  :fonts:
+  - :name: Palanquin-Bold
+    :file_name: Palanquin-Bold
+  - :name: Palanquin-ExtraLight
+    :file_name: Palanquin-ExtraLight
+  - :name: Palanquin-Light
+    :file_name: Palanquin-Light
+  - :name: Palanquin-Medium
+    :file_name: Palanquin-Medium
+  - :name: Palanquin-Regular
+    :file_name: Palanquin-Regular
+  - :name: Palanquin-SemiBold
+    :file_name: Palanquin-SemiBold
+  - :name: Palanquin-Thin
+    :file_name: Palanquin-Thin
+- :family: Palanquin Dark
+  :designer: Pria Ravichandran
+  :license: OFL
+  :directory: palanquindark
+  :fonts:
+  - :name: PalanquinDark-Bold
+    :file_name: PalanquinDark-Bold
+  - :name: PalanquinDark-Medium
+    :file_name: PalanquinDark-Medium
+  - :name: PalanquinDark-Regular
+    :file_name: PalanquinDark-Regular
+  - :name: PalanquinDark-SemiBold
+    :file_name: PalanquinDark-SemiBold
+- :family: Paprika
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: paprika
+  :fonts:
+  - :name: Paprika-Regular
+    :file_name: Paprika-Regular
+- :family: Parisienne
+  :designer: Astigmatic
+  :license: OFL
+  :directory: parisienne
+  :fonts:
+  - :name: Parisienne-Regular
+    :file_name: Parisienne-Regular
+- :family: Passero One
+  :designer: Viktoriya Grabowska
+  :license: OFL
+  :directory: passeroone
+  :fonts:
+  - :name: PasseroOne-Regular
+    :file_name: PasseroOne-Regular
+- :family: Passion One
+  :designer: Fontstage
+  :license: OFL
+  :directory: passionone
+  :fonts:
+  - :name: PassionOne-Regular
+    :file_name: PassionOne-Regular
+  - :name: PassionOne-Bold
+    :file_name: PassionOne-Bold
+  - :name: PassionOne-Black
+    :file_name: PassionOne-Black
+- :family: Pathway Gothic One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: pathwaygothicone
+  :fonts:
+  - :name: PathwayGothicOne-Regular
+    :file_name: PathwayGothicOne-Regular
+- :family: Patrick Hand
+  :designer: Patrick Wagesreiter
+  :license: OFL
+  :directory: patrickhand
+  :fonts:
+  - :name: PatrickHand-Regular
+    :file_name: PatrickHand-Regular
+- :family: Patrick Hand SC
+  :designer: Patrick Wagesreiter
+  :license: OFL
+  :directory: patrickhandsc
+  :fonts:
+  - :name: PatrickHandSC-Regular
+    :file_name: PatrickHandSC-Regular
+- :family: Patua One
+  :designer: LatinoType
+  :license: OFL
+  :directory: patuaone
+  :fonts:
+  - :name: PatuaOne-Regular
+    :file_name: PatuaOne-Regular
+- :family: Paytone One
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: paytoneone
+  :fonts:
+  - :name: PaytoneOne
+    :file_name: PaytoneOne
+- :family: Pecita
+  :designer: Phillipe Cochy
+  :license: OFL
+  :directory: pecita
+  :fonts:
+  - :name: Pecita
+    :file_name: Pecita
+- :family: Peddana
+  :designer: Appaji Ambarisha Darbha
+  :license: OFL
+  :directory: peddana
+  :fonts:
+  - :name: Peddana
+    :file_name: Peddana-Regular
+- :family: Peralta
+  :designer: Astigmatic
+  :license: OFL
+  :directory: peralta
+  :fonts:
+  - :name: Peralta-Regular
+    :file_name: Peralta-Regular
+- :family: Permanent Marker
+  :designer: Font Diner
+  :license: Apache2
+  :directory: permanentmarker
+  :fonts:
+  - :name: PermanentMarker
+    :file_name: PermanentMarker
+- :family: Petit Formal Script
+  :designer: Impallari Type
+  :license: OFL
+  :directory: petitformalscript
+  :fonts:
+  - :name: PetitFormalScript-Regular
+    :file_name: PetitFormalScript-Regular
+- :family: Petrona
+  :designer: Ringo Romei
+  :license: OFL
+  :directory: petrona
+  :fonts:
+  - :name: Petrona-Regular
+    :file_name: Petrona-Regular
+- :family: Phetsarath
+  :designer: Danh Hong
+  :license: OFL
+  :directory: phetsarath
+  :fonts:
+  - :name: Phetsarath-Regular
+    :file_name: Phetsarath-Regular
+  - :name: Phetsarath-Bold
+    :file_name: Phetsarath-Bold
+- :family: Philosopher
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: philosopher
+  :fonts:
+  - :name: Philosopher
+    :file_name: Philosopher-Regular
+  - :name: Philosopher-Italic
+    :file_name: Philosopher-Italic
+  - :name: Philosopher-Bold
+    :file_name: Philosopher-Bold
+  - :name: Philosopher-BoldItalic
+    :file_name: Philosopher-BoldItalic
+- :family: Piedra
+  :designer: Sudtipos
+  :license: OFL
+  :directory: piedra
+  :fonts:
+  - :name: Piedra-Regular
+    :file_name: Piedra-Regular
+- :family: Pinyon Script
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: pinyonscript
+  :fonts:
+  - :name: PinyonScript
+    :file_name: PinyonScript-Regular
+- :family: Pirata One
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: pirataone
+  :fonts:
+  - :name: PirataOne-Regular
+    :file_name: PirataOne-Regular
+- :family: Plaster
+  :designer: Eben Sorkin
+  :license: OFL
+  :directory: plaster
+  :fonts:
+  - :name: Plaster-Regular
+    :file_name: Plaster-Regular
+- :family: Play
+  :designer: Jonas Hecksher
+  :license: OFL
+  :directory: play
+  :fonts:
+  - :name: Play
+    :file_name: Play-Regular
+  - :name: Play-Bold
+    :file_name: Play-Bold
+- :family: Playball
+  :designer: TypeSETit
+  :license: OFL
+  :directory: playball
+  :fonts:
+  - :name: Playball-Regular
+    :file_name: Playball-Regular
+- :family: Playfair Display
+  :designer: Claus Eggers Sørensen
+  :license: OFL
+  :directory: playfairdisplay
+  :fonts:
+  - :name: PlayfairDisplay-Black
+    :file_name: PlayfairDisplay-Black
+  - :name: PlayfairDisplay-BlackItalic
+    :file_name: PlayfairDisplay-BlackItalic
+  - :name: PlayfairDisplay-Bold
+    :file_name: PlayfairDisplay-Bold
+  - :name: PlayfairDisplay-BoldItalic
+    :file_name: PlayfairDisplay-BoldItalic
+  - :name: PlayfairDisplay-Italic
+    :file_name: PlayfairDisplay-Italic
+  - :name: PlayfairDisplay-Regular
+    :file_name: PlayfairDisplay-Regular
+- :family: Playfair Display SC
+  :designer: Claus Eggers Sørensen
+  :license: OFL
+  :directory: playfairdisplaysc
+  :fonts:
+  - :name: PlayfairDisplaySC-Black
+    :file_name: PlayfairDisplaySC-Black
+  - :name: PlayfairDisplaySC-BlackItalic
+    :file_name: PlayfairDisplaySC-BlackItalic
+  - :name: PlayfairDisplaySC-Bold
+    :file_name: PlayfairDisplaySC-Bold
+  - :name: PlayfairDisplaySC-BoldItalic
+    :file_name: PlayfairDisplaySC-BoldItalic
+  - :name: PlayfairDisplaySC-Italic
+    :file_name: PlayfairDisplaySC-Italic
+  - :name: PlayfairDisplaySC-Regular
+    :file_name: PlayfairDisplaySC-Regular
+- :family: Podkova
+  :designer: Cyreal
+  :license: OFL
+  :directory: podkova
+  :fonts:
+  - :name: Podkova-Regular
+    :file_name: Podkova-Regular
+  - :name: Podkova-Bold
+    :file_name: Podkova-Bold
+- :family: Poetsen One
+  :designer: Rodrigo Fuenzalida, Pablo Impallari
+  :license: OFL
+  :directory: poetsenone
+  :fonts:
+  - :name: PoetsenOne-Regular
+    :file_name: PoetsenOne-Regular
+- :family: Poiret One
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: poiretone
+  :fonts:
+  - :name: PoiretOne-Regular
+    :file_name: PoiretOne-Regular
+- :family: Poller One
+  :designer: Yvonne Schüttler
+  :license: OFL
+  :directory: pollerone
+  :fonts:
+  - :name: PollerOne-Regular
+    :file_name: PollerOne
+- :family: Poly
+  :designer: Nicolás Silva
+  :license: OFL
+  :directory: poly
+  :fonts:
+  - :name: Poly-Regular
+    :file_name: Poly-Regular
+  - :name: Poly-Italic
+    :file_name: Poly-Italic
+- :family: Pompiere
+  :designer: Karolina Lach
+  :license: OFL
+  :directory: pompiere
+  :fonts:
+  - :name: Pompiere-Regular
+    :file_name: Pompiere-Regular
+- :family: Ponnala
+  :designer: Appaji Ambarisha Darbha
+  :license: OFL
+  :directory: ponnala
+  :fonts:
+  - :name: Ponnala
+    :file_name: Ponnala-Regular
+- :family: Pontano Sans
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: pontanosans
+  :fonts:
+  - :name: PontanoSans-Regular
+    :file_name: PontanoSans-Regular
+- :family: Poppins
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: poppins
+  :fonts:
+  - :name: Poppins-Bold
+    :file_name: Poppins-Bold
+  - :name: Poppins-Light
+    :file_name: Poppins-Light
+  - :name: Poppins-Medium
+    :file_name: Poppins-Medium
+  - :name: Poppins-Regular
+    :file_name: Poppins-Regular
+  - :name: Poppins-SemiBold
+    :file_name: Poppins-SemiBold
+- :family: Porter Sans Block
+  :designer: Tyler Finck
+  :license: OFL
+  :directory: portersansblock
+  :fonts:
+  - :name: PorterSansBlock
+    :file_name: PorterSansBlock-Regular
+- :family: Port Lligat Sans
+  :designer: Tipo
+  :license: OFL
+  :directory: portlligatsans
+  :fonts:
+  - :name: PortLligatSans-Regular
+    :file_name: PortLligatSans-Regular
+- :family: Port Lligat Slab
+  :designer: Tipo
+  :license: OFL
+  :directory: portlligatslab
+  :fonts:
+  - :name: PortLligatSlab-Regular
+    :file_name: PortLligatSlab-Regular
+- :family: Pragati Narrow
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: pragatinarrow
+  :fonts:
+  - :name: PragatiNarrow-Bold
+    :file_name: PragatiNarrow-Bold
+  - :name: PragatiNarrow-Regular
+    :file_name: PragatiNarrow-Regular
+- :family: Prata
+  :designer: Cyreal
+  :license: OFL
+  :directory: prata
+  :fonts:
+  - :name: Prata-Regular
+    :file_name: Prata-Regular
+- :family: Preahvihear
+  :designer: Danh Hong
+  :license: OFL
+  :directory: preahvihear
+  :fonts:
+  - :name: PreahVihear
+    :file_name: Preahvihear
+- :family: Press Start 2P
+  :designer: CodeMan38
+  :license: OFL
+  :directory: pressstart2p
+  :fonts:
+  - :name: PressStart2P-Regular
+    :file_name: PressStart2P-Regular
+- :family: Princess Sofia
+  :designer: Tart Workshop
+  :license: OFL
+  :directory: princesssofia
+  :fonts:
+  - :name: PrincessSofia
+    :file_name: PrincessSofia-Regular
+- :family: Prociono
+  :designer: Barry Schwartz
+  :license: OFL
+  :directory: prociono
+  :fonts:
+  - :name: Prociono-Regular
+    :file_name: Prociono-Regular
+- :family: Prosto One
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: prostoone
+  :fonts:
+  - :name: ProstoOne-Regular
+    :file_name: ProstoOne-Regular
+- :family: PT Mono
+  :designer: ParaType
+  :license: OFL
+  :directory: ptmono
+  :fonts:
+  - :name: PTMono-Regular
+    :file_name: PTM55FT
+- :family: PT Sans
+  :designer: ParaType
+  :license: OFL
+  :directory: ptsans
+  :fonts:
+  - :name: PTSans-Regular
+    :file_name: PT_Sans-Web-Regular
+  - :name: PTSans-Italic
+    :file_name: PT_Sans-Web-Italic
+  - :name: PTSans-Bold
+    :file_name: PT_Sans-Web-Bold
+  - :name: PTSans-BoldItalic
+    :file_name: PT_Sans-Web-BoldItalic
+- :family: PT Sans Caption
+  :designer: ParaType
+  :license: OFL
+  :directory: ptsanscaption
+  :fonts:
+  - :name: PTSans-Caption
+    :file_name: PT_Sans-Caption-Web-Regular
+  - :name: PTSans-CaptionBold
+    :file_name: PT_Sans-Caption-Web-Bold
+- :family: PT Sans Narrow
+  :designer: ParaType
+  :license: OFL
+  :directory: ptsansnarrow
+  :fonts:
+  - :name: PTSans-Narrow
+    :file_name: PT_Sans-Narrow-Web-Regular
+  - :name: PTSans-NarrowBold
+    :file_name: PT_Sans-Narrow-Web-Bold
+- :family: PT Serif
+  :designer: ParaType
+  :license: OFL
+  :directory: ptserif
+  :fonts:
+  - :name: PTSerif-Regular
+    :file_name: PT_Serif-Web-Regular
+  - :name: PTSerif-Italic
+    :file_name: PT_Serif-Web-Italic
+  - :name: PTSerif-Bold
+    :file_name: PT_Serif-Web-Bold
+  - :name: PTSerif-BoldItalic
+    :file_name: PT_Serif-Web-BoldItalic
+- :family: PT Serif Caption
+  :designer: ParaType
+  :license: OFL
+  :directory: ptserifcaption
+  :fonts:
+  - :name: PTSerif-Caption
+    :file_name: PT_Serif-Caption-Web-Regular
+  - :name: PTSerif-CaptionItalic
+    :file_name: PT_Serif-Caption-Web-Italic
+- :family: Puritan
+  :designer: Ben Weiner
+  :license: OFL
+  :directory: puritan
+  :fonts:
+  - :name: Puritan-Regular
+    :file_name: Puritan-Regular
+  - :name: Puritan-Italic
+    :file_name: Puritan-Italic
+  - :name: Puritan-Bold
+    :file_name: Puritan-Bold
+  - :name: Puritan-BoldItalic
+    :file_name: Puritan-BoldItalic
+- :family: Purple Purse
+  :designer: Astigmatic
+  :license: OFL
+  :directory: purplepurse
+  :fonts:
+  - :name: PurplePurse-Regular
+    :file_name: PurplePurse-Regular
+- :family: Quando
+  :designer: Joana Correia da Silva
+  :license: OFL
+  :directory: quando
+  :fonts:
+  - :name: Quando-Regular
+    :file_name: Quando-Regular
+- :family: Quantico
+  :designer: MADType
+  :license: OFL
+  :directory: quantico
+  :fonts:
+  - :name: Quantico-Regular
+    :file_name: Quantico-Regular
+  - :name: Quantico-Italic
+    :file_name: Quantico-Italic
+  - :name: Quantico-Bold
+    :file_name: Quantico-Bold
+  - :name: Quantico-BoldItalic
+    :file_name: Quantico-BoldItalic
+- :family: Quattrocento
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: quattrocento
+  :fonts:
+  - :name: Quattrocento
+    :file_name: Quattrocento-Regular
+  - :name: Quattrocento-Bold
+    :file_name: Quattrocento-Bold
+- :family: Quattrocento Sans
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: quattrocentosans
+  :fonts:
+  - :name: QuattrocentoSans
+    :file_name: QuattrocentoSans-Regular
+  - :name: QuattrocentoSans-Italic
+    :file_name: QuattrocentoSans-Italic
+  - :name: QuattrocentoSans-Bold
+    :file_name: QuattrocentoSans-Bold
+  - :name: QuattrocentoSans-BoldItalic
+    :file_name: QuattrocentoSans-BoldItalic
+- :family: Questrial
+  :designer: Joe Prince
+  :license: OFL
+  :directory: questrial
+  :fonts:
+  - :name: Questrial-Regular
+    :file_name: Questrial-Regular
+- :family: Quicksand
+  :designer: Andrew Paglinawan
+  :license: OFL
+  :directory: quicksand
+  :fonts:
+  - :name: Quicksand-Light
+    :file_name: Quicksand-Light
+  - :name: Quicksand-LightItalic
+    :file_name: Quicksand-LightItalic
+  - :name: Quicksand-Regular
+    :file_name: Quicksand-Regular
+  - :name: Quicksand-Italic
+    :file_name: Quicksand-Italic
+  - :name: Quicksand-Bold
+    :file_name: Quicksand-Bold
+  - :name: Quicksand-BoldItalic
+    :file_name: Quicksand-BoldItalic
+- :family: Quintessential
+  :designer: Astigmatic
+  :license: OFL
+  :directory: quintessential
+  :fonts:
+  - :name: Quintessential-Regular
+    :file_name: Quintessential-Regular
+- :family: Qwigley
+  :designer: TypeSETit
+  :license: OFL
+  :directory: qwigley
+  :fonts:
+  - :name: Qwigley-Regular
+    :file_name: Qwigley-Regular
+- :family: Racing Sans One
+  :designer: Impallari Type
+  :license: OFL
+  :directory: racingsansone
+  :fonts:
+  - :name: RacingSansOne-Regular
+    :file_name: RacingSansOne-Regular
+- :family: Radley
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: radley
+  :fonts:
+  - :name: Radley
+    :file_name: Radley-Regular
+  - :name: Radley-Italic
+    :file_name: Radley-Italic
+- :family: Rajdhani
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: rajdhani
+  :fonts:
+  - :name: Rajdhani-Bold
+    :file_name: Rajdhani-Bold
+  - :name: Rajdhani-Light
+    :file_name: Rajdhani-Light
+  - :name: Rajdhani-Medium
+    :file_name: Rajdhani-Medium
+  - :name: Rajdhani-Regular
+    :file_name: Rajdhani-Regular
+  - :name: Rajdhani-Semibold
+    :file_name: Rajdhani-SemiBold
+- :family: Raleway
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: raleway
+  :fonts:
+  - :name: Raleway-Black
+    :file_name: Raleway-Black
+  - :name: Raleway-BlackItalic
+    :file_name: Raleway-BlackItalic
+  - :name: Raleway-Bold
+    :file_name: Raleway-Bold
+  - :name: Raleway-BoldItalic
+    :file_name: Raleway-BoldItalic
+  - :name: Raleway-ExtraBold
+    :file_name: Raleway-ExtraBold
+  - :name: Raleway-ExtraBoldItalic
+    :file_name: Raleway-ExtraBoldItalic
+  - :name: Raleway-ExtraLight
+    :file_name: Raleway-ExtraLight
+  - :name: Raleway-ExtraLightItalic
+    :file_name: Raleway-ExtraLightItalic
+  - :name: Raleway-Italic
+    :file_name: Raleway-Italic
+  - :name: Raleway-Light
+    :file_name: Raleway-Light
+  - :name: Raleway-LightItalic
+    :file_name: Raleway-LightItalic
+  - :name: Raleway-Medium
+    :file_name: Raleway-Medium
+  - :name: Raleway-MediumItalic
+    :file_name: Raleway-MediumItalic
+  - :name: Raleway-Regular
+    :file_name: Raleway-Regular
+  - :name: Raleway-SemiBold
+    :file_name: Raleway-SemiBold
+  - :name: Raleway-SemiBoldItalic
+    :file_name: Raleway-SemiBoldItalic
+  - :name: Raleway-Thin
+    :file_name: Raleway-Thin
+  - :name: Raleway-ThinItalic
+    :file_name: Raleway-ThinItalic
+- :family: Raleway Dots
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: ralewaydots
+  :fonts:
+  - :name: RalewayDots-Regular
+    :file_name: RalewayDots-Regular
+- :family: Ramabhadra
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: ramabhadra
+  :fonts:
+  - :name: Ramabhadra
+    :file_name: Ramabhadra-Regular
+- :family: Ramaraja
+  :designer: Appaji Ambarisha Darbha
+  :license: OFL
+  :directory: ramaraja
+  :fonts:
+  - :name: Ramaraja
+    :file_name: Ramaraja-Regular
+- :family: Rambla
+  :designer: Martin Sommaruga
+  :license: OFL
+  :directory: rambla
+  :fonts:
+  - :name: Rambla-Bold
+    :file_name: Rambla-Bold
+  - :name: Rambla-BoldItalic
+    :file_name: Rambla-BoldItalic
+  - :name: Rambla-Italic
+    :file_name: Rambla-Italic
+  - :name: Rambla-Regular
+    :file_name: Rambla-Regular
+- :family: Rammetto One
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: rammettoone
+  :fonts:
+  - :name: RammettoOne-Regular
+    :file_name: RammettoOne-Regular
+- :family: Ranchers
+  :designer: Impallari Type
+  :license: OFL
+  :directory: ranchers
+  :fonts:
+  - :name: Ranchers-Regular
+    :file_name: Ranchers-Regular
+- :family: Rancho
+  :designer: Sideshow
+  :license: Apache2
+  :directory: rancho
+  :fonts:
+  - :name: Rancho
+    :file_name: Rancho-Regular
+- :family: Ranga
+  :designer: TipTopTyp
+  :license: OFL
+  :directory: ranga
+  :fonts:
+  - :name: Ranga-Bold
+    :file_name: Ranga-Bold
+  - :name: Ranga-Regular
+    :file_name: Ranga-Regular
+- :family: Rationale
+  :designer: Cyreal
+  :license: OFL
+  :directory: rationale
+  :fonts:
+  - :name: Rationale-Regular
+    :file_name: Rationale-Regular
+- :family: Ravi Prakash
+  :designer: Appaji Ambarisha Darbha
+  :license: OFL
+  :directory: raviprakash
+  :fonts:
+  - :name: RaviPrakash-Regular
+    :file_name: RaviPrakash-Regular
+- :family: Redacted
+  :designer: Christian Naths
+  :license: OFL
+  :directory: redacted
+  :fonts:
+  - :name: RedactedRegular
+    :file_name: Redacted-Regular
+- :family: Redacted Script
+  :designer: Christian Naths
+  :license: OFL
+  :directory: redactedscript
+  :fonts:
+  - :name: RedactedScriptBold
+    :file_name: RedactedScript-Bold
+  - :name: RedactedScriptRegular
+    :file_name: RedactedScript-Regular
+- :family: Redressed
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: redressed
+  :fonts:
+  - :name: Redressed
+    :file_name: Redressed
+- :family: Reenie Beanie
+  :designer: James Grieshaber
+  :license: OFL
+  :directory: reeniebeanie
+  :fonts:
+  - :name: ReenieBeanie
+    :file_name: ReenieBeanie
+- :family: Revalia
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: revalia
+  :fonts:
+  - :name: Revalia-Regular
+    :file_name: Revalia-Regular
+- :family: Ribeye
+  :designer: Astigmatic
+  :license: OFL
+  :directory: ribeye
+  :fonts:
+  - :name: Ribeye-Regular
+    :file_name: Ribeye-Regular
+- :family: Ribeye Marrow
+  :designer: Astigmatic
+  :license: OFL
+  :directory: ribeyemarrow
+  :fonts:
+  - :name: RibeyeMarrow-Regular
+    :file_name: RibeyeMarrow-Regular
+- :family: Righteous
+  :designer: Astigmatic
+  :license: OFL
+  :directory: righteous
+  :fonts:
+  - :name: Righteous-Regular
+    :file_name: Righteous-Regular
+- :family: Risque
+  :designer: Astigmatic
+  :license: OFL
+  :directory: risque
+  :fonts:
+  - :name: Risque-Regular
+    :file_name: Risque-Regular
+- :family: Roboto
+  :designer: Christian Robertson
+  :license: Apache2
+  :directory: roboto
+  :fonts:
+  - :name: Roboto-Thin
+    :file_name: Roboto-Thin
+  - :name: Roboto-ThinItalic
+    :file_name: Roboto-ThinItalic
+  - :name: Roboto-Light
+    :file_name: Roboto-Light
+  - :name: Roboto-LightItalic
+    :file_name: Roboto-LightItalic
+  - :name: Roboto-Regular
+    :file_name: Roboto-Regular
+  - :name: Roboto-Italic
+    :file_name: Roboto-Italic
+  - :name: Roboto-Medium
+    :file_name: Roboto-Medium
+  - :name: Roboto-MediumItalic
+    :file_name: Roboto-MediumItalic
+  - :name: Roboto-Bold
+    :file_name: Roboto-Bold
+  - :name: Roboto-BoldItalic
+    :file_name: Roboto-BoldItalic
+  - :name: Roboto-Black
+    :file_name: Roboto-Black
+  - :name: Roboto-BlackItalic
+    :file_name: Roboto-BlackItalic
+- :family: Roboto Condensed
+  :designer: Christian Robertson
+  :license: Apache2
+  :directory: robotocondensed
+  :fonts:
+  - :name: RobotoCondensed-Light
+    :file_name: RobotoCondensed-Light
+  - :name: RobotoCondensed-LightItalic
+    :file_name: RobotoCondensed-LightItalic
+  - :name: RobotoCondensed-Regular
+    :file_name: RobotoCondensed-Regular
+  - :name: RobotoCondensed-Italic
+    :file_name: RobotoCondensed-Italic
+  - :name: RobotoCondensed-Bold
+    :file_name: RobotoCondensed-Bold
+  - :name: RobotoCondensed-BoldItalic
+    :file_name: RobotoCondensed-BoldItalic
+- :family: Roboto Slab
+  :designer: Christian Robertson
+  :license: Apache2
+  :directory: robotoslab
+  :fonts:
+  - :name: RobotoSlab-Bold
+    :file_name: RobotoSlab-Bold
+  - :name: RobotoSlab-Light
+    :file_name: RobotoSlab-Light
+  - :name: RobotoSlab-Regular
+    :file_name: RobotoSlab-Regular
+  - :name: RobotoSlab-Thin
+    :file_name: RobotoSlab-Thin
+- :family: Rochester
+  :designer: Sideshow
+  :license: Apache2
+  :directory: rochester
+  :fonts:
+  - :name: Rochester-Regular
+    :file_name: Rochester-Regular
+- :family: Rock Salt
+  :designer: Sideshow
+  :license: Apache2
+  :directory: rocksalt
+  :fonts:
+  - :name: RockSalt
+    :file_name: RockSalt
+- :family: Rokkitt
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: rokkitt
+  :fonts:
+  - :name: Rokkitt-Light
+    :file_name: Rokkitt-Light
+  - :name: Rokkitt
+    :file_name: Rokkitt-Regular
+  - :name: Rokkitt-Bold
+    :file_name: Rokkitt-Bold
+- :family: Romanesco
+  :designer: Astigmatic
+  :license: OFL
+  :directory: romanesco
+  :fonts:
+  - :name: Romanesco-Regular
+    :file_name: Romanesco-Regular
+- :family: Ropa Sans
+  :designer: Botio Nikoltchev
+  :license: OFL
+  :directory: ropasans
+  :fonts:
+  - :name: RopaSans-Regular
+    :file_name: RopaSans-Regular
+  - :name: RopaSans-Italic
+    :file_name: RopaSans-Italic
+- :family: Rosario
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: rosario
+  :fonts:
+  - :name: Rosario-Regular
+    :file_name: Rosario-Regular
+  - :name: Rosario-Italic
+    :file_name: Rosario-Italic
+  - :name: Rosario-Bold
+    :file_name: Rosario-Bold
+  - :name: Rosario-BoldItalic
+    :file_name: Rosario-BoldItalic
+- :family: Rosarivo
+  :designer: Pablo Ugerman
+  :license: OFL
+  :directory: rosarivo
+  :fonts:
+  - :name: Rosarivo-Regular
+    :file_name: Rosarivo-Regular
+  - :name: Rosarivo-Italic
+    :file_name: Rosarivo-Italic
+- :family: Rouge Script
+  :designer: Sabrina Mariela Lopez
+  :license: OFL
+  :directory: rougescript
+  :fonts:
+  - :name: RougeScript-Regular
+    :file_name: RougeScript-Regular
+- :family: Rozha One
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: rozhaone
+  :fonts:
+  - :name: RozhaOne-Regular
+    :file_name: RozhaOne-Regular
+- :family: Rubik Mono One
+  :designer: Hubert and Fischer
+  :license: OFL
+  :directory: rubikmonoone
+  :fonts:
+  - :name: RubikMonoOne-Regular
+    :file_name: RubikMonoOne-Regular
+- :family: Rubik One
+  :designer: Hubert and Fischer
+  :license: OFL
+  :directory: rubikone
+  :fonts:
+  - :name: RubikOne-Regular
+    :file_name: RubikOne-Regular
+- :family: Ruda
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: ruda
+  :fonts:
+  - :name: Ruda
+    :file_name: Ruda-Regular
+  - :name: Ruda-Bold
+    :file_name: Ruda-Bold
+  - :name: Ruda-Black
+    :file_name: Ruda-Black
+- :family: Rufina
+  :designer: Martin Sommaruga
+  :license: OFL
+  :directory: rufina
+  :fonts:
+  - :name: Rufina-Bold
+    :file_name: Rufina-Bold
+  - :name: Rufina-Regular
+    :file_name: Rufina-Regular
+- :family: Ruge Boogie
+  :designer: TypeSETit
+  :license: OFL
+  :directory: rugeboogie
+  :fonts:
+  - :name: RugeBoogie-Regular
+    :file_name: RugeBoogie-Regular
+- :family: Ruluko
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: ruluko
+  :fonts:
+  - :name: Ruluko
+    :file_name: Ruluko-Regular
+- :family: Rum Raisin
+  :designer: Astigmatic
+  :license: OFL
+  :directory: rumraisin
+  :fonts:
+  - :name: RumRaisin-Regular
+    :file_name: RumRaisin-Regular
+- :family: Ruslan Display
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: ruslandisplay
+  :fonts:
+  - :name: RuslanDisplay
+    :file_name: RuslanDisplay
+- :family: Russo One
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: russoone
+  :fonts:
+  - :name: RussoOne-Regular
+    :file_name: RussoOne-Regular
+- :family: Ruthie
+  :designer: TypeSETit
+  :license: OFL
+  :directory: ruthie
+  :fonts:
+  - :name: Ruthie-Regular
+    :file_name: Ruthie-Regular
+- :family: Rye
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: rye
+  :fonts:
+  - :name: Rye-Regular
+    :file_name: Rye-Regular
+- :family: Sacramento
+  :designer: Astigmatic
+  :license: OFL
+  :directory: sacramento
+  :fonts:
+  - :name: Sacramento-Regular
+    :file_name: Sacramento-Regular
+- :family: Sail
+  :designer: LatinoType
+  :license: OFL
+  :directory: sail
+  :fonts:
+  - :name: Sail-Regular
+    :file_name: Sail-Regular
+- :family: Salsa
+  :designer: John Vargas Beltrán
+  :license: OFL
+  :directory: salsa
+  :fonts:
+  - :name: Salsa-Regular
+    :file_name: Salsa-Regular
+- :family: Sanchez
+  :designer: Daniel Hernandez
+  :license: OFL
+  :directory: sanchez
+  :fonts:
+  - :name: Sanchez-Italic
+    :file_name: Sanchez-Italic
+  - :name: Sanchez-Regular
+    :file_name: Sanchez-Regular
+- :family: Sancreek
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: sancreek
+  :fonts:
+  - :name: Sancreek-Regular
+    :file_name: Sancreek-Regular
+- :family: Sansation
+  :designer: Bernd Montag
+  :license: OFL
+  :directory: sansation
+  :fonts:
+  - :name: Sansation-Bold
+    :file_name: Sansation-Bold
+  - :name: Sansation-BoldItalic
+    :file_name: Sansation-BoldItalic
+  - :name: Sansation-Italic
+    :file_name: Sansation-Italic
+  - :name: Sansation-Light
+    :file_name: Sansation-Light
+  - :name: Sansation-LightItalic
+    :file_name: Sansation-LightItalic
+  - :name: Sansation-Regular
+    :file_name: Sansation-Regular
+- :family: Sansita One
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: sansitaone
+  :fonts:
+  - :name: SansitaOne
+    :file_name: SansitaOne
+- :family: Sarabun
+  :designer: Suppakit Chalermlarp
+  :license: OFL
+  :directory: sarabun
+  :fonts:
+  - :name: Sarabun-Bold
+    :file_name: Sarabun-Bold
+  - :name: Sarabun-BoldItalic
+    :file_name: Sarabun-BoldItalic
+  - :name: Sarabun-Italic
+    :file_name: Sarabun-Italic
+  - :name: Sarabun
+    :file_name: Sarabun-Regular
+- :family: Sarala
+  :designer: Andres Torresi
+  :license: OFL
+  :directory: sarala
+  :fonts:
+  - :name: Sarala-Bold
+    :file_name: Sarala-Bold
+  - :name: Sarala-Regular
+    :file_name: Sarala-Regular
+- :family: Sarina
+  :designer: James Grieshaber
+  :license: OFL
+  :directory: sarina
+  :fonts:
+  - :name: Sarina-Regular
+    :file_name: Sarina-Regular
+- :family: Sarpanch
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: sarpanch
+  :fonts:
+  - :name: Sarpanch-Black
+    :file_name: Sarpanch-Black
+  - :name: Sarpanch-Regular
+    :file_name: Sarpanch-Regular
+  - :name: Sarpanch-Bold
+    :file_name: Sarpanch-Bold
+  - :name: Sarpanch-Medium
+    :file_name: Sarpanch-Medium
+  - :name: Sarpanch-ExtraBold
+    :file_name: Sarpanch-ExtraBold
+  - :name: Sarpanch-SemiBold
+    :file_name: Sarpanch-SemiBold
+- :family: Satisfy
+  :designer: Sideshow
+  :license: Apache2
+  :directory: satisfy
+  :fonts:
+  - :name: Satisfy
+    :file_name: Satisfy-Regular
+- :family: Scada
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: scada
+  :fonts:
+  - :name: Scada-Bold
+    :file_name: Scada-Bold
+  - :name: Scada-BoldItalic
+    :file_name: Scada-BoldItalic
+  - :name: Scada-Italic
+    :file_name: Scada-Italic
+  - :name: Scada-Regular
+    :file_name: Scada-Regular
+- :family: Scheherazade
+  :designer: SIL International
+  :license: OFL
+  :directory: scheherazade
+  :fonts:
+  - :name: Scheherazade
+    :file_name: Scheherazade-R
+- :family: Schoolbell
+  :designer: Font Diner
+  :license: Apache2
+  :directory: schoolbell
+  :fonts:
+  - :name: Schoolbell
+    :file_name: Schoolbell
+- :family: Seaweed Script
+  :designer: Neapolitan
+  :license: OFL
+  :directory: seaweedscript
+  :fonts:
+  - :name: SeaweedScript-Regular
+    :file_name: SeaweedScript-Regular
+- :family: Sedan
+  :designer: Sebastian Salazar
+  :license: OFL
+  :directory: sedan
+  :fonts:
+  - :name: Sedan-Italic
+    :file_name: Sedan-Italic
+  - :name: Sedan-Regular
+    :file_name: Sedan-Regular
+- :family: Sedan SC
+  :designer: Sebastian Salazar
+  :license: OFL
+  :directory: sedansc
+  :fonts:
+  - :name: SedanSC-Regular
+    :file_name: SedanSC-Regular
+- :family: Sevillana
+  :designer: Brownfox
+  :license: OFL
+  :directory: sevillana
+  :fonts:
+  - :name: Sevillana-Regular
+    :file_name: Sevillana-Regular
+- :family: Seymour One
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: seymourone
+  :fonts:
+  - :name: SeymourOne
+    :file_name: SeymourOne-Regular
+- :family: Shadows Into Light
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: shadowsintolight
+  :fonts:
+  - :name: ShadowsIntoLight
+    :file_name: ShadowsIntoLight
+- :family: Shadows Into Light Two
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: shadowsintolighttwo
+  :fonts:
+  - :name: ShadowsIntoLightTwo-Regular
+    :file_name: ShadowsIntoLightTwo-Regular
+- :family: Shanti
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: shanti
+  :fonts:
+  - :name: Shanti
+    :file_name: Shanti-Regular
+- :family: Share
+  :designer: Ralph du Carrois
+  :license: OFL
+  :directory: share
+  :fonts:
+  - :name: Share-Regular
+    :file_name: Share-Regular
+  - :name: Share-Italic
+    :file_name: Share-Italic
+  - :name: Share-Bold
+    :file_name: Share-Bold
+  - :name: Share-BoldItalic
+    :file_name: Share-BoldItalic
+- :family: Share Tech
+  :designer: Ralph du Carrois
+  :license: OFL
+  :directory: sharetech
+  :fonts:
+  - :name: ShareTech-Regular
+    :file_name: ShareTech-Regular
+- :family: Share Tech Mono
+  :designer: Ralph du Carrois
+  :license: OFL
+  :directory: sharetechmono
+  :fonts:
+  - :name: ShareTechMono-Regular
+    :file_name: ShareTechMono-Regular
+- :family: Shojumaru
+  :designer: Astigmatic
+  :license: OFL
+  :directory: shojumaru
+  :fonts:
+  - :name: Shojumaru-Regular
+    :file_name: Shojumaru-Regular
+- :family: Short Stack
+  :designer: James Grieshaber
+  :license: OFL
+  :directory: shortstack
+  :fonts:
+  - :name: ShortStack
+    :file_name: ShortStack-Regular
+- :family: Siamreap
+  :designer: Danh Hong
+  :license: OFL
+  :directory: siamreap
+  :fonts:
+  - :name: Siemreap
+    :file_name: Siemreap
+- :family: Siemreap
+  :designer: Danh Hong
+  :license: OFL
+  :directory: siemreap
+  :fonts:
+  - :name: Siemreap
+    :file_name: Siemreap
+- :family: Sigmar One
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: sigmarone
+  :fonts:
+  - :name: SigmarOne
+    :file_name: SigmarOne
+- :family: Signika
+  :designer: Anna Giedryś
+  :license: OFL
+  :directory: signika
+  :fonts:
+  - :name: Signika-Light
+    :file_name: Signika-Light
+  - :name: Signika-Regular
+    :file_name: Signika-Regular
+  - :name: Signika-Semibold
+    :file_name: Signika-Semibold
+  - :name: Signika-Bold
+    :file_name: Signika-Bold
+- :family: Signika Negative
+  :designer: Anna Giedryś
+  :license: OFL
+  :directory: signikanegative
+  :fonts:
+  - :name: SignikaNegative-Light
+    :file_name: SignikaNegative-Light
+  - :name: SignikaNegative-Regular
+    :file_name: SignikaNegative-Regular
+  - :name: SignikaNegative-Semibold
+    :file_name: SignikaNegative-Semibold
+  - :name: SignikaNegative-Bold
+    :file_name: SignikaNegative-Bold
+- :family: Simonetta
+  :designer: Brownfox
+  :license: OFL
+  :directory: simonetta
+  :fonts:
+  - :name: Simonetta-Regular
+    :file_name: Simonetta-Regular
+  - :name: Simonetta-Italic
+    :file_name: Simonetta-Italic
+  - :name: Simonetta-Black
+    :file_name: Simonetta-Black
+  - :name: Simonetta-BlackItalic
+    :file_name: Simonetta-BlackItalic
+- :family: Sintony
+  :designer: Eduardo Rodriguez Tunni
+  :license: OFL
+  :directory: sintony
+  :fonts:
+  - :name: Sintony-Bold
+    :file_name: Sintony-Bold
+  - :name: Sintony
+    :file_name: Sintony-Regular
+- :family: Sirin Stencil
+  :designer: Cyreal
+  :license: OFL
+  :directory: sirinstencil
+  :fonts:
+  - :name: SirinStencil-Regular
+    :file_name: SirinStencil-Regular
+- :family: Six Caps
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: sixcaps
+  :fonts:
+  - :name: SixCaps
+    :file_name: SixCaps
+- :family: Skranji
+  :designer: Neapolitan
+  :license: OFL
+  :directory: skranji
+  :fonts:
+  - :name: Skranji-Bold
+    :file_name: Skranji-Bold
+  - :name: Skranji
+    :file_name: Skranji-Regular
+- :family: Slabo 13px
+  :designer: John Hudson
+  :license: OFL
+  :directory: slabo13px
+  :fonts:
+  - :name: Slabo13px-Regular
+    :file_name: Slabo13px-Regular
+- :family: Slabo 27px
+  :designer: John Hudson
+  :license: OFL
+  :directory: slabo27px
+  :fonts:
+  - :name: Slabo27px-Regular
+    :file_name: Slabo27px-Regular
+- :family: Slackey
+  :designer: Sideshow
+  :license: Apache2
+  :directory: slackey
+  :fonts:
+  - :name: Slackey
+    :file_name: Slackey
+- :family: Smokum
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: smokum
+  :fonts:
+  - :name: Smokum-Regular
+    :file_name: Smokum-Regular
+- :family: Smythe
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: smythe
+  :fonts:
+  - :name: Smythe
+    :file_name: Smythe-Regular
+- :family: Sniglet
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: sniglet
+  :fonts:
+  - :name: Sniglet-ExtraBold
+    :file_name: Sniglet-ExtraBold
+  - :name: Sniglet-Regular
+    :file_name: Sniglet-Regular
+- :family: Snippet
+  :designer: Gesine Todt
+  :license: OFL
+  :directory: snippet
+  :fonts:
+  - :name: Snippet
+    :file_name: Snippet
+- :family: Snowburst One
+  :designer: Annet Stirling
+  :license: OFL
+  :directory: snowburstone
+  :fonts:
+  - :name: SnowburstOne-Regular
+    :file_name: SnowburstOne-Regular
+- :family: Sofadi One
+  :designer: Botjo Nikoltchev
+  :license: OFL
+  :directory: sofadione
+  :fonts:
+  - :name: SofadiOne-Regular
+    :file_name: SofadiOne-Regular
+- :family: Sofia
+  :designer: LatinoType
+  :license: OFL
+  :directory: sofia
+  :fonts:
+  - :name: Sofia-Regular
+    :file_name: Sofia-Regular
+- :family: Sonsie One
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: sonsieone
+  :fonts:
+  - :name: SonsieOne-Regular
+    :file_name: SonsieOne-Regular
+- :family: Sorts Mill Goudy
+  :designer: Barry Schwartz
+  :license: OFL
+  :directory: sortsmillgoudy
+  :fonts:
+  - :name: SortsMillGoudy-Regular
+    :file_name: SortsMillGoudy-Regular
+  - :name: SortsMillGoudy-Italic
+    :file_name: SortsMillGoudy-Italic
+- :family: Source Code Pro
+  :designer: Paul D. Hunt
+  :license: OFL
+  :directory: sourcecodepro
+  :fonts:
+  - :name: SourceCodePro-Black
+    :file_name: SourceCodePro-Black
+  - :name: SourceCodePro-Bold
+    :file_name: SourceCodePro-Bold
+  - :name: SourceCodePro-ExtraLight
+    :file_name: SourceCodePro-ExtraLight
+  - :name: SourceCodePro-Light
+    :file_name: SourceCodePro-Light
+  - :name: SourceCodePro-Medium
+    :file_name: SourceCodePro-Medium
+  - :name: SourceCodePro-Regular
+    :file_name: SourceCodePro-Regular
+  - :name: SourceCodePro-Semibold
+    :file_name: SourceCodePro-Semibold
+- :family: Source Sans Pro
+  :designer: Paul D. Hunt
+  :license: OFL
+  :directory: sourcesanspro
+  :fonts:
+  - :name: SourceSansPro-Black
+    :file_name: SourceSansPro-Black
+  - :name: SourceSansPro-BlackIt
+    :file_name: SourceSansPro-BlackItalic
+  - :name: SourceSansPro-Bold
+    :file_name: SourceSansPro-Bold
+  - :name: SourceSansPro-BoldIt
+    :file_name: SourceSansPro-BoldItalic
+  - :name: SourceSansPro-ExtraLight
+    :file_name: SourceSansPro-ExtraLight
+  - :name: SourceSansPro-ExtraLightIt
+    :file_name: SourceSansPro-ExtraLightItalic
+  - :name: SourceSansPro-It
+    :file_name: SourceSansPro-Italic
+  - :name: SourceSansPro-Light
+    :file_name: SourceSansPro-Light
+  - :name: SourceSansPro-LightIt
+    :file_name: SourceSansPro-LightItalic
+  - :name: SourceSansPro-Regular
+    :file_name: SourceSansPro-Regular
+  - :name: SourceSansPro-Semibold
+    :file_name: SourceSansPro-Semibold
+  - :name: SourceSansPro-SemiboldIt
+    :file_name: SourceSansPro-SemiboldItalic
+- :family: Source Serif Pro
+  :designer: Frank Grießhammer
+  :license: OFL
+  :directory: sourceserifpro
+  :fonts:
+  - :name: SourceSerifPro-Bold
+    :file_name: SourceSerifPro-Bold
+  - :name: SourceSerifPro-Regular
+    :file_name: SourceSerifPro-Regular
+  - :name: SourceSerifPro-Semibold
+    :file_name: SourceSerifPro-Semibold
+- :family: Special Elite
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: specialelite
+  :fonts:
+  - :name: SpecialElite-Regular
+    :file_name: SpecialElite
+- :family: Spicy Rice
+  :designer: Astigmatic
+  :license: OFL
+  :directory: spicyrice
+  :fonts:
+  - :name: SpicyRice-Regular
+    :file_name: SpicyRice-Regular
+- :family: Spinnaker
+  :designer: Elena Albertoni
+  :license: OFL
+  :directory: spinnaker
+  :fonts:
+  - :name: Spinnaker-Regular
+    :file_name: Spinnaker-Regular
+- :family: Spirax
+  :designer: Brenda Gallo
+  :license: OFL
+  :directory: spirax
+  :fonts:
+  - :name: Spirax-Regular
+    :file_name: Spirax-Regular
+- :family: Squada One
+  :designer: Joe Prince
+  :license: OFL
+  :directory: squadaone
+  :fonts:
+  - :name: SquadaOne-Regular
+    :file_name: SquadaOne-Regular
+- :family: Sree Krushnadevaraya
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: sreekrushnadevaraya
+  :fonts:
+  - :name: SreeKrushnadevaraya
+    :file_name: SreeKrushnadevaraya-Regular
+- :family: Stalemate
+  :designer: Astigmatic
+  :license: OFL
+  :directory: stalemate
+  :fonts:
+  - :name: Stalemate-Regular
+    :file_name: Stalemate-Regular
+- :family: Stalinist One
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: stalinistone
+  :fonts:
+  - :name: StalinistOne-Regular
+    :file_name: StalinistOne-Regular
+- :family: Stalin One
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: stalinone
+  :fonts:
+  - :name: StalinOne-Regular
+    :file_name: StalinOne-Regular
+- :family: Stardos Stencil
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: stardosstencil
+  :fonts:
+  - :name: StardosStencil-Regular
+    :file_name: StardosStencil-Regular
+  - :name: StardosStencil-Bold
+    :file_name: StardosStencil-Bold
+- :family: Stint Ultra Condensed
+  :designer: Astigmatic
+  :license: OFL
+  :directory: stintultracondensed
+  :fonts:
+  - :name: StintUltraCondensed-Regular
+    :file_name: StintUltraCondensed-Regular
+- :family: Stint Ultra Expanded
+  :designer: Astigmatic
+  :license: OFL
+  :directory: stintultraexpanded
+  :fonts:
+  - :name: StintUltraExpanded-Regular
+    :file_name: StintUltraExpanded-Regular
+- :family: Stoke
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: stoke
+  :fonts:
+  - :name: Stoke-Light
+    :file_name: Stoke-Light
+  - :name: Stoke-Regular
+    :file_name: Stoke-Regular
+- :family: Strait
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: strait
+  :fonts:
+  - :name: Strait-Regular
+    :file_name: Strait-Regular
+- :family: Strong
+  :designer: Gaslight
+  :license: OFL
+  :directory: strong
+  :fonts:
+  - :name: Strong-Regular
+    :file_name: Strong-Regular
+- :family: Sue Ellen Francisco
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: sueellenfrancisco
+  :fonts:
+  - :name: SueEllenFrancisco
+    :file_name: SueEllenFrancisco
+- :family: Sumana
+  :designer: Cyreal
+  :license: OFL
+  :directory: sumana
+  :fonts:
+  - :name: Sumana-Bold
+    :file_name: Sumana-Bold
+  - :name: Sumana-Regular
+    :file_name: Sumana-Regular
+- :family: Sunshiney
+  :designer: Sideshow
+  :license: Apache2
+  :directory: sunshiney
+  :fonts:
+  - :name: Sunshiney
+    :file_name: Sunshiney
+- :family: Supermercado One
+  :designer: James Grieshaber
+  :license: OFL
+  :directory: supermercadoone
+  :fonts:
+  - :name: SupermercadoOne-Regular
+    :file_name: SupermercadoOne-Regular
+- :family: Suranna
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: suranna
+  :fonts:
+  - :name: Suranna
+    :file_name: Suranna-Regular
+- :family: Suravaram
+  :designer: Purushoth Kumar Guttula
+  :license: OFL
+  :directory: suravaram
+  :fonts:
+  - :name: Suravaram
+    :file_name: Suravaram-Regular
+- :family: Suwannaphum
+  :designer: Danh Hong
+  :license: OFL
+  :directory: suwannaphum
+  :fonts:
+  - :name: Suwannaphum
+    :file_name: Suwannaphum
+- :family: Swanky and Moo Moo
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: swankyandmoomoo
+  :fonts:
+  - :name: SwankyandMooMoo
+    :file_name: SwankyandMooMoo
+- :family: Syncopate
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: syncopate
+  :fonts:
+  - :name: Syncopate-Regular
+    :file_name: Syncopate-Regular
+  - :name: Syncopate-Bold
+    :file_name: Syncopate-Bold
+- :family: Tangerine
+  :designer: Toshi Omagari
+  :license: OFL
+  :directory: tangerine
+  :fonts:
+  - :name: Tangerine
+    :file_name: Tangerine_Regular
+  - :name: Tangerine-Bold
+    :file_name: Tangerine_Bold
+- :family: Taprom
+  :designer: Danh Hong
+  :license: OFL
+  :directory: taprom
+  :fonts:
+  - :name: Taprom
+    :file_name: Taprom
+- :family: Tauri
+  :designer: Yvonne Schüttler
+  :license: OFL
+  :directory: tauri
+  :fonts:
+  - :name: Tauri-Regular
+    :file_name: Tauri-Regular
+- :family: Teko
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: teko
+  :fonts:
+  - :name: Teko-Bold
+    :file_name: Teko-Bold
+  - :name: Teko-Light
+    :file_name: Teko-Light
+  - :name: Teko-Medium
+    :file_name: Teko-Medium
+  - :name: Teko-Regular
+    :file_name: Teko-Regular
+  - :name: Teko-SemiBold
+    :file_name: Teko-SemiBold
+- :family: Telex
+  :designer: Huerta Tipográfica
+  :license: OFL
+  :directory: telex
+  :fonts:
+  - :name: Telex-Regular
+    :file_name: Telex-Regular
+- :family: Tenali Ramakrishna
+  :designer: Appaji Ambarisha Darbha
+  :license: OFL
+  :directory: tenaliramakrishna
+  :fonts:
+  - :name: TenaliRamakrishna
+    :file_name: TenaliRamakrishna-Regular
+- :family: Tenor Sans
+  :designer: Denis Masharov
+  :license: OFL
+  :directory: tenorsans
+  :fonts:
+  - :name: TenorSans
+    :file_name: TenorSans-Regular
+- :family: Terminal Dosis
+  :designer: Pablo Impallari
+  :license: OFL
+  :directory: terminaldosis
+  :fonts:
+  - :name: TerminalDosis-ExtraLight
+    :file_name: TerminalDosis-ExtraLight
+  - :name: TerminalDosis-Light
+    :file_name: TerminalDosis-Light
+  - :name: TerminalDosis-Regular
+    :file_name: TerminalDosis-Regular
+  - :name: TerminalDosis-Medium
+    :file_name: TerminalDosis-Medium
+  - :name: TerminalDosis-SemiBold
+    :file_name: TerminalDosis-SemiBold
+  - :name: TerminalDosis-Bold
+    :file_name: TerminalDosis-Bold
+  - :name: TerminalDosis-ExtraBold
+    :file_name: TerminalDosis-ExtraBold
+- :family: Terminal Dosis Light
+  :designer: multiple designers
+  :license: OFL
+  :directory: terminaldosislight
+  :fonts:
+  - :name: TerminalDosis-Light
+    :file_name: TerminalDosis-Light
+- :family: Text Me One
+  :designer: Julia Petretta
+  :license: OFL
+  :directory: textmeone
+  :fonts:
+  - :name: TextMeOne-Regular
+    :file_name: TextMeOne-Regular
+- :family: Thabit
+  :designer: Khaled Hosny
+  :license: OFL
+  :directory: thabit
+  :fonts:
+  - :name: Thabit
+    :file_name: Thabit
+  - :name: Thabit-Oblique
+    :file_name: Thabit-Oblique
+  - :name: Thabit-Bold
+    :file_name: Thabit-Bold
+  - :name: Thabit-Bold-Oblique
+    :file_name: Thabit-BoldOblique
+- :family: The Girl Next Door
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: thegirlnextdoor
+  :fonts:
+  - :name: TheGirlNextDoor
+    :file_name: TheGirlNextDoor
+- :family: Tienne
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: tienne
+  :fonts:
+  - :name: Tienne-Regular
+    :file_name: Tienne-Regular
+  - :name: Tienne-Bold
+    :file_name: Tienne-Bold
+  - :name: Tienne-Heavy
+    :file_name: Tienne-Heavy
+- :family: Tillana
+  :designer: Indian Type Foundry
+  :license: OFL
+  :directory: tillana
+  :fonts:
+  - :name: Tillana-Bold
+    :file_name: Tillana-Bold
+  - :name: Tillana-ExtraBold
+    :file_name: Tillana-ExtraBold
+  - :name: Tillana-Medium
+    :file_name: Tillana-Medium
+  - :name: Tillana-Regular
+    :file_name: Tillana-Regular
+  - :name: Tillana-SemiBold
+    :file_name: Tillana-SemiBold
+- :family: Timmana
+  :designer: Appaji Ambarisha Darbha
+  :license: OFL
+  :directory: timmana
+  :fonts:
+  - :name: Timmana
+    :file_name: Timmana-Regular
+- :family: Tinos
+  :designer: Steve Matteson
+  :license: Apache2
+  :directory: tinos
+  :fonts:
+  - :name: Tinos-Bold
+    :file_name: Tinos-Bold
+  - :name: Tinos-BoldItalic
+    :file_name: Tinos-BoldItalic
+  - :name: Tinos-Italic
+    :file_name: Tinos-Italic
+  - :name: Tinos
+    :file_name: Tinos-Regular
+- :family: Titan One
+  :designer: Rodrigo Fuenzalida
+  :license: OFL
+  :directory: titanone
+  :fonts:
+  - :name: TitanOne
+    :file_name: TitanOne-Regular
+- :family: Titillium Web
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: titilliumweb
+  :fonts:
+  - :name: TitilliumWeb-Black
+    :file_name: TitilliumWeb-Black
+  - :name: TitilliumWeb-Bold
+    :file_name: TitilliumWeb-Bold
+  - :name: TitilliumWeb-BoldItalic
+    :file_name: TitilliumWeb-BoldItalic
+  - :name: TitilliumWeb-Thin
+    :file_name: TitilliumWeb-ExtraLight
+  - :name: TitilliumWeb-ThinItalic
+    :file_name: TitilliumWeb-ExtraLightItalic
+  - :name: TitilliumWeb-Italic
+    :file_name: TitilliumWeb-Italic
+  - :name: TitilliumWeb-Light
+    :file_name: TitilliumWeb-Light
+  - :name: TitilliumWeb-LightItalic
+    :file_name: TitilliumWeb-LightItalic
+  - :name: TitilliumWeb-Regular
+    :file_name: TitilliumWeb-Regular
+  - :name: TitilliumWeb-SemiBold
+    :file_name: TitilliumWeb-SemiBold
+  - :name: TitilliumWeb-SemiBoldItalic
+    :file_name: TitilliumWeb-SemiBoldItalic
+- :family: Trade Winds
+  :designer: Sideshow
+  :license: OFL
+  :directory: tradewinds
+  :fonts:
+  - :name: TradeWinds
+    :file_name: TradeWinds-Regular
+- :family: Trocchi
+  :designer: Vernon Adams
+  :license: OFL
+  :directory: trocchi
+  :fonts:
+  - :name: Trocchi
+    :file_name: Trocchi-Regular
+- :family: Trochut
+  :designer: Andreu Balius
+  :license: OFL
+  :directory: trochut
+  :fonts:
+  - :name: Trochut
+    :file_name: Trochut-Regular
+  - :name: Trochut-Italic
+    :file_name: Trochut-Italic
+  - :name: Trochut-Bold
+    :file_name: Trochut-Bold
+- :family: Trykker
+  :designer: Magnus Gaarde
+  :license: OFL
+  :directory: trykker
+  :fonts:
+  - :name: Trykker-Regular
+    :file_name: Trykker-Regular
+- :family: Tuffy
+  :designer: Thatcher Ulrich
+  :license: OFL
+  :directory: tuffy
+  :fonts:
+  - :name: Tuffy-Regular
+    :file_name: Tuffy-Regular
+  - :name: Tuffy-Italic
+    :file_name: Tuffy-Italic
+  - :name: Tuffy-Bold
+    :file_name: Tuffy-Bold
+  - :name: Tuffy-BoldItalic
+    :file_name: Tuffy-BoldItalic
+- :family: Tulpen One
+  :designer: Naima Ben Ayed
+  :license: OFL
+  :directory: tulpenone
+  :fonts:
+  - :name: TulpenOne-Regular
+    :file_name: TulpenOne-Regular
+- :family: Ubuntu
+  :designer: Dalton Maag
+  :license: UFL
+  :directory: ubuntu
+  :fonts:
+  - :name: Ubuntu-Light
+    :file_name: Ubuntu-Light
+  - :name: Ubuntu-LightItalic
+    :file_name: Ubuntu-LightItalic
+  - :name: Ubuntu
+    :file_name: Ubuntu-Regular
+  - :name: Ubuntu-Italic
+    :file_name: Ubuntu-Italic
+  - :name: Ubuntu-Medium
+    :file_name: Ubuntu-Medium
+  - :name: Ubuntu-MediumItalic
+    :file_name: Ubuntu-MediumItalic
+  - :name: Ubuntu-Bold
+    :file_name: Ubuntu-Bold
+  - :name: Ubuntu-BoldItalic
+    :file_name: Ubuntu-BoldItalic
+- :family: Ubuntu Condensed
+  :designer: Dalton Maag
+  :license: UFL
+  :directory: ubuntucondensed
+  :fonts:
+  - :name: UbuntuCondensed-Regular
+    :file_name: UbuntuCondensed-Regular
+- :family: Ubuntu Mono
+  :designer: Dalton Maag
+  :license: UFL
+  :directory: ubuntumono
+  :fonts:
+  - :name: UbuntuMono-Regular
+    :file_name: UbuntuMono-Regular
+  - :name: UbuntuMono-Italic
+    :file_name: UbuntuMono-Italic
+  - :name: UbuntuMono-Bold
+    :file_name: UbuntuMono-Bold
+  - :name: UbuntuMono-BoldItalic
+    :file_name: UbuntuMono-BoldItalic
+- :family: Ultra
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: ultra
+  :fonts:
+  - :name: Ultra
+    :file_name: Ultra
+- :family: Uncial Antiqua
+  :designer: Astigmatic
+  :license: OFL
+  :directory: uncialantiqua
+  :fonts:
+  - :name: UncialAntiqua-Regular
+    :file_name: UncialAntiqua-Regular
+- :family: Underdog
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: underdog
+  :fonts:
+  - :name: Underdog-Regular
+    :file_name: Underdog-Regular
+- :family: Unica One
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: unicaone
+  :fonts:
+  - :name: UnicaOne-Regular
+    :file_name: UnicaOne-Regular
+- :family: UnifrakturCook
+  :designer: j. 'mach' wust
+  :license: OFL
+  :directory: unifrakturcook
+  :fonts:
+  - :name: UnifrakturCook-Bold
+    :file_name: UnifrakturCook-Bold
+- :family: UnifrakturMaguntia
+  :designer: j. 'mach' wust
+  :license: OFL
+  :directory: unifrakturmaguntia
+  :fonts:
+  - :name: UnifrakturMaguntia
+    :file_name: UnifrakturMaguntia-Book
+- :family: Unkempt
+  :designer: Sideshow
+  :license: Apache2
+  :directory: unkempt
+  :fonts:
+  - :name: Unkempt
+    :file_name: Unkempt-Regular
+  - :name: Unkempt-Bold
+    :file_name: Unkempt-Bold
+- :family: Unlock
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: unlock
+  :fonts:
+  - :name: Unlock-Regular
+    :file_name: Unlock-Regular
+- :family: Unna
+  :designer: Omnibus-Type
+  :license: OFL
+  :directory: unna
+  :fonts:
+  - :name: Unna-Regular
+    :file_name: Unna-Regular
+- :family: Vampiro One
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: vampiroone
+  :fonts:
+  - :name: VampiroOne-Regular
+    :file_name: VampiroOne-Regular
+- :family: Varela
+  :designer: Joe Prince
+  :license: OFL
+  :directory: varela
+  :fonts:
+  - :name: Varela
+    :file_name: Varela-Regular
+- :family: Varela Round
+  :designer: Joe Prince
+  :license: OFL
+  :directory: varelaround
+  :fonts:
+  - :name: VarelaRound-Regular
+    :file_name: VarelaRound-Regular
+- :family: Varta
+  :designer: Sorkin Type Co
+  :license: OFL
+  :directory: varta
+  :fonts:
+  - :name: Varta-Light
+    :file_name: Varta-Light
+  - :name: Varta-Regular
+    :file_name: Varta-Regular
+  - :name: VartaSemiBold
+    :file_name: Varta-SemiBold
+  - :name: Varta-Bold
+    :file_name: Varta-Bold
+- :family: Vast Shadow
+  :designer: Nicole Fally
+  :license: OFL
+  :directory: vastshadow
+  :fonts:
+  - :name: VastShadow-Regular
+    :file_name: VastShadow-Regular
+- :family: Vesper Libre
+  :designer: Mota Italic
+  :license: OFL
+  :directory: vesperlibre
+  :fonts:
+  - :name: VesperLibre-Regular
+    :file_name: VesperLibre-Regular
+  - :name: VesperLibre-Medium
+    :file_name: VesperLibre-Medium
+  - :name: VesperLibre-Bold
+    :file_name: VesperLibre-Bold
+  - :name: VesperLibre-Heavy
+    :file_name: VesperLibre-Heavy
+- :family: Vibur
+  :designer: Johan Kallas
+  :license: OFL
+  :directory: vibur
+  :fonts:
+  - :name: Vibur
+    :file_name: Vibur-Regular
+- :family: Vidaloka
+  :designer: Cyreal
+  :license: OFL
+  :directory: vidaloka
+  :fonts:
+  - :name: Vidaloka-Regular
+    :file_name: Vidaloka-Regular
+- :family: Viga
+  :designer: Fontstage
+  :license: OFL
+  :directory: viga
+  :fonts:
+  - :name: Viga-Regular
+    :file_name: Viga-Regular
+- :family: Voces
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: voces
+  :fonts:
+  - :name: Voces-Regular
+    :file_name: Voces-Regular
+- :family: Volkhov
+  :designer: Cyreal
+  :license: OFL
+  :directory: volkhov
+  :fonts:
+  - :name: Volkhov-Regular
+    :file_name: Volkhov-Regular
+  - :name: Volkhov-Italic
+    :file_name: Volkhov-Italic
+  - :name: Volkhov-Bold
+    :file_name: Volkhov-Bold
+  - :name: Volkhov-BoldItalic
+    :file_name: Volkhov-BoldItalic
+- :family: Vollkorn
+  :designer: Friedrich Althausen
+  :license: OFL
+  :directory: vollkorn
+  :fonts:
+  - :name: Vollkorn-Regular
+    :file_name: Vollkorn-Regular
+  - :name: Vollkorn-Italic
+    :file_name: Vollkorn-Italic
+  - :name: Vollkorn-Bold
+    :file_name: Vollkorn-Bold
+  - :name: Vollkorn-BoldItalic
+    :file_name: Vollkorn-BoldItalic
+- :family: Voltaire
+  :designer: Yvonne Schüttler
+  :license: OFL
+  :directory: voltaire
+  :fonts:
+  - :name: Voltaire
+    :file_name: Voltaire-Regular
+- :family: VT323
+  :designer: Peter Hull
+  :license: OFL
+  :directory: vt323
+  :fonts:
+  - :name: VT323-Regular
+    :file_name: VT323-Regular
+- :family: Waiting for the Sunrise
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: waitingforthesunrise
+  :fonts:
+  - :name: WaitingfortheSunrise
+    :file_name: WaitingfortheSunrise
+- :family: Wallpoet
+  :designer: Lars Berggren
+  :license: OFL
+  :directory: wallpoet
+  :fonts:
+  - :name: Wallpoet
+    :file_name: Wallpoet-Regular
+- :family: Walter Turncoat
+  :designer: Sideshow
+  :license: Apache2
+  :directory: walterturncoat
+  :fonts:
+  - :name: WalterTurncoat
+    :file_name: WalterTurncoat
+- :family: Warnes
+  :designer: Eduardo Tunni
+  :license: OFL
+  :directory: warnes
+  :fonts:
+  - :name: Warnes-Regular
+    :file_name: Warnes-Regular
+- :family: Wellfleet
+  :designer: Riccardo De Franceschi
+  :license: OFL
+  :directory: wellfleet
+  :fonts:
+  - :name: Wellfleet-Regular
+    :file_name: Wellfleet-Regular
+- :family: Wendy One
+  :designer: Alejandro Inler
+  :license: OFL
+  :directory: wendyone
+  :fonts:
+  - :name: WendyOne-Regular
+    :file_name: WendyOne-Regular
+- :family: Wire One
+  :designer: Cyreal
+  :license: OFL
+  :directory: wireone
+  :fonts:
+  - :name: WireOne
+    :file_name: WireOne
+- :family: Yanone Kaffeesatz
+  :designer: Multiple Designers
+  :license: OFL
+  :directory: yanonekaffeesatz
+  :fonts:
+  - :name: YanoneKaffeesatz-Bold
+    :file_name: YanoneKaffeesatz-Bold
+  - :name: YanoneKaffeesatz-ExtraLight
+    :file_name: YanoneKaffeesatz-ExtraLight
+  - :name: YanoneKaffeesatz-Light
+    :file_name: YanoneKaffeesatz-Light
+  - :name: YanoneKaffeesatz-Regular
+    :file_name: YanoneKaffeesatz-Regular
+- :family: Yellowtail
+  :designer: Astigmatic
+  :license: Apache2
+  :directory: yellowtail
+  :fonts:
+  - :name: Yellowtail
+    :file_name: Yellowtail-Regular
+- :family: Yeseva One
+  :designer: Jovanny Lemonad
+  :license: OFL
+  :directory: yesevaone
+  :fonts:
+  - :name: YesevaOne
+    :file_name: YesevaOne-Regular
+- :family: Yesteryear
+  :designer: Astigmatic
+  :license: OFL
+  :directory: yesteryear
+  :fonts:
+  - :name: Yesteryear-Regular
+    :file_name: Yesteryear-Regular
+- :family: Zeyada
+  :designer: Kimberly Geswein
+  :license: OFL
+  :directory: zeyada
+  :fonts:
+  - :name: Zeyada
+    :file_name: Zeyada
