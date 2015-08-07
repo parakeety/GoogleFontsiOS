@@ -8,7 +8,7 @@ asset_path = 'Pod/Assets/Fonts/'
 spec = <<-EOS
 Pod::Spec.new do |s|
   s.name = 'GoogleFontsiOS'
-  s.version = '0.1'
+  s.version = '0.1.1'
   s.license = 'MIT'
   s.summary = 'GoogleFontsiOS is a collection of CococPods subspec encapsulating Google Fonts.'
   s.author = 'Yohei Okada'
