@@ -18,7 +18,7 @@ font_list.each do |font|
   EOS
 
   method_declarations = font[:fonts].map do |style|
-    style_in_camel = style[:name].camelize(:lower).gsub!('-', '')
+    style_in_camel = style[:name].gsub(/_|-/, '').camelize(:lower)
     "+ (instancetype)#{style_in_camel}FontOfSize:(CGFloat)size;\n"
   end
 
@@ -48,7 +48,7 @@ font_list.each do |font|
 
   method_bodies = font[:fonts].map do |style|
     style_name = style[:name]
-    style_in_camel = style[:name].camelize(:lower).gsub!('-', '')
+    style_in_camel = style_name.gsub(/_|-/, '').camelize(:lower)
     style_file_name = style[:file_name]
     method = <<-EOS
 + (instancetype)#{style_in_camel}FontOfSize:(CGFloat)size {
