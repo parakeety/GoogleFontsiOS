@@ -25,6 +25,10 @@ Each font has a corresponding header and implementaton file in the form of UIFon
 @end
 ```
 
+```objective-c
+UIFont *font = [UIFont aBeeZeeRegularFontOfSize:12.0f];
+```
+
 
 ## License
 The code itself is under MIT License. The fonts belong to their respective owners and are under corresponding licenses.
